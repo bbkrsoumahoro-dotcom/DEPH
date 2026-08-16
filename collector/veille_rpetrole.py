@@ -1,41 +1,26 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ENERGY SENTINEL CI — Collecteur v1
+ENERGY SENTINEL CI — Collecteur v1.1
 Veiller. Vérifier. Expliquer. Valoriser.
 
-Évolution du script "veille_renseignement.py" :
-- Sources recentrées sur Hydrocarbures / Mines & Géologie / Énergie
-  (Côte d'Ivoire > Afrique > International), au lieu du périmètre
-  sécurité/renseignement général du script d'origine.
-- Suppression complète du module de recherche d'images/vidéos via
-  scraping Google Images, Bing Images, YouTube, Facebook, X — ce
-  module était fragile et contraire à l'exigence de contenu
-  "légalement utilisable" (voir le prompt maître du projet).
-- Aucun identifiant en dur : tout passe par des variables
-  d'environnement (voir la section CONFIG ci-dessous).
-- Ajout du système de priorité ROUGE/ORANGE/VERT/BLEU et du statut
-  de fiabilité (confirmé / à confirmer) demandés dans le cahier des
-  charges.
-- Ajout d'une fonction de génération de synthèse textuelle inspirée
-  du gabarit "Synthèse de presse" fourni (sections CI / Continent /
-  International, titres en gras, chapô en italique, paragraphe de
-  résumé).
-- Ajout d'un export JSON (data/items.json + data/sources.json) qui
-  alimente directement le tableau de bord statique index.html. Cet
-  export tourne après chaque cycle de collecte et peut aussi être
-  déclenché seul avec --export. Voir .github/workflows/veille.yml
-  pour l'automatisation via GitHub Actions.
-
-IMPORTANT :
-- Les URL marquées comme "site à confirmer" dans SOURCES n'ont pas
-  de flux RSS officiel identifié : elles sont scrapées via la page
-  d'actualités du site avec un extracteur générique. Ce n'est pas
-  aussi fiable qu'un vrai flux RSS et devra être affiné site par
-  site (chaque site a sa propre structure HTML).
-- Ce script ne doit jamais inventer ou publier une information non
-  vérifiée comme un fait confirmé : toute information à source
-  unique est marquée fiabilite="a_confirmer".
+Corrections apportées suite au premier hébergement (v1.0) :
+- collecter_rss() : le parsing XML de secours (quand feedparser n'est pas
+  installé) utilisait BeautifulSoup(..., "xml"), qui nécessite le paquet
+  "lxml". S'il n'est pas installé, cela levait une exception silencieuse
+  (attrapée, donc pas de crash visible, mais 0 article RSS collecté sur
+  TOUTES les sources RSS). Le script tente maintenant "lxml-xml", puis
+  "html.parser" en repli, et prévient clairement si aucun des deux ne
+  fonctionne plutôt que de rater silencieusement toute la collecte RSS.
+- requirements.txt ajouté (voir collector/requirements.txt) : c'est la
+  cause la plus probable du "ça reste en mode démo" observé après
+  hébergement — si feedparser/beautifulsoup4/lxml/requests ne sont pas
+  installés dans l'environnement qui exécute ce script (ex. runner
+  GitHub Actions), le script plante à l'import et data/items.json n'est
+  jamais généré, donc index.html retombe sur les données de démonstration.
+- Message d'usage (CLI) corrigé pour afficher le vrai nom du fichier
+  exécuté plutôt qu'un nom en dur possiblement différent.
+- Aucune autre logique métier n'a été modifiée par rapport à la v1.0.
 """
 
 import os
@@ -254,6 +239,13 @@ SOURCES_OFFICIELLES = {
 # COLLECTE RSS
 # ============================================================
 
+def _parser_xml_disponible(nom_parser):
+    try:
+        BeautifulSoup("<a></a>", nom_parser)
+        return True
+    except Exception:
+        return False
+
 def collecter_rss(source, categorie):
     resultats = []
     try:
@@ -262,7 +254,15 @@ def collecter_rss(source, categorie):
             entries = flux.entries
         else:
             r = requests.get(source["url"], headers=HEADERS, timeout=REQUEST_TIMEOUT)
-            soup = BeautifulSoup(r.content, "xml")
+            # "xml" nécessite lxml. On tente lxml-xml puis on retombe sur
+            # html.parser (moins précis mais toujours disponible en stdlib
+            # via bs4) plutôt que de planter et rater toute la source.
+            parser_choisi = None
+            for candidat in ("lxml-xml", "xml", "html.parser"):
+                if _parser_xml_disponible(candidat):
+                    parser_choisi = candidat
+                    break
+            soup = BeautifulSoup(r.content, parser_choisi or "html.parser")
             entries = []
             for item in soup.find_all("item"):
                 entries.append({
@@ -566,6 +566,7 @@ def boucle_principale():
     conn.close()
 
 if __name__ == "__main__":
+    script_name = os.path.basename(sys.argv[0])
     if len(sys.argv) > 1:
         arg = sys.argv[1]
         if arg in ("--once", "-1"):
@@ -577,6 +578,6 @@ if __name__ == "__main__":
         elif arg in ("--export", "-e"):
             exporter_json_cli()
         else:
-            print("Usage : python veille_rpetrole.py [--once|--stats|--synthese|--export]")
+            print(f"Usage : python {script_name} [--once|--stats|--synthese|--export]")
     else:
         boucle_principale()
