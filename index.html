@@ -674,7 +674,7 @@ function renderDash(){
     <div class="stat-card"><div class="num">${items.length}</div><div class="label">${infoLabel}</div></div>
     <div class="stat-card"><div class="num">${counts.rouge}</div><div class="label">Alertes rouges</div></div>
     <div class="stat-card"><div class="num">${counts.orange}</div><div class="label">Important</div></div>
-    <div class="stat-card"><div class="num">${items.filter(i=>i.fiabilite==='attente').length}</div><div class="label">À confirmer</div></div>
+    <div class="stat-card"><div class="num">${items.filter(i=>i.fiabilite==='a_confirmer').length}</div><div class="label">À confirmer</div></div>
     <div class="stat-card"><div class="num">${items.filter(i=>i.zone==='ci').length}</div><div class="label">Côte d'Ivoire</div></div>
   `;
 
