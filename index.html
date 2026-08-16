@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>ENERGY SENTINEL CI — Veiller. Vérifier. Expliquer. Valoriser.</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   ENERGY SENTINEL CI — Design tokens
+   Palette ancrée dans le sujet :
+   - ambre  = hydrocarbures (brut, torchère)
+   - cuivre = mines & géologie (minerai, strates)
+   - sarcelle = énergie / électricité / renouvelables
+   - orange & vert = clin d'œil au drapeau ivoirien (le pays reste
+     toujours la priorité de niveau 1 du dispositif)
+   ============================================================ */
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Inter',system-ui,-apple-system,sans-serif;scroll-behavior:smooth}
+:root{
+  --bg:#0a0c10;--surface:#10131a;--card:#141822;--card2:#1a1f2c;
+  --text:#eef1f6;--text2:#8a93a8;--border:#232939;--radius:14px;
+  --shadow:0 8px 32px rgba(0,0,0,.55);
+  --oil:#e6a13a;        /* hydrocarbures */
+  --copper:#c1652f;     /* mines & géologie */
+  --teal:#22b8a0;       /* énergie / électricité */
+  --ci-orange:#ff8200;  /* Côte d'Ivoire */
+  --ci-green:#00a651;   /* Côte d'Ivoire */
+  --rouge:#ff3b30;--orange-p:#ff9500;--vert-p:#34c759;--bleu-p:#0a84ff;
+  --gradient:linear-gradient(135deg,var(--oil),var(--copper));
+  --transition:all .2s cubic-bezier(.4,0,.2,1);
+  --font-display:'Space Grotesk',sans-serif;--font-mono:'JetBrains Mono',monospace;
+}
+body{background:var(--bg);color:var(--text);min-height:100vh;background-image:radial-gradient(ellipse at 15% 0%,rgba(230,161,58,.05) 0%,transparent 45%),radial-gradient(ellipse at 90% 100%,rgba(34,184,160,.05) 0%,transparent 45%)}
+h1,h2,h3,.logo-text,.page-title{font-family:var(--font-display)}
+.mono{font-family:var(--font-mono)}
+
+/* ===== SIDEBAR ===== */
+.sidebar{position:fixed;top:0;left:0;bottom:0;width:56px;background:rgba(10,12,16,.98);border-right:1px solid var(--border);z-index:999;display:flex;flex-direction:column;align-items:center;padding:8px 0;overflow-y:auto;overflow-x:hidden;scrollbar-width:none;backdrop-filter:blur(10px);transition:width .22s cubic-bezier(.4,0,.2,1)}
+.sidebar::-webkit-scrollbar{display:none}
+.sidebar:hover{width:220px}
+.sidebar .logo-mini{display:flex;align-items:center;gap:9px;padding:6px 12px;margin-bottom:8px;width:100%}
+.logo-icon{width:30px;height:30px;flex-shrink:0;border-radius:8px;background:var(--gradient);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:800;color:#0a0c10;box-shadow:0 0 20px rgba(230,161,58,.35)}
+.sidebar .logo-text{font-size:11px;font-weight:700;letter-spacing:.3px;white-space:nowrap;display:none;color:var(--text)}
+.sidebar:hover .logo-text{display:block}
+.sidebar .nav-item{display:flex;align-items:center;gap:10px;padding:8px 13px;border-radius:8px;font-size:11px;font-weight:500;color:var(--text2);text-decoration:none;cursor:pointer;white-space:nowrap;width:100%;transition:var(--transition);margin:1px 5px;position:relative}
+.sidebar .nav-item:hover,.sidebar .nav-item.active{color:var(--oil);background:var(--card)}
+.sidebar .nav-item.active::after{content:'';position:absolute;left:0;top:22%;height:56%;width:2px;background:var(--oil);border-radius:0 2px 2px 0}
+.sidebar .nav-item .nav-icon{font-size:15px;width:22px;text-align:center;flex-shrink:0}
+.sidebar .nav-item .nav-label{display:none}
+.sidebar:hover .nav-item .nav-label{display:inline}
+.nav-divider{width:80%;height:1px;background:var(--border);margin:6px 0}
+.nav-section-label{display:none;font-size:8px;text-transform:uppercase;letter-spacing:.6px;color:var(--text2);padding:4px 13px 2px;font-weight:600}
+.sidebar:hover .nav-section-label{display:block}
+
+/* ===== TOP BAR ===== */
+.top-bar{position:fixed;top:0;left:56px;right:0;height:48px;background:rgba(10,12,16,.95);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 16px;z-index:900;backdrop-filter:blur(10px)}
+.page-title{font-size:14px;font-weight:700}
+.page-sub{font-size:9px;color:var(--text2);margin-left:10px}
+.top-actions{display:flex;align-items:center;gap:6px;margin-left:auto}
+.top-actions button{width:30px;height:30px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--text2);cursor:pointer;font-size:12px;transition:var(--transition)}
+.top-actions button:hover{border-color:var(--oil);color:var(--oil)}
+.status-pill{display:flex;align-items:center;gap:6px;padding:4px 10px;border-radius:8px;font-size:9px;font-weight:600;transition:var(--transition)}
+.status-pill.demo{background:rgba(230,161,58,.1);border:1px solid rgba(230,161,58,.35);color:var(--oil)}
+.status-pill.live{background:rgba(34,184,160,.1);border:1px solid rgba(34,184,160,.35);color:var(--teal)}
+.status-pill.empty{background:rgba(138,147,168,.1);border:1px solid rgba(138,147,168,.35);color:var(--text2)}
+.status-pill .dot{width:6px;height:6px;border-radius:50%;background:currentColor;animation:pulseDot 2s ease-in-out infinite}
+@keyframes pulseDot{0%,100%{opacity:1}50%{opacity:.35}}
+
+/* ===== CONTENT ===== */
+.content{max-width:1440px;margin:48px 16px 0 72px;padding:16px;width:auto}
+.page{display:none;animation:fadeIn .2s ease}.page.active{display:block}
+@keyframes fadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+.page-head{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+.page-head h2{font-size:19px;margin-bottom:3px}
+.page-head p{color:var(--text2);font-size:10.5px}
+
+/* ===== GRID / CARD ===== */
+.grid{display:grid;gap:10px}
+.grid-2{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}
+.grid-3{grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+.grid-4{grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+.card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:15px;transition:var(--transition);position:relative;overflow:hidden}
+.card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--gradient);opacity:0;transition:opacity .25s}
+.card:hover{transform:translateY(-3px);border-color:var(--oil);box-shadow:var(--shadow)}
+.card:hover::before{opacity:1}
+.card-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:9px}
+.card-header h3{font-size:12px;font-weight:600}
+
+/* ===== BUTTONS / INPUTS ===== */
+.btn{padding:7px 14px;border-radius:8px;border:none;font-size:10px;font-weight:600;cursor:pointer;display:inline-flex;align-items:center;gap:6px;font-family:inherit;transition:var(--transition)}
+.btn-primary{background:var(--gradient);color:#0a0c10}
+.btn-primary:hover{box-shadow:0 4px 18px rgba(230,161,58,.3);transform:translateY(-1px)}
+.btn-outline{background:transparent;border:1px solid var(--border);color:var(--text2)}
+.btn-outline:hover{border-color:var(--oil);color:var(--oil)}
+.btn-sm{padding:5px 11px;font-size:9px;border-radius:6px}
+.input,.select,.textarea{padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:10.5px;width:100%;outline:none;font-family:inherit;transition:var(--transition)}
+.input:focus,.select:focus,.textarea:focus{border-color:var(--oil);box-shadow:0 0 0 3px rgba(230,161,58,.1)}
+.textarea{min-height:70px;resize:vertical}
+.filter-bar{display:flex;gap:7px;flex-wrap:wrap;align-items:center;margin-bottom:11px;padding:11px 14px;background:var(--card);border-radius:var(--radius);border:1px solid var(--border)}
+.filter-bar input,.filter-bar select{flex:1;min-width:110px}
+
+/* ===== BADGES : priorité (rouge/orange/vert/bleu du cahier des charges) ===== */
+.badge{display:inline-flex;align-items:center;gap:4px;padding:3px 10px;border-radius:20px;font-size:8px;font-weight:700;letter-spacing:.3px;text-transform:uppercase}
+.badge.p-rouge{background:var(--rouge);color:#fff}
+.badge.p-orange{background:var(--orange-p);color:#1a0f00}
+.badge.p-vert{background:var(--vert-p);color:#04270f}
+.badge.p-bleu{background:var(--bleu-p);color:#fff}
+.badge.fiab-confirme{background:rgba(52,199,89,.15);color:var(--vert-p);border:1px solid rgba(52,199,89,.35)}
+.badge.fiab-attente{background:rgba(255,149,0,.15);color:var(--orange-p);border:1px solid rgba(255,149,0,.35)}
+.tag{display:inline-flex;padding:2px 8px;border-radius:4px;font-size:7.5px;font-weight:700}
+.tag-hydro{background:rgba(230,161,58,.18);color:var(--oil)}
+.tag-mines{background:rgba(193,101,47,.2);color:#e08a56}
+.tag-energie{background:rgba(34,184,160,.18);color:var(--teal)}
+.tag-ci{background:rgba(255,130,0,.16);color:var(--ci-orange)}
+.tag-afrique{background:rgba(0,166,81,.16);color:var(--ci-green)}
+.tag-intl{background:rgba(10,132,255,.16);color:var(--bleu-p)}
+
+/* ===== ARTICLE / BRIEF ITEM ===== */
+.info-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px;cursor:pointer;transition:var(--transition)}
+.info-card:hover{border-color:var(--oil);transform:translateY(-2px);box-shadow:0 8px 26px rgba(0,0,0,.35)}
+.info-card .row1{display:flex;justify-content:space-between;gap:8px;align-items:flex-start;margin-bottom:6px}
+.info-card .titre{font-size:11.5px;font-weight:600;line-height:1.4}
+.info-card .resume{font-size:9.5px;color:var(--text2);line-height:1.5;margin-bottom:8px}
+.info-card .meta{display:flex;flex-wrap:wrap;gap:5px;align-items:center;font-size:8px;color:var(--text2)}
+.info-card .meta .src{font-family:var(--font-mono)}
+.info-card .srclink{display:inline-flex;align-items:center;gap:3px;color:var(--teal);font-size:8px;font-weight:700;text-decoration:none;margin-left:auto;white-space:nowrap}
+.info-card .srclink:hover{text-decoration:underline}
+
+/* ===== STRATA BAR (signature) ===== */
+.strata-wrap{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin-bottom:12px}
+.strata-title{font-size:11px;font-weight:600;margin-bottom:3px}
+.strata-sub{font-size:9px;color:var(--text2);margin-bottom:12px}
+.strata-bar{display:flex;height:34px;border-radius:8px;overflow:hidden;border:1px solid var(--border)}
+.strata-seg{display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:700;color:#fff;font-family:var(--font-mono);transition:flex-grow .4s ease;min-width:28px}
+.strata-legend{display:flex;gap:16px;margin-top:10px;flex-wrap:wrap}
+.strata-legend .li{display:flex;align-items:center;gap:6px;font-size:9px;color:var(--text2)}
+.strata-legend .sw{width:9px;height:9px;border-radius:2px}
+
+/* ===== STATS ===== */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:9px;margin-bottom:12px}
+.stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:13px 9px;text-align:center;transition:var(--transition)}
+.stat-card:hover{border-color:var(--oil);transform:translateY(-2px)}
+.stat-card .num{font-size:1.35rem;font-weight:800;color:var(--oil);font-family:var(--font-display)}
+.stat-card .label{font-size:8px;color:var(--text2);text-transform:uppercase;letter-spacing:.4px;font-weight:600;margin-top:2px}
+
+/* ===== TABS ===== */
+.tabs{display:flex;gap:4px;margin-bottom:11px;overflow-x:auto;scrollbar-width:none;padding:4px 0;border-bottom:1px solid var(--border)}
+.tabs::-webkit-scrollbar{display:none}
+.tabs button{padding:7px 14px;border-radius:8px 8px 0 0;border:none;background:transparent;color:var(--text2);font-size:10px;font-weight:500;cursor:pointer;white-space:nowrap;transition:var(--transition);position:relative}
+.tabs button:hover{color:var(--text)}
+.tabs button.active{background:var(--card);color:var(--oil)}
+.tabs button.active::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:2px;background:var(--oil)}
+
+/* ===== MODAL / TOAST ===== */
+.modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.82);z-index:2000;align-items:center;justify-content:center;backdrop-filter:blur(10px)}
+.modal.open{display:flex}
+.modal-content{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:22px;max-width:560px;width:92%;max-height:85vh;overflow-y:auto;position:relative;box-shadow:0 25px 80px rgba(0,0,0,.8)}
+.modal-content h2{font-size:15px;margin-bottom:12px}
+.modal-close{position:absolute;top:14px;right:14px;background:var(--card2);border:1px solid var(--border);color:var(--text2);width:28px;height:28px;border-radius:50%;cursor:pointer;font-size:12px}
+.modal-close:hover{background:var(--rouge);color:#fff;border-color:var(--rouge)}
+.field-label{font-size:9px;color:var(--text2);margin:8px 0 3px;display:block;font-weight:600;text-transform:uppercase;letter-spacing:.3px}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--oil);color:var(--text);padding:11px 20px;border-radius:10px;font-size:10.5px;z-index:9999;box-shadow:0 10px 40px rgba(0,0,0,.5);animation:toastIn .25s ease}
+@keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(14px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
+
+/* ===== CHATBOT ===== */
+.chatbot-btn{position:fixed;bottom:24px;right:24px;width:50px;height:50px;border-radius:50%;background:var(--gradient);color:#0a0c10;border:none;font-size:1.25rem;cursor:pointer;box-shadow:0 6px 26px rgba(230,161,58,.35);z-index:999;transition:var(--transition)}
+.chatbot-btn:hover{transform:scale(1.08)}
+.chatbot-panel{position:fixed;bottom:82px;right:24px;width:340px;max-height:460px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);box-shadow:0 25px 70px rgba(0,0,0,.7);display:none;flex-direction:column;z-index:998;overflow:hidden}
+.chatbot-panel.show{display:flex;animation:fadeIn .25s ease}
+.chatbot-header{background:var(--surface);padding:11px 14px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center}
+.chatbot-header span{font-weight:700;font-size:11.5px;font-family:var(--font-display)}
+.chatbot-header button{background:none;border:none;color:var(--text2);cursor:pointer;font-size:1.05rem}
+.chatbot-msgs{flex:1;overflow-y:auto;padding:9px 12px;max-height:290px;font-size:10.5px}
+.chatbot-msgs .msg{margin-bottom:6px;padding:8px 10px;border-radius:10px;max-width:92%;font-size:10px;line-height:1.5}
+.chatbot-msgs .msg.user{margin-left:auto;background:var(--gradient);color:#0a0c10;font-weight:500}
+.chatbot-msgs .msg.bot{background:var(--card2);border:1px solid var(--border)}
+.chatbot-input{display:flex;border-top:1px solid var(--border);padding:9px;gap:6px;background:var(--surface)}
+.chatbot-input input{flex:1;background:var(--card);border:1px solid var(--border);padding:8px 10px;border-radius:8px;color:var(--text);font-size:10px}
+.chatbot-input button{background:var(--gradient);color:#0a0c10;border:none;padding:8px 14px;border-radius:8px;cursor:pointer;font-weight:700;font-size:10px}
+
+/* ===== BANNIÈRE DÉMO ===== */
+.demo-banner{background:rgba(255,149,0,.08);border:1px solid rgba(255,149,0,.3);border-radius:10px;padding:9px 14px;font-size:9.5px;color:var(--orange-p);margin-bottom:12px;display:flex;gap:8px;align-items:center}
+
+/* ===== PLACEHOLDER (pages phase 2) ===== */
+.placeholder-box{background:var(--card2);border:2px dashed var(--border);border-radius:12px;padding:30px 20px;text-align:center}
+.placeholder-box .pi{font-size:1.8rem;margin-bottom:8px}
+.placeholder-box .pt{font-size:11px;color:var(--text);font-weight:600;margin-bottom:4px}
+.placeholder-box .ps{font-size:9.5px;color:var(--text2);max-width:440px;margin:0 auto}
+
+/* ===== RESPONSIVE ===== */
+@media(max-width:768px){
+  .sidebar{width:46px}.sidebar:hover{width:190px}
+  .top-bar{left:46px;height:44px}
+  .content{margin:44px 8px 0 54px;padding:9px}
+  .grid{grid-template-columns:1fr}
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .chatbot-panel{width:calc(100% - 16px);right:8px;bottom:74px}
+}
+</style>
+</head>
+<body>
+
+<!-- ===================== SIDEBAR ===================== -->
+<div class="sidebar">
+  <div class="logo-mini">
+    <div class="logo-icon">◆</div>
+    <div class="logo-text">ENERGY SENTINEL CI</div>
+  </div>
+  <a class="nav-item active" data-page="dashboard" onclick="showPage('dashboard')"><span class="nav-icon">📊</span><span class="nav-label">Tableau de bord</span></a>
+  <a class="nav-item" data-page="brief" onclick="showPage('brief')"><span class="nav-icon">🗞️</span><span class="nav-label">Brief du jour</span></a>
+  <a class="nav-item" data-page="alertes" onclick="showPage('alertes')"><span class="nav-icon">🚨</span><span class="nav-label">Alertes</span></a>
+  <div class="nav-divider"></div>
+  <div class="nav-section-label">Secteurs</div>
+  <a class="nav-item" data-page="hydrocarbures" onclick="showPage('hydrocarbures')"><span class="nav-icon">🛢️</span><span class="nav-label">Hydrocarbures</span></a>
+  <a class="nav-item" data-page="mines" onclick="showPage('mines')"><span class="nav-icon">⛏️</span><span class="nav-label">Mines & Géologie</span></a>
+  <a class="nav-item" data-page="energie" onclick="showPage('energie')"><span class="nav-icon">⚡</span><span class="nav-label">Énergie</span></a>
+  <div class="nav-divider"></div>
+  <div class="nav-section-label">Zones</div>
+  <a class="nav-item" data-page="ci" onclick="showPage('ci')"><span class="nav-icon">🇨🇮</span><span class="nav-label">Côte d'Ivoire</span></a>
+  <a class="nav-item" data-page="afrique" onclick="showPage('afrique')"><span class="nav-icon">🌍</span><span class="nav-label">Afrique</span></a>
+  <a class="nav-item" data-page="international" onclick="showPage('international')"><span class="nav-icon">🌐</span><span class="nav-label">International</span></a>
+  <div class="nav-divider"></div>
+  <div class="nav-section-label">Production</div>
+  <a class="nav-item" data-page="syntheses" onclick="showPage('syntheses')"><span class="nav-icon">📝</span><span class="nav-label">Synthèses</span></a>
+  <a class="nav-item" data-page="videos" onclick="showPage('videos')"><span class="nav-icon">🎬</span><span class="nav-label">Vidéos</span></a>
+  <a class="nav-item" data-page="rapports" onclick="showPage('rapports')"><span class="nav-icon">📋</span><span class="nav-label">Rapports</span></a>
+  <div class="nav-divider"></div>
+  <a class="nav-item" data-page="sources" onclick="showPage('sources')"><span class="nav-icon">📰</span><span class="nav-label">Sources</span></a>
+  <a class="nav-item" data-page="archives" onclick="showPage('archives')"><span class="nav-icon">🗄️</span><span class="nav-label">Archives</span></a>
+  <a class="nav-item" data-page="admin" onclick="showPage('admin')"><span class="nav-icon">⚙️</span><span class="nav-label">Administration</span></a>
+</div>
+
+<!-- ===================== TOP BAR ===================== -->
+<div class="top-bar">
+  <div class="page-title" id="pageTitle">📊 Tableau de bord</div>
+  <div class="page-sub" id="pageSub">ENERGY SENTINEL CI — Veiller. Vérifier. Expliquer. Valoriser.</div>
+  <div class="top-actions">
+    <div class="status-pill demo" id="statusPill"><span class="dot"></span><span>Chargement des données…</span></div>
+    <button onclick="loadData()" title="Actualiser les données">🔄</button>
+    <button onclick="showModalQuickAdd()" title="Ajout manuel">➕</button>
+  </div>
+</div>
+
+<!-- ===================== CONTENT ===================== -->
+<div class="content">
+
+<!-- DASHBOARD -->
+<div class="page active" id="page-dashboard">
+  <div class="page-head">
+    <div>
+      <h2>Tableau de bord</h2>
+      <p>Vue d'ensemble de la veille — Hydrocarbures, Mines & Géologie, Énergie</p>
+    </div>
+    <div style="display:flex;gap:6px;flex-wrap:wrap">
+      <button class="btn btn-primary btn-sm" onclick="showPage('brief')">🗞️ Voir le Brief du jour</button>
+      <button class="btn btn-outline btn-sm" onclick="showModalQuickAdd()">➕ Ajout manuel</button>
+    </div>
+  </div>
+
+  <div class="demo-banner" id="demoBanner">⚠️ <span>Les informations affichées sur cette plateforme sont des exemples de démonstration pour valider l'interface — elles ne proviennent pas encore de sources réelles. Dès que le collecteur (<code class="mono">collector/veille_rpetrole.py</code>) tourne via GitHub Actions, ce bandeau disparaît et les données réelles prennent le relais.</span></div>
+
+  <div class="strata-wrap">
+    <div class="strata-title">Répartition par niveau de priorité</div>
+    <div class="strata-sub">Comme une carotte géologique : chaque strate représente le volume d'informations par niveau — rouge (alerte), orange (important), vert (information), bleu (culture/pédagogie)</div>
+    <div class="strata-bar" id="strataBar"></div>
+    <div class="strata-legend">
+      <div class="li"><span class="sw" style="background:var(--rouge)"></span>Rouge — Alerte / critique</div>
+      <div class="li"><span class="sw" style="background:var(--orange-p)"></span>Orange — Important</div>
+      <div class="li"><span class="sw" style="background:var(--vert-p)"></span>Vert — Information</div>
+      <div class="li"><span class="sw" style="background:var(--bleu-p)"></span>Bleu — Culture / pédagogie</div>
+    </div>
+  </div>
+
+  <div class="stats" id="statsBar"></div>
+
+  <div class="grid grid-3">
+    <div class="card">
+      <div class="card-header"><h3>🚨 Alertes actives</h3><span class="badge p-rouge" id="alertBadge">0</span></div>
+      <div id="dashAlerts" style="max-height:230px;overflow-y:auto;display:flex;flex-direction:column;gap:6px"></div>
+    </div>
+    <div class="card">
+      <div class="card-header"><h3>🛢️ Hydrocarbures — derniers</h3><button class="btn btn-sm btn-outline" onclick="showPage('hydrocarbures')">Voir tout →</button></div>
+      <div id="dashHydro" style="max-height:230px;overflow-y:auto;display:flex;flex-direction:column;gap:6px"></div>
+    </div>
+    <div class="card">
+      <div class="card-header"><h3>⛏️ Mines — derniers</h3><button class="btn btn-sm btn-outline" onclick="showPage('mines')">Voir tout →</button></div>
+      <div id="dashMines" style="max-height:230px;overflow-y:auto;display:flex;flex-direction:column;gap:6px"></div>
+    </div>
+  </div>
+</div>
+
+<!-- BRIEF DU JOUR -->
+<div class="page" id="page-brief">
+  <div class="page-head">
+    <div><h2>🗞️ Le Brief Énergie du Jour</h2><p>Synthèse quotidienne — produit central destiné au client</p></div>
+    <button class="btn btn-outline btn-sm" onclick="showToast('📋 Export PDF/Word — à connecter en phase production')">📤 Exporter</button>
+  </div>
+  <div id="briefContent"></div>
+</div>
+
+<!-- ALERTES -->
+<div class="page" id="page-alertes">
+  <div class="page-head"><div><h2>🚨 Alertes</h2><p>Informations classées priorité ROUGE ou ORANGE, confirmation multi-sources recommandée avant diffusion</p></div></div>
+  <div class="filter-bar">
+    <select id="alertFilter" onchange="renderAlertes()">
+      <option value="all">Tous niveaux</option>
+      <option value="rouge">🔴 Rouge — critique</option>
+      <option value="orange">🟠 Orange — important</option>
+    </select>
+  </div>
+  <div id="alertesList" style="display:flex;flex-direction:column;gap:7px"></div>
+</div>
+
+<!-- HYDROCARBURES -->
+<div class="page" id="page-hydrocarbures">
+  <div class="page-head"><div><h2>🛢️ Hydrocarbures</h2><p>Exploration, production, forage, blocs pétroliers, gaz, raffinage, prix, contrats, infrastructures</p></div></div>
+  <div class="filter-bar">
+    <input id="hydroSearch" placeholder="Filtrer par mot-clé..." oninput="renderSector('hydrocarbures','hydroSearch','hydroGrid')">
+  </div>
+  <div class="grid grid-2" id="hydroGrid"></div>
+</div>
+
+<!-- MINES -->
+<div class="page" id="page-mines">
+  <div class="page-head"><div><h2>⛏️ Mines & Géologie</h2><p>Or, bauxite, manganèse, nickel, lithium, cuivre, permis, exploitation, transformation locale</p></div></div>
+  <div class="filter-bar">
+    <input id="minesSearch" placeholder="Filtrer par mot-clé..." oninput="renderSector('mines','minesSearch','minesGrid')">
+  </div>
+  <div class="grid grid-2" id="minesGrid"></div>
+</div>
+
+<!-- ÉNERGIE -->
+<div class="page" id="page-energie">
+  <div class="page-head"><div><h2>⚡ Énergie</h2><p>Électricité, centrales, solaire, renouvelables, stockage, transition énergétique, électrification</p></div></div>
+  <div class="filter-bar">
+    <input id="energieSearch" placeholder="Filtrer par mot-clé..." oninput="renderSector('energie','energieSearch','energieGrid')">
+  </div>
+  <div class="grid grid-2" id="energieGrid"></div>
+</div>
+
+<!-- CÔTE D'IVOIRE -->
+<div class="page" id="page-ci">
+  <div class="page-head"><div><h2>🇨🇮 Côte d'Ivoire</h2><p>Niveau 1 — toujours prioritaire lorsqu'une information concerne directement le pays</p></div></div>
+  <div class="grid grid-2" id="ciGrid"></div>
+</div>
+
+<!-- AFRIQUE -->
+<div class="page" id="page-afrique">
+  <div class="page-head"><div><h2>🌍 Afrique</h2><p>Niveau 2 — hors Côte d'Ivoire</p></div></div>
+  <div class="grid grid-2" id="afriqueGrid"></div>
+</div>
+
+<!-- INTERNATIONAL -->
+<div class="page" id="page-international">
+  <div class="page-head"><div><h2>🌐 International</h2><p>Niveau 3 — marchés mondiaux, décisions internationales</p></div></div>
+  <div class="grid grid-2" id="internationalGrid"></div>
+</div>
+
+<!-- SYNTHÈSES -->
+<div class="page" id="page-syntheses">
+  <div class="page-head"><div><h2>📝 Synthèses</h2><p>Scripts et hooks générés à partir des informations vérifiées</p></div></div>
+  <div class="placeholder-box">
+    <div class="pi">📝</div>
+    <div class="pt">Module à construire en phase 3</div>
+    <div class="ps">La génération automatique de synthèses, hooks et scripts arrivera une fois le collecteur et la base de données connectés à la plateforme — pour éviter de partir dans plusieurs directions à la fois.</div>
+  </div>
+</div>
+
+<!-- VIDÉOS -->
+<div class="page" id="page-videos">
+  <div class="page-head"><div><h2>🎬 Vidéos</h2><p>Production vidéo courte — TikTok, Reels, Shorts, Facebook, LinkedIn</p></div></div>
+  <div class="placeholder-box">
+    <div class="pi">🎬</div>
+    <div class="pt">Module à construire en phase 4</div>
+    <div class="ps">La bibliothèque de vidéos produites sera intégrée ici une fois le pipeline de production (hook → script → montage → validation) défini avec vous.</div>
+  </div>
+</div>
+
+<!-- RAPPORTS -->
+<div class="page" id="page-rapports">
+  <div class="page-head"><div><h2>📋 Rapports</h2><p>Rapports hebdomadaires et mensuels</p></div></div>
+  <div class="placeholder-box">
+    <div class="pi">📋</div>
+    <div class="pt">Génération automatique à venir</div>
+    <div class="ps">Une fois le collecteur connecté, les rapports hebdomadaires/mensuels seront générés à partir des données réelles archivées.</div>
+  </div>
+</div>
+
+<!-- SOURCES -->
+<div class="page" id="page-sources">
+  <div class="page-head">
+    <div><h2>📰 Architecture des sources</h2><p>Sources par secteur — à valider et compléter avant mise en production</p></div>
+    <button class="btn btn-primary btn-sm" onclick="showModalAddSource()">➕ Ajouter une source</button>
+  </div>
+  <div class="tabs" id="sourcesTabs">
+    <button class="active" data-cat="hydrocarbures">🛢️ Hydrocarbures</button>
+    <button data-cat="mines">⛏️ Mines & Géologie</button>
+    <button data-cat="energie">⚡ Énergie</button>
+    <button data-cat="institutionnel">🏛️ Institutionnel CI</button>
+    <button data-cat="custom">⭐ Personnalisées</button>
+  </div>
+  <div id="sourcesList" style="display:flex;flex-direction:column;gap:5px"></div>
+</div>
+
+<!-- ARCHIVES -->
+<div class="page" id="page-archives">
+  <div class="page-head"><div><h2>🗄️ Archives</h2><p>Historique complet des informations traitées</p></div></div>
+  <div class="placeholder-box">
+    <div class="pi">🗄️</div>
+    <div class="pt">Sera alimenté automatiquement</div>
+    <div class="ps">Chaque information traitée par le pipeline sera archivée ici avec son statut de vérification, pour garder une traçabilité complète.</div>
+  </div>
+</div>
+
+<!-- ADMINISTRATION -->
+<div class="page" id="page-admin">
+  <div class="page-head"><div><h2>⚙️ Administration</h2><p>Configuration du dispositif</p></div></div>
+  <div class="grid grid-3">
+    <div class="card">
+      <h3 style="font-size:11px;color:var(--oil);margin-bottom:9px">🎯 Système de priorité</h3>
+      <div style="display:flex;flex-direction:column;gap:6px;font-size:9.5px;color:var(--text2)">
+        <div><span class="badge p-rouge">Rouge</span> Alerte / critique</div>
+        <div><span class="badge p-orange">Orange</span> Important</div>
+        <div><span class="badge p-vert">Vert</span> Information</div>
+        <div><span class="badge p-bleu">Bleu</span> Culture / pédagogie</div>
+      </div>
+    </div>
+    <div class="card">
+      <h3 style="font-size:11px;color:var(--oil);margin-bottom:9px">📡 État de la collecte</h3>
+      <p style="font-size:9.5px;color:var(--text2);line-height:1.6">Aucun flux réel connecté pour l'instant. Cette interface fonctionne sur des données de démonstration en attendant la connexion au collecteur Python et à l'API.</p>
+    </div>
+    <div class="card">
+      <h3 style="font-size:11px;color:var(--oil);margin-bottom:9px">🔐 Sécurité</h3>
+      <p style="font-size:9.5px;color:var(--text2);line-height:1.6">Aucune clé ou identifiant ne doit être écrit en dur dans le code. Les clés API et identifiants seront gérés via variables d'environnement côté serveur, jamais côté frontend.</p>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<!-- MODAL -->
+<div class="modal" id="modal">
+  <div class="modal-content" id="modalContent"></div>
+</div>
+
+<!-- CHATBOT -->
+<button class="chatbot-btn" onclick="toggleChat()">⟡</button>
+<div class="chatbot-panel" id="chatPanel">
+  <div class="chatbot-header"><span>Sentinelle — assistant</span><button onclick="toggleChat()">✕</button></div>
+  <div class="chatbot-msgs" id="chatMsgs">
+    <div class="msg bot">Bonjour, je suis l'assistant Energy Sentinel CI. Tapez "aide" pour voir ce que je peux faire (mode démo).</div>
+  </div>
+  <div class="chatbot-input">
+    <input id="chatInput" placeholder="Écrire un message..." onkeydown="if(event.key==='Enter')sendChat()">
+    <button onclick="sendChat()">Envoyer</button>
+  </div>
+</div>
+
+<script>
+// ============================================================
+// DONNÉES DE DÉMONSTRATION
+// Ces éléments sont fictifs et servent uniquement à valider
+// l'interface. Ils seront remplacés par les données réelles
+// une fois le collecteur connecté.
+// ============================================================
+// SENTINEL contient les données EFFECTIVEMENT affichées (réelles si le
+// collecteur a tourné, sinon les données de secours FALLBACK_* ci-dessous).
+const SENTINEL = { items: [], sources: {} };
+let DATA_MODE = 'demo';   // 'demo' | 'empty' | 'live'
+let LAST_UPDATE = null;
+
+// ============================================================
+// DONNÉES DE SECOURS (fallback)
+// N'apparaissent QUE si data/items.json est vide/absent, c'est-à-dire
+// tant que le collecteur Python n'a pas encore tourné (ou en aperçu
+// local sans serveur). Une fois les données réelles disponibles, ces
+// exemples fictifs disparaissent automatiquement.
+// ============================================================
+const FALLBACK_ITEMS = [
+  {id:1,titre:"[DÉMO] Exemple de découverte annoncée sur un bloc pétrolier offshore",categorie:"hydrocarbures",pays:"Côte d'Ivoire",zone:"ci",priorite:"orange",fiabilite:"a_confirmer",source:"Exemple — Ministère (fictif)",url:"",resume:"Résumé fictif illustrant le format attendu : contexte, chiffres clés et portée de l'annonce en 2-3 phrases.",date:"Aujourd'hui"},
+  {id:2,titre:"[DÉMO] Exemple d'évolution du prix du baril sur le marché international",categorie:"hydrocarbures",pays:"International",zone:"international",priorite:"vert",fiabilite:"confirme",source:"Exemple — Agence (fictif)",url:"",resume:"",date:"Aujourd'hui"},
+  {id:3,titre:"[DÉMO] Exemple d'octroi de permis d'exploitation minière",categorie:"mines",pays:"Côte d'Ivoire",zone:"ci",priorite:"orange",fiabilite:"confirme",source:"Exemple — Ministère (fictif)",url:"",resume:"",date:"Hier"},
+  {id:4,titre:"[DÉMO] Exemple de production record de manganèse dans un pays voisin",categorie:"mines",pays:"Afrique",zone:"afrique",priorite:"vert",fiabilite:"confirme",source:"Exemple — Média (fictif)",url:"",resume:"",date:"Hier"},
+  {id:5,titre:"[DÉMO] Exemple d'alerte sur un incident dans une infrastructure énergétique",categorie:"energie",pays:"Côte d'Ivoire",zone:"ci",priorite:"rouge",fiabilite:"a_confirmer",source:"Exemple — Source unique (fictif)",url:"",resume:"Information à source unique : à confirmer par un second recoupement avant toute diffusion.",date:"Aujourd'hui"},
+  {id:6,titre:"[DÉMO] Exemple de mise en service d'une centrale solaire",categorie:"energie",pays:"Côte d'Ivoire",zone:"ci",priorite:"vert",fiabilite:"confirme",source:"Exemple — CI-ENERGIES (fictif)",url:"",resume:"",date:"Il y a 2 jours"},
+  {id:7,titre:"[DÉMO] Le saviez-vous : repère pédagogique sur la filière bauxite",categorie:"mines",pays:"Côte d'Ivoire",zone:"ci",priorite:"bleu",fiabilite:"confirme",source:"Contenu pédagogique",url:"",resume:"",date:"Il y a 2 jours"},
+  {id:8,titre:"[DÉMO] Exemple de décision de l'OPEP sur les quotas de production",categorie:"hydrocarbures",pays:"International",zone:"international",priorite:"orange",fiabilite:"confirme",source:"Exemple — Agence (fictif)",url:"",resume:"",date:"Il y a 3 jours"},
+];
+
+const FALLBACK_SOURCES = {
+  hydrocarbures:[
+    {nom:"Ministère des Mines, du Pétrole et de l'Énergie (CI)",statut:"À vérifier / renseigner l'URL RSS officielle",type:"web"},
+    {nom:"PETROCI Holding",statut:"À vérifier / renseigner l'URL RSS officielle",type:"web"},
+    {nom:"Société Ivoirienne de Raffinage (SIR)",statut:"À vérifier / renseigner l'URL RSS officielle",type:"web"},
+  ],
+  mines:[
+    {nom:"Ministère des Mines, du Pétrole et de l'Énergie — volet Mines (CI)",statut:"À vérifier / renseigner l'URL RSS officielle",type:"web"},
+    {nom:"Société pour le Développement Minier de la Côte d'Ivoire (SODEMI)",statut:"À vérifier / renseigner l'URL RSS officielle",type:"web"},
+  ],
+  energie:[
+    {nom:"CI-ENERGIES",statut:"À vérifier / renseigner l'URL RSS officielle",type:"web"},
+    {nom:"Autorité Nationale de Régulation du secteur de l'Électricité (ANARE-CI)",statut:"À vérifier / renseigner l'URL RSS officielle",type:"web"},
+  ],
+  institutionnel:[
+    {nom:"Présidence de la République de Côte d'Ivoire",statut:"À vérifier / renseigner l'URL RSS officielle",type:"rss"},
+    {nom:"Gouvernement de Côte d'Ivoire",statut:"À vérifier / renseigner l'URL RSS officielle",type:"web"},
+  ],
+  custom:[]
+};
+
+const PAGE_TITLES={dashboard:'📊 Tableau de bord',brief:'🗞️ Brief du jour',alertes:'🚨 Alertes',hydrocarbures:'🛢️ Hydrocarbures',mines:'⛏️ Mines & Géologie',energie:'⚡ Énergie',ci:"🇨🇮 Côte d'Ivoire",afrique:'🌍 Afrique',international:'🌐 International',syntheses:'📝 Synthèses',videos:'🎬 Vidéos',rapports:'📋 Rapports',sources:'📰 Sources',archives:'🗄️ Archives',admin:'⚙️ Administration'};
+const PAGE_SUBS={dashboard:'ENERGY SENTINEL CI — Veiller. Vérifier. Expliquer. Valoriser.',brief:'Produit central quotidien',alertes:'Priorité rouge / orange',hydrocarbures:'Exploration, production, prix, contrats',mines:'Or, bauxite, manganèse, nickel, lithium, cuivre',energie:'Électricité, renouvelables, transition',ci:'Niveau 1 — priorité absolue',afrique:'Niveau 2',international:'Niveau 3',syntheses:'Hooks & scripts',videos:'Formats courts',rapports:'Hebdomadaires & mensuels',sources:'Architecture des sources',archives:'Historique complet',admin:'Configuration'};
+
+const PRIORITY_LABEL={rouge:'Rouge',orange:'Orange',vert:'Vert',bleu:'Bleu'};
+const CAT_TAG={hydrocarbures:'tag-hydro',mines:'tag-mines',energie:'tag-energie'};
+const ZONE_TAG={ci:'tag-ci',afrique:'tag-afrique',international:'tag-intl'};
+
+// ============================================================
+// CHARGEMENT DES DONNÉES RÉELLES
+// Lit data/items.json et data/sources.json à côté de index.html.
+// Ces fichiers sont regénérés automatiquement par le collecteur
+// Python (collector/veille_rpetrole.py) via GitHub Actions — voir
+// .github/workflows/veille.yml. Tant qu'ils n'ont pas encore été
+// produits (ou en cas d'erreur réseau), l'interface bascule sur les
+// données de démonstration FALLBACK_* ci-dessus.
+// ============================================================
+async function loadData(){
+  setStatusPill('demo','⏳ Chargement des données…');
+  try{
+    const bust='?v='+Date.now();
+    const [itemsRes,sourcesRes]=await Promise.all([
+      fetch('data/items.json'+bust,{cache:'no-store'}),
+      fetch('data/sources.json'+bust,{cache:'no-store'})
+    ]);
+    if(!itemsRes.ok||!sourcesRes.ok)throw new Error('Fichiers de données introuvables');
+    const itemsData=await itemsRes.json();
+    const sourcesData=await sourcesRes.json();
+    LAST_UPDATE=itemsData.generated_at||null;
+    const hasSources=sourcesData.sources&&Object.values(sourcesData.sources).some(l=>Array.isArray(l)&&l.length);
+    SENTINEL.sources=hasSources?sourcesData.sources:FALLBACK_SOURCES;
+    if(Array.isArray(itemsData.items)&&itemsData.items.length>0){
+      SENTINEL.items=itemsData.items;
+      DATA_MODE='live';
+    } else {
+      SENTINEL.items=FALLBACK_ITEMS;
+      DATA_MODE='empty';
+    }
+  }catch(err){
+    console.warn('[Energy Sentinel CI] données réelles indisponibles, mode démonstration :',err.message);
+    SENTINEL.items=FALLBACK_ITEMS;
+    SENTINEL.sources=FALLBACK_SOURCES;
+    DATA_MODE='demo';
+  }
+  refreshStatusPill();
+  const active=document.querySelector('.page.active')?.id.replace('page-','')||'dashboard';
+  renderPage(active);
+}
+
+function setStatusPill(cls,text){
+  const pill=document.getElementById('statusPill');
+  if(!pill)return;
+  pill.className='status-pill '+cls;
+  pill.innerHTML=`<span class="dot"></span><span>${text}</span>`;
+}
+
+function refreshStatusPill(){
+  const banner=document.getElementById('demoBanner');
+  if(DATA_MODE==='live'){
+    setStatusPill('live',`Données réelles — ${formatRelative(LAST_UPDATE)}`);
+    if(banner)banner.style.display='none';
+  } else if(DATA_MODE==='empty'){
+    setStatusPill('empty',"Collecteur connecté — pas encore d'information remontée");
+    if(banner)banner.style.display='none';
+  } else {
+    setStatusPill('demo','Mode démo — collecteur non encore connecté');
+    if(banner)banner.style.display='flex';
+  }
+}
+
+function formatRelative(iso){
+  if(!iso)return 'date inconnue';
+  const d=new Date(iso);
+  if(isNaN(d))return 'date inconnue';
+  const diffMin=Math.floor((Date.now()-d.getTime())/60000);
+  if(diffMin<1)return "à l'instant";
+  if(diffMin<60)return `il y a ${diffMin} min`;
+  const diffH=Math.floor(diffMin/60);
+  if(diffH<24)return `il y a ${diffH} h`;
+  const diffJ=Math.floor(diffH/24);
+  if(diffJ===1)return 'hier';
+  if(diffJ<7)return `il y a ${diffJ} j`;
+  return d.toLocaleDateString('fr-FR');
+}
+
+function formatItemDate(it){
+  if(it.heure_collecte){
+    const d=new Date(it.heure_collecte);
+    if(!isNaN(d)){
+      const startOfDay=x=>new Date(x.getFullYear(),x.getMonth(),x.getDate());
+      const diffJ=Math.round((startOfDay(new Date())-startOfDay(d))/86400000);
+      if(diffJ<=0)return "Aujourd'hui";
+      if(diffJ===1)return 'Hier';
+      if(diffJ<7)return `Il y a ${diffJ} jours`;
+      return d.toLocaleDateString('fr-FR');
+    }
+  }
+  return it.date||'';
+}
+
+function escapeHtml(s){
+  return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function showPage(id){
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.getElementById('page-'+id)?.classList.add('active');
+  document.querySelectorAll('.sidebar .nav-item').forEach(a=>a.classList.remove('active'));
+  document.querySelector(`.sidebar .nav-item[data-page="${id}"]`)?.classList.add('active');
+  document.getElementById('pageTitle').textContent=PAGE_TITLES[id]||'';
+  document.getElementById('pageSub').textContent=PAGE_SUBS[id]||'';
+  renderPage(id);
+}
+
+function renderPage(id){
+  const fns={dashboard:renderDash,brief:renderBrief,alertes:renderAlertes,
+    hydrocarbures:()=>renderSector('hydrocarbures','hydroSearch','hydroGrid'),
+    mines:()=>renderSector('mines','minesSearch','minesGrid'),
+    energie:()=>renderSector('energie','energieSearch','energieGrid'),
+    ci:()=>renderZone('ci','ciGrid'),
+    afrique:()=>renderZone('afrique','afriqueGrid'),
+    international:()=>renderZone('international','internationalGrid'),
+    sources:renderSources};
+  if(fns[id])fns[id]();
+}
+
+function itemCard(it){
+  const tagCat=CAT_TAG[it.categorie]||'tag-hydro';
+  const tagZone=ZONE_TAG[it.zone]||'tag-ci';
+  const fiabLabel = it.fiabilite==='confirme' ? '✓ Confirmé' : '△ À confirmer';
+  const fiabClass = it.fiabilite==='confirme' ? 'fiab-confirme' : 'fiab-attente';
+  const resumeHtml = it.resume ? `<div class="resume">${escapeHtml(it.resume).slice(0,240)}</div>` : '';
+  const lienHtml = it.url ? `<a class="srclink" href="${escapeHtml(it.url)}" target="_blank" rel="noopener noreferrer">Lire la source ↗</a>` : '';
+  return `<div class="info-card">
+    <div class="row1">
+      <div class="titre">${escapeHtml(it.titre)}</div>
+      <span class="badge p-${it.priorite}">${PRIORITY_LABEL[it.priorite]||it.priorite}</span>
+    </div>
+    ${resumeHtml}
+    <div class="meta">
+      <span class="tag ${tagCat}">${it.categorie}</span>
+      <span class="tag ${tagZone}">${it.pays}</span>
+      <span class="badge ${fiabClass}">${fiabLabel}</span>
+      <span class="src">${escapeHtml(it.source)} · ${formatItemDate(it)}</span>
+      ${lienHtml}
+    </div>
+  </div>`;
+}
+
+function renderDash(){
+  const items=SENTINEL.items;
+  const counts={rouge:0,orange:0,vert:0,bleu:0};
+  items.forEach(it=>counts[it.priorite]++);
+  const total=items.length||1;
+  const colors={rouge:'var(--rouge)',orange:'var(--orange-p)',vert:'var(--vert-p)',bleu:'var(--bleu-p)'};
+  document.getElementById('strataBar').innerHTML=Object.keys(counts).map(k=>{
+    const pct=Math.max(counts[k]/total*100,counts[k]?8:0);
+    if(!counts[k])return'';
+    return `<div class="strata-seg" style="flex-grow:${pct};background:${colors[k]}">${counts[k]}</div>`;
+  }).join('');
+
+  const infoLabel = DATA_MODE==='live' ? 'Infos collectées' : 'Infos (démo)';
+  document.getElementById('statsBar').innerHTML=`
+    <div class="stat-card"><div class="num">${items.length}</div><div class="label">${infoLabel}</div></div>
+    <div class="stat-card"><div class="num">${counts.rouge}</div><div class="label">Alertes rouges</div></div>
+    <div class="stat-card"><div class="num">${counts.orange}</div><div class="label">Important</div></div>
+    <div class="stat-card"><div class="num">${items.filter(i=>i.fiabilite==='attente').length}</div><div class="label">À confirmer</div></div>
+    <div class="stat-card"><div class="num">${items.filter(i=>i.zone==='ci').length}</div><div class="label">Côte d'Ivoire</div></div>
+  `;
+
+  document.getElementById('alertBadge').textContent=counts.rouge+counts.orange;
+  document.getElementById('dashAlerts').innerHTML=items.filter(i=>i.priorite==='rouge'||i.priorite==='orange').slice(0,4).map(itemCard).join('')||'<p style="font-size:9.5px;color:var(--text2)">Aucune alerte</p>';
+  document.getElementById('dashHydro').innerHTML=items.filter(i=>i.categorie==='hydrocarbures').slice(0,4).map(itemCard).join('');
+  document.getElementById('dashMines').innerHTML=items.filter(i=>i.categorie==='mines').slice(0,4).map(itemCard).join('');
+}
+
+function renderBrief(){
+  const sections=[
+    {key:'rouge',titre:'🔴 ALERTE HYDROCARBURES / MINES / ÉNERGIE'},
+    {key:'ci',titre:"🇨🇮 CÔTE D'IVOIRE"},
+    {key:'afrique',titre:'🌍 AFRIQUE'},
+    {key:'international',titre:'🌐 INTERNATIONAL'},
+    {key:'bleu',titre:'🔵 LE SAVIEZ-VOUS ?'},
+  ];
+  let html='<div style="display:flex;flex-direction:column;gap:16px">';
+  sections.forEach(s=>{
+    let list;
+    if(s.key==='rouge')list=SENTINEL.items.filter(i=>i.priorite==='rouge');
+    else if(s.key==='bleu')list=SENTINEL.items.filter(i=>i.priorite==='bleu');
+    else list=SENTINEL.items.filter(i=>i.zone===s.key);
+    html+=`<div><h3 style="font-size:12px;margin-bottom:8px;color:var(--oil)">${s.titre}</h3><div class="grid grid-2">${list.map(itemCard).join('')||'<p style="font-size:9.5px;color:var(--text2)">Aucun élément pour cette rubrique</p>'}</div></div>`;
+  });
+  html+='</div>';
+  document.getElementById('briefContent').innerHTML=html;
+}
+
+function renderAlertes(){
+  const filter=document.getElementById('alertFilter')?.value||'all';
+  let list=SENTINEL.items.filter(i=>i.priorite==='rouge'||i.priorite==='orange');
+  if(filter!=='all')list=list.filter(i=>i.priorite===filter);
+  document.getElementById('alertesList').innerHTML=list.map(itemCard).join('')||'<p style="font-size:9.5px;color:var(--text2)">Aucune alerte</p>';
+}
+
+function renderSector(cat,searchId,gridId){
+  const q=(document.getElementById(searchId)?.value||'').toLowerCase();
+  const list=SENTINEL.items.filter(i=>i.categorie===cat && i.titre.toLowerCase().includes(q));
+  document.getElementById(gridId).innerHTML=list.map(itemCard).join('')||'<p style="font-size:9.5px;color:var(--text2)">Aucun résultat</p>';
+}
+
+function renderZone(zone,gridId){
+  const list=SENTINEL.items.filter(i=>i.zone===zone);
+  document.getElementById(gridId).innerHTML=list.map(itemCard).join('')||'<p style="font-size:9.5px;color:var(--text2)">Aucun résultat</p>';
+}
+
+function renderSources(){
+  const active=document.querySelector('#sourcesTabs button.active')?.dataset.cat||'hydrocarbures';
+  const list=SENTINEL.sources[active]||[];
+  document.getElementById('sourcesList').innerHTML=list.map(s=>{
+    const typeLabel = s.type==='rss' ? '📡 Flux RSS' : '🌐 Scraping générique (à affiner)';
+    const lien = s.url ? `<a class="srclink" href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer">Ouvrir ↗</a>` : '';
+    return `
+    <div class="info-card" style="display:flex;justify-content:space-between;align-items:center;gap:10px">
+      <div>
+        <div style="font-size:10.5px;font-weight:600">${escapeHtml(s.nom)}</div>
+        <div style="font-size:8.5px;color:var(--text2);margin-top:2px">${typeLabel} · ${escapeHtml(s.statut||'')}</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:8px">${lien}<span class="badge fiab-attente">À valider</span></div>
+    </div>`;}).join('')||'<p style="font-size:9.5px;color:var(--text2)">Aucune source dans cette catégorie pour le moment. Utilisez "Ajouter une source".</p>';
+}
+
+document.addEventListener('click',function(e){
+  const srcBtn=e.target.closest('#sourcesTabs button');
+  if(srcBtn){document.querySelectorAll('#sourcesTabs button').forEach(b=>b.classList.remove('active'));srcBtn.classList.add('active');renderSources();}
+});
+
+// ===== MODALS =====
+function openModal(html){document.getElementById('modalContent').innerHTML=html;document.getElementById('modal').classList.add('open');}
+function closeModal(){document.getElementById('modal').classList.remove('open');}
+document.getElementById('modal').addEventListener('click',function(e){if(e.target===this)closeModal();});
+
+function showModalQuickAdd(){
+  openModal(`
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <h2>➕ Ajout manuel d'une information</h2>
+    <span class="field-label">Titre</span><input class="input" id="qaTitre" placeholder="Titre de l'information">
+    <span class="field-label">Secteur</span>
+    <select class="select" id="qaCat"><option value="hydrocarbures">Hydrocarbures</option><option value="mines">Mines & Géologie</option><option value="energie">Énergie</option></select>
+    <span class="field-label">Zone</span>
+    <select class="select" id="qaZone"><option value="ci">Côte d'Ivoire</option><option value="afrique">Afrique</option><option value="international">International</option></select>
+    <span class="field-label">Priorité</span>
+    <select class="select" id="qaPrio"><option value="vert">Vert — information</option><option value="orange">Orange — important</option><option value="rouge">Rouge — alerte/critique</option><option value="bleu">Bleu — culture/pédagogie</option></select>
+    <span class="field-label">Source</span><input class="input" id="qaSource" placeholder="Nom de la source">
+    <div style="margin-top:14px;display:flex;gap:8px">
+      <button class="btn btn-primary btn-sm" onclick="addQuickItem()">Ajouter</button>
+      <button class="btn btn-outline btn-sm" onclick="closeModal()">Annuler</button>
+    </div>
+  `);
+}
+function addQuickItem(){
+  const titre=document.getElementById('qaTitre').value.trim();
+  if(!titre){showToast('⚠️ Le titre est obligatoire');return;}
+  SENTINEL.items.unshift({id:Date.now(),titre,categorie:document.getElementById('qaCat').value,pays:document.getElementById('qaZone').value==='ci'?"Côte d'Ivoire":(document.getElementById('qaZone').value==='afrique'?'Afrique':'International'),zone:document.getElementById('qaZone').value,priorite:document.getElementById('qaPrio').value,fiabilite:'a_confirmer',source:document.getElementById('qaSource').value||'Non renseignée',url:'',resume:'',date:"À l'instant"});
+  closeModal();showToast("✅ Ajouté localement — non persistant : ce site étant statique (GitHub Pages), rechargez et ce sera reperdu tant que le collecteur ne l'a pas capté.");
+  const active=document.querySelector('.page.active')?.id.replace('page-','');
+  renderPage(active);
+}
+function showModalAddSource(){
+  openModal(`
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <h2>➕ Ajouter une source</h2>
+    <span class="field-label">Nom de la source</span><input class="input" id="srcNom" placeholder="Nom de l'organisation ou du média">
+    <span class="field-label">Secteur</span>
+    <select class="select" id="srcCat"><option value="hydrocarbures">Hydrocarbures</option><option value="mines">Mines & Géologie</option><option value="energie">Énergie</option><option value="institutionnel">Institutionnel CI</option><option value="custom">Personnalisée</option></select>
+    <span class="field-label">URL du flux (RSS ou site)</span><input class="input" id="srcUrl" placeholder="https://...">
+    <div style="margin-top:14px;display:flex;gap:8px">
+      <button class="btn btn-primary btn-sm" onclick="addSource()">Ajouter</button>
+      <button class="btn btn-outline btn-sm" onclick="closeModal()">Annuler</button>
+    </div>
+  `);
+}
+function addSource(){
+  const nom=document.getElementById('srcNom').value.trim();
+  if(!nom){showToast('⚠️ Le nom est obligatoire');return;}
+  const cat=document.getElementById('srcCat').value;
+  SENTINEL.sources[cat]=SENTINEL.sources[cat]||[];
+  const url=document.getElementById('srcUrl').value||'';
+  SENTINEL.sources[cat].push({nom,statut:url?'URL renseignée — à ajouter dans collector/veille_rpetrole.py':'URL à renseigner',type:'web',url});
+  closeModal();showToast('✅ Ajoutée localement — pour la rendre permanente, ajoutez-la aussi dans SOURCES du script Python');renderSources();
+}
+
+// ===== TOAST =====
+function showToast(msg){
+  const t=document.createElement('div');t.className='toast';t.textContent=msg;
+  document.body.appendChild(t);setTimeout(()=>t.remove(),3000);
+}
+
+// ===== CHATBOT (démo, réponses locales) =====
+function toggleChat(){document.getElementById('chatPanel').classList.toggle('show');}
+function sendChat(){
+  const input=document.getElementById('chatInput');
+  const msg=input.value.trim();if(!msg)return;
+  const box=document.getElementById('chatMsgs');
+  box.innerHTML+=`<div class="msg user">${msg}</div>`;
+  box.innerHTML+=`<div class="msg bot">${chatbotResponse(msg)}</div>`;
+  input.value='';box.scrollTop=box.scrollHeight;
+}
+function chatbotResponse(msg){
+  const m=msg.toLowerCase();
+  const modeTxt = DATA_MODE==='live' ? 'réelles' : 'de démonstration';
+  if(m.includes('alerte'))return `🚨 ${SENTINEL.items.filter(i=>i.priorite==='rouge').length} alerte(s) rouge dans les données ${modeTxt}.`;
+  if(m.includes('stat'))return `📊 ${SENTINEL.items.length} informations ${modeTxt} chargées.`;
+  if(m.includes('source'))return `📡 Sources en base : ${Object.values(SENTINEL.sources).reduce((a,b)=>a+b.length,0)}. À valider avant mise en production.`;
+  if(m.includes('aide'))return "⟡ Commandes : alertes, stats, sources, aide. (Réponses simples pour l'instant — l'IA de synthèse arrivera en phase 3.)";
+  return `⟡ Je suis en mode assistant simple pour l'instant (données ${modeTxt}). Tapez "aide".`;
+}
+
+// ===== INIT =====
+document.addEventListener('DOMContentLoaded',function(){
+  SENTINEL.items=FALLBACK_ITEMS;
+  SENTINEL.sources=FALLBACK_SOURCES;
+  showPage('dashboard');
+  loadData();
+});
+</script>
+</body>
+</html>

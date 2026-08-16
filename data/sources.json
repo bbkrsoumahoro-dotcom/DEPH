@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-08-16T17:28:26",
+  "sources": {
+    "hydrocarbures": [
+      {
+        "nom": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
+        "url": "https://www.energie.gouv.ci/actualites",
+        "type": "web",
+        "zone": "ci",
+        "statut": "Scraping générique (à affiner par site)"
+      },
+      {
+        "nom": "PETROCI Holding",
+        "url": "https://www.petroci.ci/",
+        "type": "web",
+        "zone": "ci",
+        "statut": "Scraping générique (à affiner par site)"
+      },
+      {
+        "nom": "Société Ivoirienne de Raffinage (SIR)",
+        "url": "https://sir.ci/",
+        "type": "web",
+        "zone": "ci",
+        "statut": "Scraping générique (à affiner par site)"
+      },
+      {
+        "nom": "Agence Ecofin — Hydrocarbures",
+        "url": "https://www.agenceecofin.com/hydrocarbures/feed",
+        "type": "rss",
+        "zone": "afrique",
+        "statut": "Flux RSS déclaré"
+      },
+      {
+        "nom": "Jeune Afrique — Économie",
+        "url": "https://www.jeuneafrique.com/rubriques/economie/feed/",
+        "type": "rss",
+        "zone": "afrique",
+        "statut": "Flux RSS déclaré"
+      },
+      {
+        "nom": "Reuters — Énergie (international)",
+        "url": "https://www.reuters.com/business/energy/",
+        "type": "web",
+        "zone": "international",
+        "statut": "Scraping générique (à affiner par site)"
+      }
+    ],
+    "mines": [
+      {
+        "nom": "Ministère des Mines, du Pétrole et de l'Énergie (CI) — volet Mines",
+        "url": "https://www.energie.gouv.ci/actualites",
+        "type": "web",
+        "zone": "ci",
+        "statut": "Scraping générique (à affiner par site)"
+      },
+      {
+        "nom": "SODEMI",
+        "url": "https://sodemi.ci/",
+        "type": "web",
+        "zone": "ci",
+        "statut": "Scraping générique (à affiner par site)"
+      },
+      {
+        "nom": "Agence Ecofin — Matières premières",
+        "url": "https://www.agenceecofin.com/matieres-premieres/feed",
+        "type": "rss",
+        "zone": "afrique",
+        "statut": "Flux RSS déclaré"
+      },
+      {
+        "nom": "Banque Africaine de Développement — Actualités",
+        "url": "https://www.afdb.org/fr/news-and-events",
+        "type": "web",
+        "zone": "afrique",
+        "statut": "Scraping générique (à affiner par site)"
+      }
+    ],
+    "energie": [
+      {
+        "nom": "CI-ENERGIES",
+        "url": "https://www.cinergies.ci/",
+        "type": "web",
+        "zone": "ci",
+        "statut": "Scraping générique (à affiner par site)"
+      },
+      {
+        "nom": "Ministère des Mines, du Pétrole et de l'Énergie (CI) — volet Énergie",
+        "url": "https://www.energie.gouv.ci/actualites",
+        "type": "web",
+        "zone": "ci",
+        "statut": "Scraping générique (à affiner par site)"
+      },
+      {
+        "nom": "Agence Ecofin — Énergies",
+        "url": "https://www.agenceecofin.com/energies/feed",
+        "type": "rss",
+        "zone": "afrique",
+        "statut": "Flux RSS déclaré"
+      }
+    ],
+    "institutionnel": [
+      {
+        "nom": "Présidence de la République de Côte d'Ivoire",
+        "url": "https://www.presidence.ci/feed/",
+        "type": "rss",
+        "zone": "ci",
+        "statut": "Flux RSS déclaré"
+      },
+      {
+        "nom": "Portail officiel du Gouvernement de Côte d'Ivoire",
+        "url": "https://www.gouv.ci",
+        "type": "web",
+        "zone": "ci",
+        "statut": "Scraping générique (à affiner par site)"
+      }
+    ]
+  }
+}

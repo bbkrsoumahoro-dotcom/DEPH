@@ -1,0 +1,17 @@
+# Environnements Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# NOTE : collector/state/ (base SQLite persistée entre les cycles GitHub
+# Actions) et data/*.json (lus par index.html) sont volontairement suivis
+# par git — c'est ce qui permet au site statique d'afficher les vraies
+# données sans base de données côté serveur. Ne pas les ignorer ici.
+
+# Secrets locaux éventuels
+.env
+
+# Fichiers système
+.DS_Store
+
