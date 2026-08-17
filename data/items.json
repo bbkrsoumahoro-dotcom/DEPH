@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-17T16:32:17",
+  "generated_at": "2026-08-17T17:30:45",
   "items": [
+    {
+      "id": 117,
+      "titre": "Aminata Kane (Visa) : « La régulation des fintech est un peu plus contraignante en Afrique francophone »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1833073/economie-entreprises/aminata-kane-visa-la-regulation-des-fintech-est-un-peu-plus-contraignante-en-afrique-francophone/",
+      "resume": "Si l’Afrique subsaharienne figure parmi les marchés où les transactions mobiles progressent le plus rapidement, plusieurs freins entravent encore leur développement à plus grande échelle, estime la vice-présidente senior de Visa pour l’Afrique de l’Ouest et l’Afrique centrale.",
+      "date_publication": "2026-08-17T19:00:00+00:00",
+      "heure_collecte": "2026-08-17T17:30:25"
+    },
+    {
+      "id": 118,
+      "titre": "Rencontre avec Aurélien Mintsa Nguema, frère et conseiller du président",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1833133/politique/rencontre-avec-aurelien-mintsa-nguema-frere-et-conseiller-du-president/",
+      "resume": "Le frère cadet de Brice Clotaire Oligui Nguema a longtemps tenté de se tenir à l’écart des médias et des querelles de cour. De passage à Paris, le nouvel ambassadeur du Gabon en Inde a toutefois accepté de se confier à JA.",
+      "date_publication": "2026-08-17T18:54:14+00:00",
+      "heure_collecte": "2026-08-17T17:30:25"
+    },
     {
       "id": 116,
       "titre": "« Rendements élevés et monnaies bon marché » : comment la dette africaine séduit les investisseurs",
