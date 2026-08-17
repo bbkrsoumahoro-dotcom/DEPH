@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-17T09:47:37",
+  "generated_at": "2026-08-17T10:35:59",
   "items": [
+    {
+      "id": 114,
+      "titre": "Rabiu contre Dangote : deux milliardaires à la lutte pour bâtir l’avenir industriel du Nigeria",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1831025/economie-entreprises/rabiu-contre-dangote-deux-milliardaires-a-la-lutte-pour-batir-lavenir-industriel-du-nigeria/",
+      "resume": "Abdul Samad Rabiu et Aliko Dangote sont les hommes les plus riches du Nigeria. Ils s’affrontent à coups de milliards de dollars d’investissement dans le ciment, le sucre, les engrais… Chacun, à sa manière, veut transformer le paysage industriel du pays.",
+      "date_publication": "2026-08-17T12:30:00+00:00",
+      "heure_collecte": "2026-08-17T10:35:38"
+    },
+    {
+      "id": 115,
+      "titre": "Au Mali, Ras Bath et Rose la vie chère condamnés à de lourdes peines de prison",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835215/politique/au-mali-ras-bath-et-rose-la-vie-chere-condamnes-a-de-lourdes-peines-de-prison/",
+      "resume": "Les deux activistes, incarcérés depuis mars 2023, ont été reconnus coupables d’atteinte à la sûreté de l’État par la justice malienne. Ras Bath et Rose la vie chère ont été condamnés à 10 ans de prison.",
+      "date_publication": "2026-08-17T11:58:14+00:00",
+      "heure_collecte": "2026-08-17T10:35:38"
+    },
     {
       "id": 113,
       "titre": "Maroc-Émirats : derrière les milliards, un nouvel axe de l’Atlantique au Golfe",
