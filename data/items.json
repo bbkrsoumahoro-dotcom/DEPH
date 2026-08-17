@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-17T17:30:45",
+  "generated_at": "2026-08-17T17:59:27",
   "items": [
+    {
+      "id": 119,
+      "titre": "Cameroun : le resort de Ngomedzap, fief politique de Grégoire Owona",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1831190/politique/cameroun-le-resort-de-ngomedzap-fief-politique-de-gregoire-owona/",
+      "resume": "Le ministre camerounais du Travail, Grégoire Owona, a fait construire dans son village natal un resort assorti d’un parcours de golf. Une destination de loisirs, mais pas uniquement…",
+      "date_publication": "2026-08-17T19:40:02+00:00",
+      "heure_collecte": "2026-08-17T17:59:07"
+    },
     {
       "id": 117,
       "titre": "Aminata Kane (Visa) : « La régulation des fintech est un peu plus contraignante en Afrique francophone »",
