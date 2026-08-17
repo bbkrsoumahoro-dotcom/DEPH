@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-17T08:49:25",
+  "generated_at": "2026-08-17T09:47:37",
   "items": [
+    {
+      "id": 113,
+      "titre": "Maroc-Émirats : derrière les milliards, un nouvel axe de l’Atlantique au Golfe",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1833337/politique/maroc-emirats-derriere-les-milliards-un-nouvel-axe-de-latlantique-au-golfe/",
+      "resume": "Des ports, de l’énergie, des milliards de dollars d’échanges et d’investissement, et l’Afrique en ligne de mire. Entre Rabat et Abou Dhabi, les grands projets commencent à donner corps à une alliance qui dépasse largement les affaires. Une étude décrypte les ambitions géopolitiques des deux monarchies, du Sahara aux accords d’Abraham.",
+      "date_publication": "2026-08-17T11:34:55+00:00",
+      "heure_collecte": "2026-08-17T09:47:16"
+    },
     {
       "id": 110,
       "titre": "Niger : le MPLJ, mouvement pro-Bazoum, intensifie ses attaques contre la junte",
