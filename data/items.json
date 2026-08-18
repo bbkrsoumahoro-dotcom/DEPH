@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-18T15:36:09",
+  "generated_at": "2026-08-18T16:36:07",
   "items": [
+    {
+      "id": 127,
+      "titre": "Maroc : derrière les records de croissance, les failles d’un modèle social",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835934/politique/maroc-derriere-les-records-de-croissance-les-failles-dun-modele-social/",
+      "resume": "Les capitaux affluent et les grands chantiers s’enchaînent, mais l’emploi est à la traîne, la population vieillit et les inégalités demeurent. Le rapport annuel du Conseil économique, social et environnemental (Cese) montre que le passage de la croissance au progrès social reste difficile.",
+      "date_publication": "2026-08-18T18:29:26+00:00",
+      "heure_collecte": "2026-08-18T16:35:39"
+    },
+    {
+      "id": 128,
+      "titre": "En Côte d’Ivoire, comment les anciens chefs rebelles ont conquis le sommet de l’État",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835577/politique/en-cote-divoire-comment-les-anciens-chefs-rebelles-ont-conquis-le-sommet-de-letat/",
+      "resume": "Vingt-quatre ans après l’insurrection de 2002, les anciens chefs des Forces nouvelles dirigent états-majors, préfectures et ambassades. Le décès de Martin Fofié Kouakou rappelle comment cette génération de « comzone » a reconfiguré les institutions.",
+      "date_publication": "2026-08-18T17:57:15+00:00",
+      "heure_collecte": "2026-08-18T16:35:39"
+    },
     {
       "id": 126,
       "titre": "En Centrafrique, François Bozizé mis en cause dans la disparition de Charles Massi lors du procès « Bossembélé »",
