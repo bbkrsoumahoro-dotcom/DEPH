@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-18T10:33:21",
+  "generated_at": "2026-08-18T11:29:22",
   "items": [
+    {
+      "id": 124,
+      "titre": "Nigeria : la fin de l’eldorado des cryptos ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "rouge",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835229/economie-entreprises/nigeria-la-fin-de-leldorado-des-cryptos/",
+      "resume": "Le Nigeria veut taxer les cryptomonnaies. Les opérateurs du secteur redoutent une fuite des capitaux vers des plateformes étrangères non réglementées, au détriment du premier marché d’actifs numériques du continent.",
+      "date_publication": "2026-08-18T12:57:44+00:00",
+      "heure_collecte": "2026-08-18T11:29:01"
+    },
+    {
+      "id": 125,
+      "titre": "Cameroun : 5 questions pour comprendre le scandale des faux décrets de Paul Biya",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1827776/politique/cameroun-5-questions-pour-comprendre-le-scandale-des-faux-decrets-de-paul-biya/",
+      "resume": "Le 12 juin, deux faux décrets présidentiels ont failli être lus à la CRTV. Deux mois plus tard, l’enquête s’oriente vers l’entourage de Paul Biya et met en lumière l’exacerbation de la lutte entre les clans qui se disputent le poste, encore vacant, de vice-président.",
+      "date_publication": "2026-08-18T12:30:59+00:00",
+      "heure_collecte": "2026-08-18T11:29:01"
+    },
     {
       "id": 122,
       "titre": "Zambie : Hakainde Hichilema réélu président avec 60 % des voix malgré des tensions inédites",
