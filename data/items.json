@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-18T05:33:36",
+  "generated_at": "2026-08-18T06:50:44",
   "items": [
+    {
+      "id": 121,
+      "titre": "Le port de Tema fourbit ses armes face à Abidjan et Lomé",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1834997/economie-entreprises/le-port-de-tema-fourbit-ses-armes-face-a-abidjan-et-lome/",
+      "resume": "Alors que la compétition est rude entre les ports d’Afrique de l’Ouest, l’infrastructure ghanéenne de Tema consolide son essor. Une réussite fondée sur la croissance du trafic de conteneurs que le port veut appliquer aux autres segments d’activité.",
+      "date_publication": "2026-08-18T08:26:01+00:00",
+      "heure_collecte": "2026-08-18T06:50:23"
+    },
     {
       "id": 120,
       "titre": "Au Tchad, Mahamat Idriss Déby Itno est-il vraiment un souverainiste ?",
