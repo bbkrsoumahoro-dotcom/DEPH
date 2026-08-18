@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-18T07:42:04",
+  "generated_at": "2026-08-18T08:41:33",
   "items": [
+    {
+      "id": 122,
+      "titre": "Zambie : Hakainde Hichilema réélu président avec 60 % des voix malgré des tensions inédites",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835715/politique/zambie-hakainde-hichilema-reelu-president-avec-60-des-voix-malgre-des-tensions-inedites/",
+      "resume": "Le président sortant a été réélu pour un deuxième mandat à la tête de la Zambie dans une confusion politique inhabituelle. Plusieurs opposants ont été arrêtés.",
+      "date_publication": "2026-08-18T10:12:43+00:00",
+      "heure_collecte": "2026-08-18T08:41:14"
+    },
+    {
+      "id": 123,
+      "titre": "Au Sénégal, l’Assemblée nationale adopte la loi sur la déclaration de patrimoine des hauts dirigeants",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835696/politique/au-senegal-lassemblee-nationale-adopte-la-loi-sur-la-declaration-de-patrimoine-des-hauts-dirigeants/",
+      "resume": "Le nouveau texte impose au chef de l’État, au président de l’Assemblée nationale et au Premier ministre de déclarer leur patrimoine au Conseil constitutionnel à leur entrée et à leur sortie de fonction. Un texte adopté sur fond de discorde entre Bassirou Diomaye Faye et Ousmane Sonko.",
+      "date_publication": "2026-08-18T09:20:34+00:00",
+      "heure_collecte": "2026-08-18T08:41:14"
+    },
     {
       "id": 121,
       "titre": "Le port de Tema fourbit ses armes face à Abidjan et Lomé",
