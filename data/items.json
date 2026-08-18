@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-18T04:39:48",
+  "generated_at": "2026-08-18T05:33:36",
   "items": [
+    {
+      "id": 120,
+      "titre": "Au Tchad, Mahamat Idriss Déby Itno est-il vraiment un souverainiste ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1831802/politique/au-tchad-mahamat-idriss-deby-itno-est-il-vraiment-un-souverainiste/",
+      "resume": "Retrait des troupes françaises, rapprochement avec l’AES, départ annoncé de la CPI : le président tchadien assume un discours de plus en plus « populiste ». Mais derrière cette rupture affichée, les réalités sont plus nuancées.",
+      "date_publication": "2026-08-18T07:00:00+00:00",
+      "heure_collecte": "2026-08-18T05:33:13"
+    },
     {
       "id": 119,
       "titre": "Cameroun : le resort de Ngomedzap, fief politique de Grégoire Owona",
