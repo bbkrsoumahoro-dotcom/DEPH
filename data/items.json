@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-18T16:36:07",
+  "generated_at": "2026-08-18T17:31:55",
   "items": [
+    {
+      "id": 129,
+      "titre": "Cameroun : Grégoire Mba Mba, prince de Kribi et de l’Océan ad vitam aeternam ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1832168/politique/cameroun-gregoire-mba-mba-prince-de-kribi-et-de-locean-ad-vitam-aeternam/",
+      "resume": "Responsables politiques et hommes d’affaires se ruent sur les terres qui entourent la ville de Kribi. Mais le sénateur Mba Mba entend bien rester le patron de cette partie de la côte méridionale du Cameroun.",
+      "date_publication": "2026-08-18T19:24:38+00:00",
+      "heure_collecte": "2026-08-18T17:31:32"
+    },
+    {
+      "id": 130,
+      "titre": "Côte d’Ivoire : la concurrence s’accentue dans le monde des moulins",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836023/economie-entreprises/cote-divoire-la-concurrence-saccentue-dans-le-monde-des-moulins/",
+      "resume": "Déjà très compétitif, le secteur ivoirien de la minoterie voit arriver un nouvel acteur. Un dynamisme porté par la croissance et l’essor démographique de ces dernières années.",
+      "date_publication": "2026-08-18T19:00:44+00:00",
+      "heure_collecte": "2026-08-18T17:31:32"
+    },
+    {
+      "id": 131,
+      "titre": "Dialogue en RDC : face à Félix Tshisekedi, le dilemme de l’opposition",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835743/politique/dialogue-en-rdc-face-a-felix-tshisekedi-le-dilemme-de-lopposition/",
+      "resume": "La coalition C64 a promis une nouvelle manifestation devant le Parlement congolais, le 15 septembre. Mais ces deux derniers mois, les opposants ont souvent été contraints de s’adapter au timing imposé par Félix Tshisekedi.",
+      "date_publication": "2026-08-18T18:54:48+00:00",
+      "heure_collecte": "2026-08-18T17:31:32"
+    },
     {
       "id": 127,
       "titre": "Maroc : derrière les records de croissance, les failles d’un modèle social",
