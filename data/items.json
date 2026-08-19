@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-19T09:38:30",
+  "generated_at": "2026-08-19T10:33:54",
   "items": [
+    {
+      "id": 136,
+      "titre": "Tony Elumelu, le tycoon qui rêve de faire de Seplat Energy un UBA du pétrole",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835457/economie-entreprises/tony-elumelu-le-tycoon-qui-reve-de-faire-de-seplat-energy-un-uba-du-petrole/",
+      "resume": "Élu président de Seplat Energy en juin 2025, Tony Elumelu ambitionne de bâtir un champion pétrolier nigérian à l’image de ce qu’il a réalisé avec UBA dans la banque. Un pari autrement plus contraint.",
+      "date_publication": "2026-08-19T12:27:04+00:00",
+      "heure_collecte": "2026-08-19T10:33:31"
+    },
+    {
+      "id": 137,
+      "titre": "Côte d’Ivoire : Adama Bictogo à « Yop City », loin du perchoir mais pas du pouvoir",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1831561/politique/cote-divoire-adama-bictogo-a-yop-city-loin-du-perchoir-mais-pas-du-pouvoir/",
+      "resume": "Quelques mois après avoir quitté la présidence de l’Assemblée nationale, Adama Bictogo investit désormais son énergie à Yopougon, à la tête de la Snedai, le groupe qu’il a fondé, mais aussi auprès de sa famille. Portrait d’un homme qui patiente, sans rien céder de sa loyauté envers Alassane Ouattara.",
+      "date_publication": "2026-08-19T12:00:15+00:00",
+      "heure_collecte": "2026-08-19T10:33:31"
+    },
     {
       "id": 135,
       "titre": "Archives coloniales du Maroc : entre fonds stratégiques et piège d’une réduction du récit national",
