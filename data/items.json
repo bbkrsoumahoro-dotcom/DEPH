@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-19T08:42:53",
+  "generated_at": "2026-08-19T09:38:30",
   "items": [
+    {
+      "id": 135,
+      "titre": "Archives coloniales du Maroc : entre fonds stratégiques et piège d’une réduction du récit national",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1748482/politique/archives-coloniales-du-maroc-entre-fonds-strategiques-et-piege-dune-reduction-du-recit-national/",
+      "resume": "Du fait de la colonisation, une grande partie des archives marocaines est encore conservée à l’étranger, notamment en France et en Espagne. Alors que le royaume mène une politique active de récupération de ces documents et que Paris comme Madrid se disent prêts à les lui transmettre, les historiens rappellent que l’étude du passé ne se limite pas à la période du protectorat.",
+      "date_publication": "2026-08-19T10:58:00+00:00",
+      "heure_collecte": "2026-08-19T09:38:10"
+    },
     {
       "id": 132,
       "titre": "RDC : avec Starlink Mobile, Airtel est-il en passe de bousculer le marché ?",
