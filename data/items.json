@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-19T17:55:02",
+  "generated_at": "2026-08-19T18:40:51",
   "items": [
+    {
+      "id": 143,
+      "titre": "Cameroun : Nkolandom, chefferie et baronnie du ministre Jacques Fame Ndongo",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1833468/politique/cameroun-nkolandom-chefferie-et-baronnie-du-ministre-jacques-fame-ndongo/",
+      "resume": "Propriété du ministre de l’Enseignement supérieur, le Centre touristique de Nkolandom, refuge naturel et espace de préservation de la mémoire patrimoniale, situé dans le sud du pays, est surtout un lieu de rencontres discrètes entre caciques du parti présidentiel.",
+      "date_publication": "2026-08-19T19:54:34+00:00",
+      "heure_collecte": "2026-08-19T18:40:30"
+    },
     {
       "id": 142,
       "titre": "Fonds souverain guinéen : les dessous du bras de fer entre Conakry et le FMI",
