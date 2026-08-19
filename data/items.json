@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-19T05:34:57",
+  "generated_at": "2026-08-19T06:52:04",
   "items": [
+    {
+      "id": 132,
+      "titre": "RDC : avec Starlink Mobile, Airtel est-il en passe de bousculer le marché ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835928/economie-entreprises/rdc-avec-starlink-mobile-airtel-est-il-en-passe-de-bousculer-le-marche/",
+      "resume": "La RDC devient le premier pays africain à bénéficier de Starlink Mobile, via Airtel. Un accord potentiellement étendu aux 14 filiales du groupe sur le continent, mais dont l’impact reste conditionné à la disponibilité de terminaux haut de gamme.",
+      "date_publication": "2026-08-19T08:27:09+00:00",
+      "heure_collecte": "2026-08-19T06:51:42"
+    },
+    {
+      "id": 133,
+      "titre": "L’affaire Bruno Foucher, dernier épisode d’une série de crises pour l’ambassade française en Centrafrique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835802/politique/laffaire-bruno-foucher-dernier-episode-dune-serie-de-crises-pour-lambassade-francaise-en-centrafrique/",
+      "resume": "Le scandale provoqué par l’ambassadeur de France, qui a reconnu avoir reçu de nombreuses jeunes femmes dans sa résidence, est le dernier d’une longue succession d’affaires. Il intervient en outre au pire moment pour Paris, qui tente de reprendre pied en Centrafrique malgré l’omniprésence russe dans le pays.",
+      "date_publication": "2026-08-19T08:00:03+00:00",
+      "heure_collecte": "2026-08-19T06:51:42"
+    },
+    {
+      "id": 134,
+      "titre": "Diomaye, l’affranchi : pourquoi le président sénégalais joue sa survie politique après la rupture avec Sonko",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1831448/politique/diomaye-laffranchi-pourquoi-le-president-senegalais-joue-sa-survie-politique-apres-la-rupture-avec-sonko/",
+      "resume": "Après avoir limogé Ousmane Sonko, son Premier ministre, Bassirou Diomaye Faye, le chef de l’État sénégalais, qui vient de créer son propre parti, a les yeux rivés sur les échéances électorales qui, en 2027, détermineront son destin politique.",
+      "date_publication": "2026-08-19T07:00:00+00:00",
+      "heure_collecte": "2026-08-19T06:51:42"
+    },
     {
       "id": 129,
       "titre": "Cameroun : Grégoire Mba Mba, prince de Kribi et de l’Océan ad vitam aeternam ?",
