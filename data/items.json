@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-19T14:38:35",
+  "generated_at": "2026-08-19T15:35:36",
   "items": [
+    {
+      "id": 138,
+      "titre": "FMI au Sénégal : trois enjeux clés pour sortir de l’impasse de la dette cachée",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836139/economie-entreprises/fmi-au-senegal-trois-enjeux-cles-pour-sortir-de-limpasse-de-la-dette-cachee/",
+      "resume": "Alors qu’une nouvelle mission du FMI débute ce 19 août au Sénégal, le pays n’a jamais été aussi proche d’un accord avec le Fonds. Les discussions pourraient néanmoins se prolonger pendant encore plusieurs semaines. Explications.",
+      "date_publication": "2026-08-19T17:06:02+00:00",
+      "heure_collecte": "2026-08-19T15:35:14"
+    },
+    {
+      "id": 139,
+      "titre": "Togo : ce que l’on sait de l’arrestation des deux journalistes français placés en détention à Lomé",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836114/politique/togo-ce-que-lon-sait-de-larrestation-des-deux-journalistes-francais-places-en-detention-a-lome/",
+      "resume": "Deux journalistes français ainsi que leur collaborateur togolais, interpellés fin juillet dans le nord du pays, ont été placés en détention lundi 17 août. Ils sont poursuivis pour « fausses déclarations ». Selon nos informations, ils bénéficiaient pourtant d’une autorisation de tournage.",
+      "date_publication": "2026-08-19T16:43:40+00:00",
+      "heure_collecte": "2026-08-19T15:35:14"
+    },
     {
       "id": 136,
       "titre": "Tony Elumelu, le tycoon qui rêve de faire de Seplat Energy un UBA du pétrole",
