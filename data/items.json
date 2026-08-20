@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-20T05:35:17",
+  "generated_at": "2026-08-20T06:53:36",
   "items": [
+    {
+      "id": 145,
+      "titre": "Pétrole : le Niger parie 1,9 milliard de dollars sur Zimar, un groupe canadien aux références introuvables",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836039/economie-entreprises/petrole-le-niger-parie-19-milliard-de-dollars-sur-zimar-un-groupe-canadien-aux-references-introuvables/",
+      "resume": "Le Niger signe avec le canadien Zimar pour construire une raffinerie à Dosso. Mais la crédibilité du groupe, introuvable sur la scène internationale, suscite des doutes jusque dans les rangs du gouvernement.",
+      "date_publication": "2026-08-20T08:16:48+00:00",
+      "heure_collecte": "2026-08-20T06:53:12"
+    },
+    {
+      "id": 146,
+      "titre": "Bah Oury : « Il n’y a pas de régime militaire caché en Guinée »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1829729/politique/bah-oury-il-ny-a-pas-de-regime-militaire-cache-en-guinee/",
+      "resume": "Deux ans et demi après sa nomination, la page de la transition désormais tournée, le Premier ministre guinéen a fait sien le discours de Mamadi Doumbouya. Sans nuances. Reconduit à la tête du gouvernement, il revient sur la place de l’opposition, les disparitions, les priorités de l’exécutif et l’avenir du pays.",
+      "date_publication": "2026-08-20T06:55:00+00:00",
+      "heure_collecte": "2026-08-20T06:53:12"
+    },
     {
       "id": 144,
       "titre": "Rencontre avec CECEP, CGM et CGC Chinois",
