@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-20T15:38:24",
+  "generated_at": "2026-08-20T16:39:26",
   "items": [
+    {
+      "id": 149,
+      "titre": "Blé : l’Afrique face au retour du risque de pénurie ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836678/economie-entreprises/ble-lafrique-face-au-retour-du-risque-de-penurie/",
+      "resume": "Le regain de tensions entre la Russie et l’Ukraine en mer Noire, combiné aux perturbations dans le détroit d’Ormuz, mettent le marché du blé sous pression. Alors que le continent dépend des importations, les meuniers restent sur leurs gardes.",
+      "date_publication": "2026-08-20T18:35:59+00:00",
+      "heure_collecte": "2026-08-20T16:39:02"
+    },
+    {
+      "id": 150,
+      "titre": "Paul Biya, de retour au Cameroun, saura-t-il répondre aux attentes ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836387/politique/paul-biya-de-retour-au-cameroun-saura-t-il-repondre-aux-attentes/",
+      "resume": "Le président camerounais est arrivé à Yaoundé ce 20 août, après 74 jours passés en Suisse. Maintes fois annoncé mais toujours reporté, ce retour va-t-il permettre de débloquer les nombreux sujets en suspens ?",
+      "date_publication": "2026-08-20T18:29:06+00:00",
+      "heure_collecte": "2026-08-20T16:39:02"
+    },
     {
       "id": 148,
       "titre": "10 choses à savoir sur Djenabou Touré, la « Madame élections » de Mamadi Doumbouya",
