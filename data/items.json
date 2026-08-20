@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-20T16:39:26",
+  "generated_at": "2026-08-20T17:33:46",
   "items": [
+    {
+      "id": 151,
+      "titre": "Martin Fayulu : « Félix Tshisekedi me verra sur sa route s’il change la Constitution »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836451/politique/martin-fayulu-felix-tshisekedi-me-verra-sur-sa-route-sil-change-la-constitution/",
+      "resume": "L’opposant, membre de la coalition C64, met en garde le président congolais contre toute tentative de se maintenir au pouvoir, et le presse d’organiser un dialogue national inclusif. Entretien en vidéo.",
+      "date_publication": "2026-08-20T19:30:00+00:00",
+      "heure_collecte": "2026-08-20T17:33:26"
+    },
+    {
+      "id": 152,
+      "titre": "Côte d’Ivoire : les dessous de la (difficile) refonte des instances du RHDP voulue par Alassane Ouattara",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836342/politique/cote-divoire-les-dessous-de-la-difficile-refonte-des-instances-du-rhdp-voulue-par-alassane-ouattara/",
+      "resume": "La refonte du RHDP, initiée par le chef de l’État, tarde à se traduire dans les textes statutaires du parti présidentiel. Alors que de nouvelles instances ont été créées, dont un « Comité de direction », découvrez les coulisses d’une réorganisation interne complexe.",
+      "date_publication": "2026-08-20T18:59:15+00:00",
+      "heure_collecte": "2026-08-20T17:33:26"
+    },
     {
       "id": 149,
       "titre": "Blé : l’Afrique face au retour du risque de pénurie ?",
