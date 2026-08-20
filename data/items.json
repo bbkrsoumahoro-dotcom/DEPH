@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-20T07:44:32",
+  "generated_at": "2026-08-20T08:43:44",
   "items": [
+    {
+      "id": 147,
+      "titre": "De Denis Sassou Nguesso à Abdoulaye Diop, il fut un temps où l’Algérie formait l’Afrique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836111/politique/de-denis-sassou-nguesso-a-abdoulaye-diop-il-fut-un-temps-ou-lalgerie-formait-lafrique/",
+      "resume": "L’Algérie relance sa diplomatie éducative et offre 205 bourses à des étudiants camerounais. Ce geste ravive une tradition panafricaine façonnée entre les années 1960 et 1990, pendant lesquelles nombre de dirigeants et hauts fonctionnaires du continent sont passés par l’école militaire de Cherchell ou l’ENA d’Alger.",
+      "date_publication": "2026-08-20T10:27:00+00:00",
+      "heure_collecte": "2026-08-20T08:43:25"
+    },
     {
       "id": 145,
       "titre": "Pétrole : le Niger parie 1,9 milliard de dollars sur Zimar, un groupe canadien aux références introuvables",
