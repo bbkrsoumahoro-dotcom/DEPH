@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-19T23:50:33",
+  "generated_at": "2026-08-20T01:27:08",
   "items": [
+    {
+      "id": 144,
+      "titre": "Rencontre avec CECEP, CGM et CGC Chinois",
+      "categorie": "mines",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "SODEMI",
+      "url": "https://sodemi.ci/rencontre-avec-cecep-cgm-et-cgc-chinois/",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-08-20T01:26:51"
+    },
     {
       "id": 143,
       "titre": "Cameroun : Nkolandom, chefferie et baronnie du ministre Jacques Fame Ndongo",
