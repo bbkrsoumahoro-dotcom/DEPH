@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-21T11:35:18",
+  "generated_at": "2026-08-21T12:56:06",
   "items": [
+    {
+      "id": 160,
+      "titre": "Malgré le choc de l’AES, la banque de la Cedeao parvient à changer d’échelle",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836579/economie-entreprises/malgre-le-choc-de-laes-la-banque-de-la-cedeao-parvient-a-changer-dechelle/",
+      "resume": "Entrée de la BAD au capital, diversification des bailleurs, gestion du choc de l’AES… La banque de développement régionale semble amorcer une nouvelle phase, comme en témoigne le relèvement récent de sa note par Moody’s.",
+      "date_publication": "2026-08-21T14:03:24+00:00",
+      "heure_collecte": "2026-08-21T12:55:45"
+    },
     {
       "id": 159,
       "titre": "Alain Ebobissé (Africa50) : « L’Afrique doit mobiliser ses propres capitaux avant d’en chercher ailleurs »",
