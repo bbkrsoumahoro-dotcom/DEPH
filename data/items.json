@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-21T15:37:47",
+  "generated_at": "2026-08-21T16:39:46",
   "items": [
+    {
+      "id": 162,
+      "titre": "Crise de Ceuta : l’Espagne peut-elle vraiment utiliser la carte énergétique contre le Maroc ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836737/economie-entreprises/crise-de-ceuta-lespagne-peut-elle-vraiment-utiliser-la-carte-energetique-contre-le-maroc/",
+      "resume": "La crise migratoire intervenue à Ceuta a tendu les relations entre Madrid et Rabat. Dans ce bras de fer, l’Espagne dispose d’un levier non négligeable : elle est un fournisseur de premier plan en gaz, pétrole et électricité du royaume. Décryptage.",
+      "date_publication": "2026-08-21T18:05:44+00:00",
+      "heure_collecte": "2026-08-21T16:39:26"
+    },
+    {
+      "id": 161,
+      "titre": "Aux origines de la divination marocaine",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1474728/politique/aux-origines-de-la-divination-marocaine/",
+      "resume": "Si l’islam condamne fermement la pratique de la sorcellerie, il reconnaît son existence et a intégré une part de magie. Au Maroc, pays multiculturel de tradition soufie, confrérique et maraboutique, cette magie semble avoir pris une ampleur inédite.",
+      "date_publication": "2026-08-21T18:13:08+00:00",
+      "heure_collecte": "2026-08-21T16:39:25"
+    },
     {
       "id": 160,
       "titre": "Malgré le choc de l’AES, la banque de la Cedeao parvient à changer d’échelle",
