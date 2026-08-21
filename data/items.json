@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-21T05:59:40",
+  "generated_at": "2026-08-21T07:02:31",
   "items": [
+    {
+      "id": 153,
+      "titre": "Barrick, Resolute, B2Gold… La production d’or au Mali fait son « come-back »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836674/economie-entreprises/barrick-resolute-b2gold-la-production-dor-au-mali-fait-son-come-back/",
+      "resume": "Bamako remonte la pente dans sa production d’or malgré l’insécurité et un climat des affaires encore compliqué pour les compagnies minières.",
+      "date_publication": "2026-08-21T08:26:38+00:00",
+      "heure_collecte": "2026-08-21T07:02:08"
+    },
+    {
+      "id": 154,
+      "titre": "Effondrement de la mine de Zamboï en Centrafrique : ce que le drame révèle des dérives du secteur de l’or au Cameroun",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836382/politique/effondrement-de-la-mine-de-zamboi-en-centrafrique-ce-que-le-drame-revele-des-derives-du-secteur-de-lor-au-cameroun/",
+      "resume": "Un éboulement survenu sur un site minier situé à la frontière entre les deux pays, ce 18 août, a fait au moins 100 morts. Le drame relance le débat autour du contrôle défaillant de l’orpaillage au Cameroun.",
+      "date_publication": "2026-08-21T07:00:00+00:00",
+      "heure_collecte": "2026-08-21T07:02:08"
+    },
     {
       "id": 151,
       "titre": "Martin Fayulu : « Félix Tshisekedi me verra sur sa route s’il change la Constitution »",
