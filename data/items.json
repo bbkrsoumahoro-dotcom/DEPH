@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-22T08:35:17",
+  "generated_at": "2026-08-22T09:31:36",
   "items": [
+    {
+      "id": 166,
+      "titre": "Visite du DG à AFEMA Gold",
+      "categorie": "mines",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "SODEMI",
+      "url": "https://sodemi.ci/visite-du-dg-a-afema-gold/",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-08-22T09:31:21"
+    },
     {
       "id": 164,
       "titre": "La Fabrique de l’info : pourquoi certains articles de Jeune Afrique sont anonymes",
