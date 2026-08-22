@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-22T07:35:25",
+  "generated_at": "2026-08-22T08:35:17",
   "items": [
+    {
+      "id": 164,
+      "titre": "La Fabrique de l’info : pourquoi certains articles de Jeune Afrique sont anonymes",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836149/societe/la-fabrique-de-linfo-pourquoi-certains-articles-de-jeune-afrique-sont-anonymes/",
+      "resume": "Nous faisons parfois le choix de ne pas apposer de signature à nos contenus. Il s’agit d’une pratique délibérée, destinée à protéger journalistes et sources dans des contextes à haut risque.",
+      "date_publication": "2026-08-22T09:01:00+00:00",
+      "heure_collecte": "2026-08-22T08:34:57"
+    },
+    {
+      "id": 165,
+      "titre": "Paul Biya de retour au Cameroun, Faure Essozimna Gnassingbé en médiateur, l’heure de vérité pour Bassirou Diomaye Faye… Les 5 infos qu’il ne fallait pas manquer",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835286/politique/paul-biya-de-retour-au-cameroun-faure-essozimna-gnassingbe-en-mediateur-lheure-de-verite-pour-bassirou-diomaye-faye-les-5-infos-quil-ne-fallait-pas-manquer/",
+      "resume": "Cette semaine, le Brief de Jeune Afrique revient sur le retour de Paul Biya au Cameroun, décrypte le rôle de Faure Essozimna Gnassingbé dans la libération de deux mercenaires russes par le FLA, analyse la bataille politique de Bassirou Diomaye Faye après sa rupture avec Ousmane Sonko, se penche sur le redémarrage de la production d’or au Mali et examine les fragilités du modèle social marocain.",
+      "date_publication": "2026-08-22T08:29:00+00:00",
+      "heure_collecte": "2026-08-22T08:34:57"
+    },
     {
       "id": 163,
       "titre": "Cameroun : Bagofit Sun City, le bastion de luxe de Joseph Le dans l’Est",
