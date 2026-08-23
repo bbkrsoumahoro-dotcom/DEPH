@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-23T07:37:05",
+  "generated_at": "2026-08-23T08:35:38",
   "items": [
+    {
+      "id": 185,
+      "titre": "Voyage dans l’univers de la magie marocaine",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1475056/politique/voyage-dans-lunivers-de-la-magie-marocaine/",
+      "resume": "Créatures surnaturelles de l’ombre, transes et sacrifices, potions magiques, le Maroc est un patchwork de croyances occultes et ésotériques qui traverse toutes les classes sociales, jusqu’au Palais. Exploration d’un univers aussi sombre que fascinant.",
+      "date_publication": "2026-08-22T19:29:00+00:00",
+      "heure_collecte": "2026-08-23T08:35:17"
+    },
     {
       "id": 184,
       "titre": "RDC : « plus personne ne doute que Tshisekedi a envie d’un troisième mandat »",
