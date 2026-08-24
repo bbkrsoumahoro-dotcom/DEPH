@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-24T14:50:32",
+  "generated_at": "2026-08-24T15:43:49",
   "items": [
+    {
+      "id": 193,
+      "titre": "Fin du séjour à AFEMA GOLD",
+      "categorie": "mines",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "SODEMI",
+      "url": "https://sodemi.ci/fin-du-sejour-a-afema-gold/",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-08-24T15:43:36"
+    },
     {
       "id": 192,
       "titre": "Centrafrique-Tchad : Abdoulaye Miskine, un ancien chef de guerre bien encombrant",
