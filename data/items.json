@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-24T05:14:43",
+  "generated_at": "2026-08-24T06:05:09",
   "items": [
+    {
+      "id": 188,
+      "titre": "Togo : les dessous du remaniement à la tête de l’armée et des renseignements",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836065/politique/togo-les-dessous-du-remaniement-a-la-tete-de-larmee-et-des-renseignements/",
+      "resume": "Faure Essozimna Gnassingbé a remanié en profondeur son appareil sécuritaire, le 17 août. Une refonte dictée autant par la menace jihadiste dans le nord du pays que par la volonté du président du Conseil de consolider sa mainmise sur l’armée.",
+      "date_publication": "2026-08-24T07:03:00+00:00",
+      "heure_collecte": "2026-08-24T06:04:50"
+    },
+    {
+      "id": 189,
+      "titre": "Mali : libération d’une vingtaine de soldats détenus par le FLA",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837193/politique/mali-liberation-dune-vingtaine-de-soldats-detenus-par-le-fla/",
+      "resume": "La junte et le Front de libération de l’Azawad (FLA) ont procédé à des échanges de prisonniers dimanche 23 août.",
+      "date_publication": "2026-08-23T17:00:44+00:00",
+      "heure_collecte": "2026-08-24T06:04:50"
+    },
     {
       "id": 187,
       "titre": "Mali : le cercle restreint d’Alghabass Ag Intalla, l’architecte de l’alliance entre rebelles et jihadistes",
