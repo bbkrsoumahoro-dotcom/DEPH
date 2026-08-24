@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-24T11:33:13",
+  "generated_at": "2026-08-24T12:57:59",
   "items": [
+    {
+      "id": 192,
+      "titre": "Centrafrique-Tchad : Abdoulaye Miskine, un ancien chef de guerre bien encombrant",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837223/politique/centrafrique-tchad-abdoulaye-miskine-un-ancien-chef-de-guerre-bien-encombrant/",
+      "resume": "Affaibli après près de sept ans de détention, le chef rebelle centrafricain comparaît de nouveau, ce 24 août, devant la justice tchadienne. Au-delà de son sort judiciaire, c’est la question des fragiles relations entre Faustin-Archange Touadéra et Mahamat Idriss Déby Itno qui se joue.",
+      "date_publication": "2026-08-24T14:19:40+00:00",
+      "heure_collecte": "2026-08-24T12:57:39"
+    },
     {
       "id": 191,
       "titre": "Transferts d’argent : Sendwave et TapTapSend, le duel africain des « digital natives »",
