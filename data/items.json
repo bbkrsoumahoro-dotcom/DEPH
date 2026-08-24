@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-24T16:42:54",
+  "generated_at": "2026-08-24T17:34:24",
   "items": [
+    {
+      "id": 195,
+      "titre": "Le Niger reprend son uranium en main malgré le risque des arbitrages internationaux",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837213/economie-entreprises/le-niger-reprend-son-uranium-en-main-malgre-le-risque-des-arbitrages-internationaux/",
+      "resume": "En réattribuant à deux sociétés publiques les permis autrefois détenus par Orano et Goviex, Niamey accélère sa politique de souveraineté minière. Mais ces décisions interviennent alors que plusieurs procédures arbitrales sont toujours en cours.",
+      "date_publication": "2026-08-24T19:28:29+00:00",
+      "heure_collecte": "2026-08-24T17:34:04"
+    },
+    {
+      "id": 196,
+      "titre": "Thierry Hebraud (MCB) : « Si le gaz est important en Europe, pourquoi cela ne serait pas le cas en Afrique ? »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837348/economie-entreprises/thierry-hebraud-mcb-si-le-gaz-est-important-en-europe-pourquoi-cela-ne-serait-pas-le-cas-en-afrique/",
+      "resume": "Boom gazier, électrification, commerce intra-africain… Le patron de la Mauritius Commercial Bank (MCB) détaille la stratégie de son groupe, notamment pour relever les défis énergétiques.",
+      "date_publication": "2026-08-24T18:54:33+00:00",
+      "heure_collecte": "2026-08-24T17:34:04"
+    },
+    {
+      "id": 197,
+      "titre": "Gabon : Albert Ondo Ossa, un « président élu » qui n’en démord pas",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835878/politique/gabon-albert-ondo-ossa-un-president-elu-qui-nen-demord-pas/",
+      "resume": "Depuis son exil parisien, Albert Ondo Ossa continue envers et contre tous de s’autoproclamer « président élu » de la présidentielle d’août 2023. Portrait d’un homme désormais bien seul, mais convaincu que l’histoire lui donnera raison.",
+      "date_publication": "2026-08-24T18:51:33+00:00",
+      "heure_collecte": "2026-08-24T17:34:04"
+    },
     {
       "id": 194,
       "titre": "Libération des mercenaires de Wagner au Mali : le clan Haftar, nouvel interlocuteur privilégié du FLA",
