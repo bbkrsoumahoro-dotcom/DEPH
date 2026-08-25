@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-25T10:37:39",
+  "generated_at": "2026-08-25T11:32:32",
   "items": [
+    {
+      "id": 204,
+      "titre": "MTN : l’Afrique de l’Ouest, locomotive inattendue du géant sud-africain des télécoms",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837532/economie-entreprises/mtn-lafrique-de-louest-locomotive-inattendue-du-geant-sud-africain-des-telecoms/",
+      "resume": "MTN affiche des résultats en forte hausse au premier semestre de 2026, portés par le rebond spectaculaire du Nigeria et la croissance soutenue du Ghana. L’Afrique de l’Ouest s’impose comme le nouveau moteur du géant télécoms sud-africain.",
+      "date_publication": "2026-08-25T13:16:46+00:00",
+      "heure_collecte": "2026-08-25T11:32:12"
+    },
     {
       "id": 203,
       "titre": "RDC-Rwanda : cinq questions pour comprendre le bras de fer sur l’avenir des FDLR",
