@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-25T15:47:45",
+  "generated_at": "2026-08-25T16:42:00",
   "items": [
+    {
+      "id": 205,
+      "titre": "Comment Coris est devenu la première banque de l’UEMOA, aux côtés d’Ecobank",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837635/economie-entreprises/comment-coris-est-devenu-la-premiere-banque-de-luemoa-aux-cotes-decobank/",
+      "resume": "Pour la première fois depuis 2013, le groupe burkinabè d’Idrissa Nassa égale Ecobank avec 8,6 % des actifs. Derrière cette première place partagée, le secteur se recompose autour d’acteurs ancrés localement.",
+      "date_publication": "2026-08-25T18:28:14+00:00",
+      "heure_collecte": "2026-08-25T16:41:39"
+    },
+    {
+      "id": 206,
+      "titre": "TikTok, Facebook, X…  D’Abidjan à Washington, une armée de cyberactivistes pro-Tidjane Thiam",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837202/politique/tiktok-facebook-x-dabidjan-a-washington-une-armee-de-cyberactivistes-pro-tidjane-thiam/",
+      "resume": "Alors qu’en Côte d’Ivoire, le tribunal doit trancher le 22 octobre sur la destitution du président du PDCI, de nombreux militants, véritables soldats du numérique, le défendent sans relâche sur les réseaux sociaux. Une force d’influence qui est aussi très difficile à réguler pour le parti.",
+      "date_publication": "2026-08-25T17:55:51+00:00",
+      "heure_collecte": "2026-08-25T16:41:39"
+    },
+    {
+      "id": 207,
+      "titre": "CEEAC : pourquoi le Centrafricain Jean-Jacques Demafouth fait son retour au Gabon",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837238/politique/ceeac-pourquoi-le-centrafricain-jean-jacques-demafouth-fait-son-retour-au-gabon/",
+      "resume": "Jean-Jacques Demafouth rejoint la CEEAC comme conseiller diplomatique, fort de ses réseaux à Addis-Abeba et du soutien de Bangui. La mission de l’ancien ministre centrafricain est multiple.",
+      "date_publication": "2026-08-25T17:51:25+00:00",
+      "heure_collecte": "2026-08-25T16:41:39"
+    },
     {
       "id": 204,
       "titre": "MTN : l’Afrique de l’Ouest, locomotive inattendue du géant sud-africain des télécoms",
