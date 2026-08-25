@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-25T09:40:04",
+  "generated_at": "2026-08-25T10:37:39",
   "items": [
+    {
+      "id": 203,
+      "titre": "RDC-Rwanda : cinq questions pour comprendre le bras de fer sur l’avenir des FDLR",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837212/politique/rdc-rwanda-cinq-questions-pour-comprendre-le-bras-de-fer-sur-lavenir-des-fdlr/",
+      "resume": "Le sort de ce groupe armé fondé par d’anciens génocidaires rwandais est au cœur des négociations entre Kigali et Kinshasa. La RDC a mis sur la table un protocole de désarmement que le Rwanda dénonce. Décryptage.",
+      "date_publication": "2026-08-25T12:22:58+00:00",
+      "heure_collecte": "2026-08-25T10:37:19"
+    },
     {
       "id": 202,
       "titre": "Mali : entre Bamako et le FLA, les négociations secrètes qui ont permis un nouvel échange de prisonniers",
