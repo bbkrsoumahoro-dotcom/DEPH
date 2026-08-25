@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-25T05:35:45",
+  "generated_at": "2026-08-25T06:55:09",
   "items": [
+    {
+      "id": 199,
+      "titre": "Maroc Telecom, Steinhoff, Safaricom… Avant Dangote, ces IPO qui ont fait date en Afrique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837237/economie-entreprises/maroc-telecom-steinhoff-safaricom-avant-dangote-ces-ipo-qui-ont-fait-date-en-afrique/",
+      "resume": "Avec une souscription d’un milliard de dollars lancée et un objectif de 5 milliards, la raffinerie Dangote vise une cotation record en Afrique. Cinq introductions en Bourse ont, avant elle, marqué l’histoire des marchés du continent.",
+      "date_publication": "2026-08-25T08:30:53+00:00",
+      "heure_collecte": "2026-08-25T06:54:48"
+    },
+    {
+      "id": 200,
+      "titre": "Au Maroc, Aziz Akhannouch officiellement en retrait mais omniprésent sur le terrain",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837198/politique/au-maroc-aziz-akhannouch-officiellement-en-retrait-mais-omnipresent-sur-le-terrain/",
+      "resume": "Il a annoncé sa sortie mais à l’approche des élections législatives, Aziz Akhannouch continue de sillonner le Maroc, tandis que Mohamed Chaouki, censé incarner le nouveau visage du RNI, reste plus que discret. Au point de soulever des interrogations sur le rapport des forces au sein du parti.",
+      "date_publication": "2026-08-25T08:04:00+00:00",
+      "heure_collecte": "2026-08-25T06:54:48"
+    },
+    {
+      "id": 201,
+      "titre": "En Guinée, Mamadi Doumbouya face aux frustrations des militaires",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836915/politique/en-guinee-mamadi-doumbouya-face-aux-frustrations-des-militaires/",
+      "resume": "De retour à Conakry après deux semaines d’absence, le chef de l’État veut montrer qu’il reste aux commandes, dans un pays traversé par les inquiétudes sur son état de santé et les divisions de l’armée.",
+      "date_publication": "2026-08-25T07:00:00+00:00",
+      "heure_collecte": "2026-08-25T06:54:48"
+    },
     {
       "id": 198,
       "titre": "RDC : au sein d’Ensemble pour la République, la guerre des clans menace Moïse Katumbi",
