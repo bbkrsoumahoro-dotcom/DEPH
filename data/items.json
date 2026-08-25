@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-25T16:42:00",
+  "generated_at": "2026-08-25T17:35:22",
   "items": [
+    {
+      "id": 208,
+      "titre": "Au Cameroun, les déclarations du capitaine Effoudou vont-elles faire basculer l’affaire Martinez Zogo ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836822/politique/au-cameroun-les-declarations-du-capitaine-effoudou-vont-elles-faire-basculer-laffaire-martinez-zogo/",
+      "resume": "Ex-agent du renseignement camerounais en exil, le capitaine Romuald Effoudou multiplie sur les réseaux sociaux les accusations contre Ferdinand Ngoh Ngoh dans l’affaire Zogo. Peu de preuves, mais assez de bruit pour s’inviter dans le procès.",
+      "date_publication": "2026-08-25T18:57:59+00:00",
+      "heure_collecte": "2026-08-25T17:35:03"
+    },
     {
       "id": 205,
       "titre": "Comment Coris est devenu la première banque de l’UEMOA, aux côtés d’Ecobank",
