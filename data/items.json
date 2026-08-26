@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-26T10:07:24",
+  "generated_at": "2026-08-26T11:03:08",
   "items": [
+    {
+      "id": 212,
+      "titre": "Côte d’Ivoire : comment Guillaume Soro tente de rester dans le jeu depuis son exil",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837463/politique/cote-divoire-comment-guillaume-soro-tente-de-rester-dans-le-jeu-depuis-son-exil/",
+      "resume": "Une rare vidéo de l’ancien Premier ministre, diffusée le 22 août, a relancé les interrogations au sujet de ses ambitions. Sans appareil politique autorisé en Côte d’Ivoire, où il est toujours condamné à la prison à perpétuité, il a néanmoins réorganisé son mouvement.",
+      "date_publication": "2026-08-26T12:53:54+00:00",
+      "heure_collecte": "2026-08-26T11:02:49"
+    },
+    {
+      "id": 213,
+      "titre": "Mesfin Tasew, le discret gardien de l’empire Ethiopian Airlines",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1835746/economie-entreprises/mesfin-tasew-le-discret-gardien-de-lempire-ethiopian-airlines/",
+      "resume": "Arrivé par hasard dans le secteur aéronautique en 1984, Mesfin Tasew dirige Ethiopian Airlines, le premier transporteur africain. L’ingénieur en électronique vient d’être prolongé dans ses fonctions.",
+      "date_publication": "2026-08-26T12:29:00+00:00",
+      "heure_collecte": "2026-08-26T11:02:49"
+    },
     {
       "id": 209,
       "titre": "Côte d’Ivoire, Sénégal, Mali : les dessous des écarts de prix à la pompe",
