@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-26T14:13:23",
+  "generated_at": "2026-08-26T16:01:46",
   "items": [
+    {
+      "id": 214,
+      "titre": "Maroc : ce que l’on sait de la dernière fuite « sécuritaire » de Jabaroot",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "rouge",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838026/politique/maroc-ce-que-lon-sait-de-la-derniere-fuite-securitaire-de-jabaroot/",
+      "resume": "Le groupe de hackers a revendiqué, ce 24 août, une nouvelle fuite de données présentée comme étant celles d’agents marocains de la sécurité et du renseignement. Selon nos informations, ces données ne proviennent toutefois pas d’un piratage des services de sécurité marocains.",
+      "date_publication": "2026-08-26T17:49:58+00:00",
+      "heure_collecte": "2026-08-26T16:01:25"
+    },
     {
       "id": 212,
       "titre": "Côte d’Ivoire : comment Guillaume Soro tente de rester dans le jeu depuis son exil",
