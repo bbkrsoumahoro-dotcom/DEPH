@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-26T06:01:50",
+  "generated_at": "2026-08-26T07:27:16",
   "items": [
+    {
+      "id": 209,
+      "titre": "Côte d’Ivoire, Sénégal, Mali : les dessous des écarts de prix à la pompe",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837702/economie-entreprises/cote-divoire-senegal-mali-les-dessous-des-ecarts-de-prix-a-la-pompe/",
+      "resume": "Fiscalité, subventions, plafonds : chaque État joue sa propre partition selon ses marges budgétaires. Sur fond de fermeture du détroit d’Ormuz qui fait flamber les prix à la pompe.",
+      "date_publication": "2026-08-26T08:32:00+00:00",
+      "heure_collecte": "2026-08-26T07:26:54"
+    },
+    {
+      "id": 210,
+      "titre": "Santé de Paul Biya : comment le président camerounais a été remis sur pied",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837664/politique/sante-de-paul-biya-comment-le-president-camerounais-a-ete-remis-sur-pied/",
+      "resume": "Paul Biya a enfin regagné le Cameroun le 20 août, tentant de faire taire les rumeurs sur son état de santé. Jeune Afrique révèle comment une double intervention, suisse et indienne, a permis sa récupération.",
+      "date_publication": "2026-08-26T07:58:17+00:00",
+      "heure_collecte": "2026-08-26T07:26:54"
+    },
+    {
+      "id": 211,
+      "titre": "Tchad : reportage à Abéché, la plus soudanaise des villes tchadiennes",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1836230/politique/tchad-reportage-a-abeche-la-plus-soudanaise-des-villes-tchadiennes/",
+      "resume": "À moins de 200 km du Darfour, Abéché, la capitale du Ouaddaï, au Tchad, est au cœur de la crise soudanaise. Mais les liens, anciens, de la ville et de ses habitants avec le Soudan voisin sont éminemment politiques.",
+      "date_publication": "2026-08-26T06:55:00+00:00",
+      "heure_collecte": "2026-08-26T07:26:54"
+    },
     {
       "id": 208,
       "titre": "Au Cameroun, les déclarations du capitaine Effoudou vont-elles faire basculer l’affaire Martinez Zogo ?",
