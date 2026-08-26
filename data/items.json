@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-26T16:01:46",
+  "generated_at": "2026-08-26T18:19:17",
   "items": [
+    {
+      "id": 215,
+      "titre": "BOAD : Serge Ekué sera-t-il reconduit ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838004/economie-entreprises/boad-serge-ekue-sera-t-il-reconduit/",
+      "resume": "Alors que son mandat à la tête de la Banque ouest-africaine de développement s’achève à la fin du mois d’août, Serge Ekué n’a toujours pas été reconduit dans ses fonctions. Son renouvellement est paralysé par les tensions politiques au sein de l’UEMOA.",
+      "date_publication": "2026-08-26T19:17:38+00:00",
+      "heure_collecte": "2026-08-26T18:18:54"
+    },
+    {
+      "id": 216,
+      "titre": "Mama Omorou, l’ingénieur qui veut mettre l’école togolaise à l’heure des nouvelles technologies",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837566/politique/mama-omorou-lingenieur-qui-veut-mettre-lecole-togolaise-a-lheure-des-nouvelles-technologies/",
+      "resume": "Ingénieur discret sans passé politique, Mama Omorou va faire sa première rentrée en tant que ministre de l’Éducation nationale. Portrait de ce technicien à qui Faure Gnassingbé a demandé de réformer l’enseignement.",
+      "date_publication": "2026-08-26T19:12:51+00:00",
+      "heure_collecte": "2026-08-26T18:18:54"
+    },
+    {
+      "id": 217,
+      "titre": "Gazoduc Nigeria-Maroc : le mégachantier finira-t-il par voir le jour ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837790/economie-entreprises/gazoduc-nigeria-maroc-le-megachantier-finira-t-il-par-voir-le-jour/",
+      "resume": "Le gazoduc Nigeria-Maroc a franchi une étape décisive avec le feu vert de la Cedeao. Reste à financer et construire ce mégaprojet de 25 milliards de dollars, promis à un rôle clé dans l’approvisionnement énergétique européen.",
+      "date_publication": "2026-08-26T18:20:26+00:00",
+      "heure_collecte": "2026-08-26T18:18:54"
+    },
     {
       "id": 214,
       "titre": "Maroc : ce que l’on sait de la dernière fuite « sécuritaire » de Jabaroot",
