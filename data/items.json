@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-29T08:47:25",
+  "generated_at": "2026-08-29T14:16:14",
   "items": [
+    {
+      "id": 246,
+      "titre": "Guinée : Algassimou Diallo, la chute d’un magistrat jadis porté aux nues",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838331/politique/guinee-algassimou-diallo-la-chute-dun-magistrat-jadis-porte-aux-nues/",
+      "resume": "Un enregistrement à l’authenticité controversée a précipité la chute de celui qui, pendant le procès du massacre du 28-Septembre, a porté l’accusation. Était-il au centre d’un vrai complot visant à déstabiliser Mamadi Doumbouya ou a-t-il été victime d’un règlement de comptes politique ?",
+      "date_publication": "2026-08-29T15:48:26+00:00",
+      "heure_collecte": "2026-08-29T14:15:55"
+    },
+    {
+      "id": 247,
+      "titre": "Tentative de coup d’État au Niger : ce que l’on sait de la situation à Niamey",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838805/politique/tentative-de-coup-detat-au-niger-ce-que-lon-sait-de-la-situation-a-niamey/",
+      "resume": "Une mutinerie a éclaté à Niamey dans la nuit de vendredi à samedi, ciblant la présidence, l’aéroport et la télévision nationale. Selon nos informations, des jeunes officiers des Forces armées nigériennes en sont à l’origine. Voici ce que l’on sait de la situation.",
+      "date_publication": "2026-08-29T11:30:11+00:00",
+      "heure_collecte": "2026-08-29T14:15:55"
+    },
     {
       "id": 242,
       "titre": "29 août 1986 : la fin d’une étrange et éphémère lune de miel entre Hassan II et Kadhafi",
