@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-08-29T01:51:34",
+  "generated_at": "2026-08-29T08:47:25",
   "items": [
+    {
+      "id": 242,
+      "titre": "29 août 1986 : la fin d’une étrange et éphémère lune de miel entre Hassan II et Kadhafi",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837792/politique/29-aout-1986-la-fin-dune-etrange-et-ephemere-lune-de-miel-entre-hassan-ii-et-kadhafi/",
+      "resume": "Il y a quarante ans, le 29 août 1986, le roi du Maroc mettait fin à l’alliance qui l’unissait à la Libye de Mouammar Kadhafi et qui avait surpris la communauté internationale. Comment des dirigeants que tout séparait étaient-ils parvenus à s’entendre, et pourquoi cette union n’a-t-elle tenu que deux ans ?",
+      "date_publication": "2026-08-29T10:06:55+00:00",
+      "heure_collecte": "2026-08-29T08:47:04"
+    },
+    {
+      "id": 243,
+      "titre": "En Centrafrique, la méthode Touadéra pour réglementer le secteur aurifère",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838560/politique/en-centrafrique-la-methode-touadera-pour-reglementer-le-secteur-aurifere/",
+      "resume": "Contrôles, encadrement voire suspension des permis… Depuis le drame de Zamboï, les autorités de Bangui s’attèlent à remettre de l’ordre dans la filière aurifère. Une tâche difficile quand on connaît les méfaits de l’économie informelle.",
+      "date_publication": "2026-08-29T09:05:00+00:00",
+      "heure_collecte": "2026-08-29T08:47:04"
+    },
+    {
+      "id": 244,
+      "titre": "Oligui Nguema traque les avoirs des Bongo, Tshisekedi impose son tempo, le RNI et le PAM se déchirent… Les 5 infos qu’il ne fallait pas manquer",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837376/politique/oligui-nguema-traque-les-avoirs-des-bongo-tshisekedi-impose-son-tempo-le-rni-et-le-pam-se-dechirent-les-5-infos-quil-ne-fallait-pas-manquer/",
+      "resume": "Cette semaine, le Brief de Jeune Afrique revient sur la traque au Gabon des avoirs de la famille Bongo par Brice Clotaire Oligui Nguema, décrypte le bras de fer entre Félix Tshisekedi et ses adversaires autour du dialogue national en RDC, analyse la guerre des transfuges entre le RNI et le PAM à l’approche des législatives marocaines, se penche sur les écarts de prix du carburant en Afrique de l’O",
+      "date_publication": "2026-08-29T08:30:00+00:00",
+      "heure_collecte": "2026-08-29T08:47:04"
+    },
+    {
+      "id": 245,
+      "titre": "Niger : des tirs et détonations entendus à Niamey",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838801/politique/niger-des-tirs-et-detonations-entendus-a-niamey/",
+      "resume": "Des tirs et des détonations ont été entendus dans la nuit de vendredi 28 à samedi 29 août dans plusieurs quartiers de la capitale du Niger, Niamey, notamment autour de la base militaire attenante à l’aéroport international.",
+      "date_publication": "2026-08-29T08:28:18+00:00",
+      "heure_collecte": "2026-08-29T08:47:04"
+    },
     {
       "id": 231,
       "titre": "Cameroun : Eto’o-Mouelle Kombi, la guerre des clans par football interposé",
