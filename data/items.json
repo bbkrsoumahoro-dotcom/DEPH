@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-08-30T13:56:21",
+  "generated_at": "2026-08-30T18:00:31",
   "items": [
+    {
+      "id": 251,
+      "titre": "Au Liberia, l’arrestation de Jewel Howard-Taylor solde l’héritage de Charles Taylor",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838139/politique/au-liberia-larrestation-de-jewel-howard-taylor-solde-lheritage-de-charles-taylor/",
+      "resume": "Interpellée à l’aéroport de Monrovia, l’ex-vice-présidente du Liberia est inculpée de trafic de drogue. Son arrestation démontre en filigrane la perte d’influence considérable des réseaux de son ex-mari, Charles Taylor.",
+      "date_publication": "2026-08-30T16:08:45+00:00",
+      "heure_collecte": "2026-08-30T18:00:07"
+    },
     {
       "id": 249,
       "titre": "Il y a cinquante ans, Mohamed Abdelaziz prenait la tête du Front Polisario",
