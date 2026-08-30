@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-30T08:05:32",
+  "generated_at": "2026-08-30T13:56:21",
   "items": [
+    {
+      "id": 249,
+      "titre": "Il y a cinquante ans, Mohamed Abdelaziz prenait la tête du Front Polisario",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837834/politique/il-y-a-cinquante-ans-mohamed-abdelaziz-prenait-la-tete-du-front-polisario/",
+      "resume": "Arrivé en août 1976 à la tête de la République arabe sahraouie démocratique (RASD) et du Front Polisario, Mohamed Abdelaziz s’y est maintenu jusqu’à sa mort, en 2016. Il était issu d’une grande famille nomade dont tous les membres ne partageaient pas, loin de là, ses positions sur la question du Sahara.",
+      "date_publication": "2026-08-30T10:12:34+00:00",
+      "heure_collecte": "2026-08-30T13:55:59"
+    },
+    {
+      "id": 250,
+      "titre": "Raffinerie Dangote : les Bourses africaines sont-elles prêtes à absorber une introduction à cinq milliards de dollars ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838270/economie-entreprises/raffinerie-dangote-les-bourses-africaines-sont-elles-pretes-a-absorber-une-introduction-a-cinq-milliards-de-dollars/",
+      "resume": "Les investisseurs nigérians se délestent d’actifs pour se positionner sur l’introduction en Bourse de la raffinerie Dangote. Les acteurs financiers francophones se montrent quant à eux plus réservés.",
+      "date_publication": "2026-08-30T10:12:00+00:00",
+      "heure_collecte": "2026-08-30T13:55:59"
+    },
     {
       "id": 248,
       "titre": "En RDC, quand les camps Kabila et Bemba s’affrontaient à Kinshasa en août 2006",
