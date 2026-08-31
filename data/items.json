@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-31T16:19:50",
+  "generated_at": "2026-08-31T21:35:17",
   "items": [
+    {
+      "id": 261,
+      "titre": "RDC : le dialogue national voulu par Félix Tshisekedi déjà mort-né ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838994/politique/rdc-le-dialogue-national-voulu-par-felix-tshisekedi-deja-mort-ne/",
+      "resume": "Le dialogue national tant attendu a été annoncé par Félix Tshisekedi, puis aussitôt rejeté par l’opposition, qui y voit une manœuvre du président pour rester au pouvoir. Le bras de fer se poursuit, avant une manifestation prévue le 15 septembre.",
+      "date_publication": "2026-08-31T19:55:12+00:00",
+      "heure_collecte": "2026-08-31T21:34:58"
+    },
+    {
+      "id": 262,
+      "titre": "Comment Emmanuel Ackah est devenu la clé de voûte du système Gbagbo",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837528/politique/comment-emmanuel-ackah-est-devenu-la-cle-de-voute-du-systeme-gbagbo/",
+      "resume": "De l’ambassade de Côte d’Ivoire au Ghana en passant par la direction du cabinet du président du PPA-CI, l’ancien footballeur s’est toujours tenu loin des projecteurs. Ce qui ne l’a pas empêché d’acquérir une grande influence.",
+      "date_publication": "2026-08-31T19:15:37+00:00",
+      "heure_collecte": "2026-08-31T21:34:58"
+    },
     {
       "id": 256,
       "titre": "Niger : la nuit où Abdourahamane Tiani a vacillé",
