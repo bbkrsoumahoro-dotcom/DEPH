@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-08-31T01:31:47",
+  "generated_at": "2026-08-31T08:23:54",
   "items": [
+    {
+      "id": 252,
+      "titre": "Pétrole du lac Albert : la RDC peut-elle contester le projet de TotalEnergies en Ouganda ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838242/economie-entreprises/petrole-du-lac-albert-la-rdc-peut-elle-contester-le-projet-de-totalenergies-en-ouganda/",
+      "resume": "Alors que l’entrée en production du projet controversé de la major française est imminente, Kinshasa réclame une exploitation équitable et concertée de l’or noir des zones frontalières.",
+      "date_publication": "2026-08-31T08:09:25+00:00",
+      "heure_collecte": "2026-08-31T08:23:35"
+    },
+    {
+      "id": 253,
+      "titre": "Cameroun : entre le ministre Atanga Nji et l’opposant Kamto, la guerre se poursuit",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838453/politique/cameroun-entre-le-ministre-atanga-nji-et-lopposant-kamto-la-guerre-se-poursuit/",
+      "resume": "Le ministre de l’Administration territoriale a apporté son soutien à un dissident du MRC qui conteste la présidence de Maurice Kamto. À l’approche des élections législatives et locales de 2027, l’opposition dénonce une nouvelle tentative de déstabilisation.",
+      "date_publication": "2026-08-31T07:55:00+00:00",
+      "heure_collecte": "2026-08-31T08:23:35"
+    },
+    {
+      "id": 254,
+      "titre": "Mali : Adama Coulibaly, l’intraitable procureur du pôle anti-cybercriminalité",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838009/politique/mali-adama-coulibaly-lintraitable-procureur-du-pole-anti-cybercriminalite/",
+      "resume": "Au Mali, le pôle de lutte contre la cybercriminalité est devenu l’instrument judiciaire le plus redouté par les voix critiques de la junte. Portrait de son procureur, Adama Coulibaly.",
+      "date_publication": "2026-08-31T07:30:00+00:00",
+      "heure_collecte": "2026-08-31T08:23:35"
+    },
+    {
+      "id": 255,
+      "titre": "Ceuta, miroir des obsessions des extrêmes droites occidentales",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838150/politique/ceuta-miroir-des-obsessions-des-extremes-droites-occidentales/",
+      "resume": "Donald Trump y voit « l’échec de la gauche » ; Jordan Bardella, une « submersion sans précédent » ; le parti Vox, « la main de Rabat ». La récente crise de Ceuta sert de puissant carburant aux droites radicales occidentales.",
+      "date_publication": "2026-08-31T07:00:00+00:00",
+      "heure_collecte": "2026-08-31T08:23:35"
+    },
     {
       "id": 251,
       "titre": "Au Liberia, l’arrestation de Jewel Howard-Taylor solde l’héritage de Charles Taylor",
