@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-01T06:39:55",
+  "generated_at": "2026-09-01T12:28:08",
   "items": [
+    {
+      "id": 265,
+      "titre": "5 questions pour comprendre pourquoi les tensions se cristallisent sur la frontière Sénégal-Gambie",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838055/politique/cinq-questions-pour-comprendre-pourquoi-les-tensions-se-cristallisent-sur-la-frontiere-senegal-gambie/",
+      "resume": "La démolition, en juillet, d’un muret gambien par l’armée sénégalaise a failli virer à la crise diplomatique entre Dakar et Banjul. Une commission mixte tente à présent de clarifier le tracé d’une frontière dessinée grossièrement par les colonisateurs en 1889.",
+      "date_publication": "2026-09-01T12:30:03+00:00",
+      "heure_collecte": "2026-09-01T12:27:47"
+    },
+    {
+      "id": 266,
+      "titre": "Cacao : la Côte d’Ivoire lance une saison test",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839170/economie-entreprises/cacao-la-cote-divoire-lance-une-saison-test/",
+      "resume": "Nouveau calendrier, tensions liées aux invendus, spéculation, contrebande… Abidjan lance la campagne de commercialisation de ses fèves de cacao dans un contexte tendu. Et les défis pour consolider la filière demeurent nombreux.",
+      "date_publication": "2026-09-01T12:02:57+00:00",
+      "heure_collecte": "2026-09-01T12:27:47"
+    },
+    {
+      "id": 267,
+      "titre": "Russie, Algérie, AES : qui a vraiment aidé Abdourahamane Tiani face à la mutinerie au Niger ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839011/politique/russie-algerie-aes-qui-a-vraiment-aide-abdourahamane-tiani-face-a-la-mutinerie-au-niger/",
+      "resume": "La mutinerie de Niamey a exposé des failles internes de l’armée nigérienne. Face à celles-ci, Abdourahamane Tiani a dû compter sur des partenaires extérieurs.",
+      "date_publication": "2026-09-01T09:39:21+00:00",
+      "heure_collecte": "2026-09-01T12:27:47"
+    },
     {
       "id": 263,
       "titre": "Simandou : comment la Guinée peut éviter le piège de la rente minière",
