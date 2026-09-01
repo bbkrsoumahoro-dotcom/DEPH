@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-01T01:07:24",
+  "generated_at": "2026-09-01T06:39:55",
   "items": [
+    {
+      "id": 263,
+      "titre": "Simandou : comment la Guinée peut éviter le piège de la rente minière",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1828377/economie-entreprises/simandou-comment-la-guinee-peut-eviter-le-piege-de-la-rente-miniere/",
+      "resume": "Avec l’entrée en production du méga-gisement de fer de Simandou, la Guinée affiche l’une des croissances les plus dynamiques du continent. Cependant, le pays doit encore transformer cette manne en un moteur de développement durable. Une gageure.",
+      "date_publication": "2026-09-01T08:01:00+00:00",
+      "heure_collecte": "2026-09-01T06:39:36"
+    },
+    {
+      "id": 264,
+      "titre": "Au Bénin, Romuald Wadagni endosse l’habit présidentiel, à l’ombre de Patrice Talon",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1832066/politique/au-benin-romuald-wadagni-endosse-lhabit-presidentiel-a-lombre-de-patrice-talon/",
+      "resume": "Cent jours après son investiture, Romuald Wadagni impose sa marque : sobriété de style, mesures sociales, activisme diplomatique. Mais l’ombre de Patrice Talon, désormais président du Sénat, plane sur le palais de la Marina.",
+      "date_publication": "2026-09-01T06:56:00+00:00",
+      "heure_collecte": "2026-09-01T06:39:36"
+    },
     {
       "id": 261,
       "titre": "RDC : le dialogue national voulu par Félix Tshisekedi déjà mort-né ?",
