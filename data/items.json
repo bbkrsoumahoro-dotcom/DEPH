@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-02T17:46:00",
+  "generated_at": "2026-09-02T20:48:23",
   "items": [
+    {
+      "id": 284,
+      "titre": "Dans l’est de la RDC, Kinshasa fait la guerre à l’administration parallèle de l’AFC/M23",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839244/politique/dans-lest-de-la-rdc-kinshasa-fait-la-guerre-a-ladministration-parallele-de-lafc-m23/",
+      "resume": "De la magistrature à l’enseignement supérieur, les autorités congolaises tentent de s’opposer aux nominations effectuées par les rebelles. Mais elles se heurtent aux limites de leur influence dans les zones que l’AFC/M23 contrôle.",
+      "date_publication": "2026-09-02T20:53:13+00:00",
+      "heure_collecte": "2026-09-02T20:47:49"
+    },
+    {
+      "id": 285,
+      "titre": "Engrais : le marocain OCP face aux leçons de la crise d’Ormuz",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839788/economie-entreprises/engrais-le-marocain-ocp-face-aux-lecons-de-la-crise-dormuz/",
+      "resume": "Le géant marocain des engrais phosphatés publie des résultats semestriels en repli, illustration du contexte difficile dans lequel il opère depuis le début de l’année. Ce qui relance les interrogations sur les limites de son modèle.",
+      "date_publication": "2026-09-02T19:50:38+00:00",
+      "heure_collecte": "2026-09-02T20:47:49"
+    },
     {
       "id": 281,
       "titre": "Mercedes Vera Martin (FMI) : « Le traitement de la dette du Sénégal a commencé »",
