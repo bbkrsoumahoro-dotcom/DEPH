@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-02T04:59:36",
+  "generated_at": "2026-09-02T09:30:15",
   "items": [
+    {
+      "id": 272,
+      "titre": "Ni Franck ni Brenda : au Cameroun, Junior Biya, le fils du président qui n’aime pas la lumière",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1830844/politique/ni-franck-ni-brenda-au-cameroun-junior-biya-le-fils-du-president-qui-naime-pas-la-lumiere/",
+      "resume": "Discret, presque invisible, Junior Biya a fêté ses 31 ans à Genève entouré du clan présidentiel réuni autour de son père, le président Paul Biya. Portrait d’un héritier que tout le monde observe sans qu’il ne se montre jamais.",
+      "date_publication": "2026-09-02T08:07:06+00:00",
+      "heure_collecte": "2026-09-02T09:29:50"
+    },
+    {
+      "id": 273,
+      "titre": "Au Maroc, le pari d’une gigafactory de batteries électriques peut-il s’avérer gagnant ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1832044/economie-entreprises/au-maroc-le-pari-dune-gigafactory-de-batteries-electriques-peut-il-saverer-gagnant/",
+      "resume": "Aux portes du marché européen, le Maroc veut passer de l’assemblage automobile à la production de batteries électriques. Fer de lance de cette montée en gamme : la gigafactory de Kénitra, un projet de 1,1 milliard d’euros appelé à atteindre jusqu’à 100 GWh de capacité annuelle.",
+      "date_publication": "2026-09-02T07:58:00+00:00",
+      "heure_collecte": "2026-09-02T09:29:50"
+    },
+    {
+      "id": 274,
+      "titre": "Togo : dans quelles conditions est détenue l’ex-ministre des Armées, Marguerite Gnakadé ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838639/politique/togo-dans-quelles-conditions-est-detenue-lex-ministre-des-armees-marguerite-gnakade/",
+      "resume": "Poursuivie pour « incitation au soulèvement » et arrêtée en septembre 2025, l’ancienne ministre des Armées attend toujours que la date de son procès soit fixée. Voici ce que l’on sait du lieu et de ses conditions de détention.",
+      "date_publication": "2026-09-02T07:03:00+00:00",
+      "heure_collecte": "2026-09-02T09:29:50"
+    },
     {
       "id": 270,
       "titre": "RDC : à Kinshasa, Félix Tshisekedi parie sur la militarisation de l’assainissement urbain",
