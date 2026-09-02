@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-02T13:50:35",
+  "generated_at": "2026-09-02T17:46:00",
   "items": [
+    {
+      "id": 281,
+      "titre": "Mercedes Vera Martin (FMI) : « Le traitement de la dette du Sénégal a commencé »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839762/economie-entreprises/mercedes-vera-martin-fmi-le-traitement-de-la-dette-du-senegal-a-commence/",
+      "resume": "Le FMI et Dakar ont trouvé un accord sur un prêt de 2,2 milliards de dollars pour permettre au pays de retrouver une trajectoire d’endettement soutenable. Dans un entretien, la cheffe de mission du FMI au Sénégal détaille les prochaines étapes de ce processus au long cours.",
+      "date_publication": "2026-09-02T19:29:51+00:00",
+      "heure_collecte": "2026-09-02T17:45:39"
+    },
+    {
+      "id": 282,
+      "titre": "Vague d’arrestations au Niger : l’ex-ministre Kalla Moutari a été interpellé",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839739/politique/vague-darrestations-au-niger-lex-ministre-kalla-moutari-a-ete-interpelle/",
+      "resume": "Au lendemain de la mutinerie qui a fait vaciller la junte dirigée par Abdourahamane Tiani, les arrestations se multiplient. Outre des militaires, plusieurs personnalités politiques ont été interpellées, dont l’ancien ministre de la Défense.",
+      "date_publication": "2026-09-02T18:28:09+00:00",
+      "heure_collecte": "2026-09-02T17:45:39"
+    },
+    {
+      "id": 283,
+      "titre": "Niger-Tchad : les accusations d’un officier nigérien embarrassent N’Djamena",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839665/politique/niger-tchad-les-accusations-dun-officier-nigerien-embarrassent-ndjamena/",
+      "resume": "Dans un témoignage diffusé à la télévision nationale, un capitaine nigérien a affirmé que le Tchad avait activement soutenu la mutinerie des 28 et 29 août. À N’Djamena, les autorités démentent catégoriquement et s’interrogent sur les raisons de ces accusations.",
+      "date_publication": "2026-09-02T17:33:17+00:00",
+      "heure_collecte": "2026-09-02T17:45:39"
+    },
     {
       "id": 275,
       "titre": "La chute brutale de Yacine Oualid, chouchou du gouvernement algérien désormais menacé de prison",
