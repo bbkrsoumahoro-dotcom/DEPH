@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-03T16:07:08",
+  "generated_at": "2026-09-03T19:23:38",
   "items": [
+    {
+      "id": 294,
+      "titre": "Côte d’Ivoire : Dia Houphouët Augustin Yohou a-t-il semé la zizanie entre le PDCI et le PPA-CI ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839902/politique/cote-divoire-dia-houphouet-augustin-yohou-a-t-il-seme-la-zizanie-entre-le-pdci-et-le-ppa-ci/",
+      "resume": "Un discours de l’ancien député de Yopougon a mis le feu aux poudres entre les deux formations alliées de l’opposition. Elles ont dû monter au créneau pour éteindre la polémique.",
+      "date_publication": "2026-09-03T19:17:00+00:00",
+      "heure_collecte": "2026-09-03T19:23:13"
+    },
+    {
+      "id": 295,
+      "titre": "Guinée : les avocats du FNDC saisissent l’ONU après la découverte d’un charnier à Forécariah",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840065/societe/guinee-les-avocats-du-fndc-saisissent-lonu-apres-la-decouverte-dun-charnier-a-forecariah/",
+      "resume": "Après la découverte de six corps ligotés et les yeux bandés près de Forécariah, l’indépendance de l’enquête menée par la justice guinéenne est mise en cause. Les avocats du Front national pour la défense de la Constitution ont saisi le haut-commissaire des Nations unies aux droits de l’homme.",
+      "date_publication": "2026-09-03T18:58:32+00:00",
+      "heure_collecte": "2026-09-03T19:23:13"
+    },
+    {
+      "id": 296,
+      "titre": "Mutinerie au Niger : les dessous de la crise en vidéo",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840121/politique/mutinerie-au-niger-les-dessous-de-la-crise-en-video/",
+      "resume": "Une tentative de mutinerie a visé la présidence et l’aéroport de Niamey dans la nuit du 28 au 29 août. Mise en échec, notamment grâce aux Russes d’Africa Corps, elle soulève la question de la fragilité du régime Tiani. Notre décryptage en vidéo.",
+      "date_publication": "2026-09-03T18:36:00+00:00",
+      "heure_collecte": "2026-09-03T19:23:13"
+    },
+    {
+      "id": 297,
+      "titre": "Pour le Sénégal, après le FMI, le plus dur commence",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840137/economie-entreprises/pour-le-senegal-apres-le-fmi-le-plus-dur-commence/",
+      "resume": "Deux ans après la révélation de l’existence d’une dette cachée, Dakar a obtenu un accord de principe du FMI pour un prêt de 2,2 milliards de dollars. Financement, restructuration, vote au Parlement : trois inconnues majeures demeurent.",
+      "date_publication": "2026-09-03T18:18:19+00:00",
+      "heure_collecte": "2026-09-03T19:23:13"
+    },
     {
       "id": 292,
       "titre": "Au Mali, la chute d’Alpha Yaya Sangaré, influent colonel devenu encombrant pour Assimi Goïta",
