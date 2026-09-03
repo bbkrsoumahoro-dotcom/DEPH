@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-03T11:35:39",
+  "generated_at": "2026-09-03T16:07:08",
   "items": [
+    {
+      "id": 292,
+      "titre": "Au Mali, la chute d’Alpha Yaya Sangaré, influent colonel devenu encombrant pour Assimi Goïta",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839974/politique/au-mali-la-chute-dalpha-yaya-sangare-influent-colonel-devenu-encombrant-pour-assimi-goita/",
+      "resume": "Condamné à vingt ans de prison pour avoir publié un essai sur le terrorisme au Mali, le colonel Alpha Yaya Sangaré paye aussi le prix de ses inimitiés au sein de la junte, et en particulier des ambitions que lui prêtait le chef des renseignements, Modibo Koné.",
+      "date_publication": "2026-09-03T17:54:13+00:00",
+      "heure_collecte": "2026-09-03T16:06:45"
+    },
+    {
+      "id": 293,
+      "titre": "Comment Kenya Airways tente de sortir de la zone de turbulences",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839774/economie-entreprises/comment-kenya-airways-tente-de-sortir-de-la-zone-de-turbulences/",
+      "resume": "Démission du directeur général, dette abyssale, pertes chroniques… La compagnie aérienne fait face à de violents vents contraires. Le gouvernement kényan envisage d’octroyer à Kenya Airways un nouveau prêt garanti, transférant encore davantage le risque aux contribuables.",
+      "date_publication": "2026-09-03T14:00:05+00:00",
+      "heure_collecte": "2026-09-03T16:06:45"
+    },
     {
       "id": 287,
       "titre": "10 choses à savoir sur Faris Derrij, le « Monsieur engrais » du géant marocain OCP",
