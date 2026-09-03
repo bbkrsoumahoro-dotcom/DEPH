@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-03T01:21:36",
+  "generated_at": "2026-09-03T06:20:03",
   "items": [
+    {
+      "id": 286,
+      "titre": "BCP, Attijariwafa, Holmarcom… Pourquoi les banques marocaines marquent le pas",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839751/economie-entreprises/bcp-attijariwafa-holmarcom-pourquoi-les-banques-marocaines-marquent-le-pas/",
+      "resume": "Le crédit bancaire marocain n’a jamais progressé aussi vite. Pourtant, les banques cotées voient leurs résultats plombés par l’effondrement de leurs revenus de marché. Décryptage.",
+      "date_publication": "2026-09-03T08:04:09+00:00",
+      "heure_collecte": "2026-09-03T06:19:41"
+    },
     {
       "id": 284,
       "titre": "Dans l’est de la RDC, Kinshasa fait la guerre à l’administration parallèle de l’AFC/M23",
