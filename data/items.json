@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-04T03:46:02",
+  "generated_at": "2026-09-04T08:41:18",
   "items": [
+    {
+      "id": 298,
+      "titre": "Bénin : les premiers marqueurs économiques de l’ère Wadagni",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840106/economie-entreprises/benin-les-premiers-marqueurs-economiques-de-lere-wadagni/",
+      "resume": "Après avoir piloté pendant près de dix ans les finances du pays, le nouveau chef de l’État s’inscrit dans la trajectoire engagée sous Patrice Talon. Tout en mettant l’accent sur les dépenses sociales et une meilleure répartition de la croissance entre les territoires.",
+      "date_publication": "2026-09-04T08:01:06+00:00",
+      "heure_collecte": "2026-09-04T08:40:57"
+    },
+    {
+      "id": 299,
+      "titre": "Au Maroc, les avocats en grève s’invitent dans la campagne des législatives",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839903/politique/au-maroc-les-avocats-en-greve-sinvitent-dans-la-campagne-des-legislatives/",
+      "resume": "En début d’année, le gouvernement avait réussi à apaiser les avocats en proposant un réexamen de son projet de loi portant réorganisation de la profession. Mais l’adoption, en août, du texte contesté a provoqué un nouveau durcissement des grévistes, qui tentent à présent d’imposer le sujet dans la campagne électorale.",
+      "date_publication": "2026-09-04T07:56:00+00:00",
+      "heure_collecte": "2026-09-04T08:40:57"
+    },
+    {
+      "id": 300,
+      "titre": "Guinée équatoriale : les Obiang assurent avoir déjoué une tentative de putsch",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840020/politique/guinee-equatoriale-les-obiang-assurent-avoir-dejoue-une-tentative-de-putsch/",
+      "resume": "Des enquêtes sont en cours en Guinée équatoriale après la saisie d’un conteneur par les autorités locales. Alerté par ses alliés russes, Malabo assure que celui-ci contenait des armes, qui auraient dû servir à une tentative de putsch. Révélations.",
+      "date_publication": "2026-09-04T07:00:00+00:00",
+      "heure_collecte": "2026-09-04T08:40:57"
+    },
     {
       "id": 294,
       "titre": "Côte d’Ivoire : Dia Houphouët Augustin Yohou a-t-il semé la zizanie entre le PDCI et le PPA-CI ?",
