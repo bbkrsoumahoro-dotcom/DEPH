@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-04T16:59:39",
+  "generated_at": "2026-09-04T19:26:13",
   "items": [
+    {
+      "id": 307,
+      "titre": "RDC-Israël : pourquoi Félix Tshisekedi mise sur un rapprochement avec Benyamin Netanyahou",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840509/politique/rdc-israel-pourquoi-felix-tshisekedi-mise-sur-un-rapprochement-avec-benyamin-netanyahou/",
+      "resume": "Le 3 septembre, Kinshasa a redit son intention de déplacer son ambassade à Jérusalem. Un pari diplomatique risqué, mais mûrement réfléchi, de Félix Tshisekedi. Décryptage.",
+      "date_publication": "2026-09-04T20:03:48+00:00",
+      "heure_collecte": "2026-09-04T19:25:51"
+    },
     {
       "id": 305,
       "titre": "Amini AI, la start-up aux avant-postes de la souveraineté numérique africaine",
@@ -4183,20 +4197,6 @@
       "fiabilite": "confirme",
       "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
       "url": "https://www.energie.gouv.ci/actualite/depot-gestoci-de-yamoussoukro-sangafowa-coulibaly-inaugure-un-bac-de-20000-m3-de-gasoil-et-le-premier-poste-de-chargement-en-source-du-pays-6a6734bb50451",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:31"
-    },
-    {
-      "id": 9,
-      "titre": "Forum interministériel à Abidjan :  Sangafowa-Coulibaly lance un appel continental pour la valorisation des minéraux critiques",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
-      "url": "https://www.energie.gouv.ci/actualite/forum-interministeriel-a-abidjan-sangafowa-coulibaly-lance-un-appel-continental-pour-la-valorisation-des-mineraux-critiques-6a5503fa9252e",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:31"
