@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-05T11:58:19",
+  "generated_at": "2026-09-05T15:04:05",
   "items": [
+    {
+      "id": 312,
+      "titre": "Guerre au Soudan : les États-Unis pris entre deux feux",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839573/politique/guerre-au-soudan-les-etats-unis-pris-entre-deux-feux/",
+      "resume": "D’un côté, l’armée du général al-Burhane, forte de ses victoires, refuse de négocier le cessez-le-feu que préconise Washington. De l’autre, la coalition civile Somoud, que dirige Abdallah Hamdock, pousse l’administration américaine à imposer une trêve et un dialogue inter-soudanais pour mettre fin aux souffrances des populations.",
+      "date_publication": "2026-09-05T16:05:22+00:00",
+      "heure_collecte": "2026-09-05T15:03:44"
+    },
+    {
+      "id": 313,
+      "titre": "Niger : le Tillabéri, épicentre du jihad et de la colère des militaires",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840483/politique/niger-le-tillaberi-epicentre-du-jihad-et-de-la-colere-des-militaires/",
+      "resume": "Au Niger, la mutinerie du 29 août trouve notamment ses racines dans cette région du sud-ouest du pays, qui concentre les attaques de l’État islamique. L’échec sécuritaire d’Abdourahamane Tiani, et le climat de suspicion qui règne désormais au sein des forces de sécurité, fragilise la cohésion de son armée. Décryptage en infographies.",
+      "date_publication": "2026-09-05T16:01:54+00:00",
+      "heure_collecte": "2026-09-05T15:03:44"
+    },
     {
       "id": 309,
       "titre": "Il y a 60 ans, le procès des assassins de Ben Barka s’ouvrait à Paris",
@@ -4169,34 +4197,6 @@
       "fiabilite": "confirme",
       "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
       "url": "http://mines.gouv.ci/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:31"
-    },
-    {
-      "id": 3,
-      "titre": "Statistiques des activités",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
-      "url": "https://www.energie.gouv.ci/petrole/statistique-activites",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:31"
-    },
-    {
-      "id": 4,
-      "titre": "Direction Générale des Hydrocarbures",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
-      "url": "http://dgh.energie.gouv.ci/",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:31"
