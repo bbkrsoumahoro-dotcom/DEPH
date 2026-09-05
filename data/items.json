@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-04T23:50:10",
+  "generated_at": "2026-09-05T03:45:31",
   "items": [
+    {
+      "id": 308,
+      "titre": "©2020 Reuters. All Rights Reserved.",
+      "categorie": "hydrocarbures",
+      "pays": "International",
+      "zone": "international",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Reuters — Énergie (international)",
+      "url": "https://thomsonreuters.com/copyright/",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-09-05T03:45:12"
+    },
     {
       "id": 307,
       "titre": "RDC-Israël : pourquoi Félix Tshisekedi mise sur un rapprochement avec Benyamin Netanyahou",
@@ -4183,20 +4197,6 @@
       "fiabilite": "confirme",
       "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
       "url": "https://www.energie.gouv.ci/actualite/le-ministere-des-mines-du-petrole-et-de-lenergie-accelere-la-transition-vers-des-solutions-de-cuisson-propres-en-cote-divoire-6a6a46501f2d3",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:31"
-    },
-    {
-      "id": 8,
-      "titre": "Dépôt Gestoci de Yamoussoukro   Sangafowa-Coulibaly inaugure un bac de 20.000 m3 de gasoil et le premier poste de chargement en source du pays",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
-      "url": "https://www.energie.gouv.ci/actualite/depot-gestoci-de-yamoussoukro-sangafowa-coulibaly-inaugure-un-bac-de-20000-m3-de-gasoil-et-le-premier-poste-de-chargement-en-source-du-pays-6a6734bb50451",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:31"
