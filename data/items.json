@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-06T08:31:18",
+  "generated_at": "2026-09-06T12:44:06",
   "items": [
+    {
+      "id": 316,
+      "titre": "RDC : comment les partisans de Tshisekedi se mobilisent pour un changement de Constitution",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1837993/politique/rdc-comment-les-partisans-de-tshisekedi-se-mobilisent-pour-un-changement-de-constitution/",
+      "resume": "Ministres, évangélistes, politiques… Le président congolais laisse ses partisans faire campagne pour un changement de Constitution qui lui ouvrirait la voie pour se maintenir au pouvoir.",
+      "date_publication": "2026-09-06T12:15:00+00:00",
+      "heure_collecte": "2026-09-06T12:43:46"
+    },
     {
       "id": 314,
       "titre": "De Lagos à Londres, plongée dans l’empire financier des frères Balogun",
@@ -4183,20 +4197,6 @@
       "fiabilite": "confirme",
       "source": "PETROCI Holding",
       "url": "tel:225 27 20 202 500",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:34"
-    },
-    {
-      "id": 21,
-      "titre": "Boîte PostaleBP V 194 Abidjan Côte d'Ivoire",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "PETROCI Holding",
-      "url": "skype:yourskype?chat",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:34"
