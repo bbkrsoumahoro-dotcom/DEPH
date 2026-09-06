@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-06T03:48:31",
+  "generated_at": "2026-09-06T08:31:18",
   "items": [
+    {
+      "id": 314,
+      "titre": "De Lagos à Londres, plongée dans l’empire financier des frères Balogun",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839901/economie-entreprises/de-lagos-a-londres-plongee-dans-lempire-financier-des-freres-balogun/",
+      "resume": "Les quatre fils de Michael Olasubomi Balogun perpétuent l’empire financier de leur père. Banque, immobilier, marchés de capitaux : portrait d’une dynastie discrète mais incontournable au Nigeria.",
+      "date_publication": "2026-09-06T09:58:34+00:00",
+      "heure_collecte": "2026-09-06T08:30:57"
+    },
+    {
+      "id": 315,
+      "titre": "Guinée : Dansa Kourouma, l’indétrônable numéro deux de Mamadi Doumbouya",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1830743/politique/guinee-dansa-kourouma-lindetronable-numero-deux-de-mamadi-doumbouya/",
+      "resume": "À la tête de l’organe législatif de la transition pendant quatre ans, l’ancien militant de la société civile a su rebondir et se faire élire, le 17 juillet, à la présidence de l’Assemblée nationale. Avec ou sans l’assentiment du chef de l’État.",
+      "date_publication": "2026-09-06T08:01:00+00:00",
+      "heure_collecte": "2026-09-06T08:30:57"
+    },
     {
       "id": 312,
       "titre": "Guerre au Soudan : les États-Unis pris entre deux feux",
@@ -4172,34 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:34"
-    },
-    {
-      "id": 1,
-      "titre": "Statistiques et données minières",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
-      "url": "https://www.energie.gouv.ci/mines/statistiques-et-donnees-minieres",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:31"
-    },
-    {
-      "id": 2,
-      "titre": "Direction Générale des Mineset de la Géologie",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
-      "url": "http://mines.gouv.ci/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:31"
     }
   ]
 }
