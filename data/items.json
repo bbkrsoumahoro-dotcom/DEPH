@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-07T06:32:16",
+  "generated_at": "2026-09-07T13:23:30",
   "items": [
+    {
+      "id": 320,
+      "titre": "RDC : entre les frères Raphaël Katoto et Moïse Katumbi, un conflit foncier au parfum très politique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840205/politique/rdc-entre-les-freres-raphael-katoto-et-moise-katumbi-un-conflit-foncier-au-parfum-tres-politique/",
+      "resume": "Raphaël Katebe Katoto accuse son demi-frère, Moïse Katumbi, de lui avoir volé des biens dans le Haut-Katanga. Une plainte vient d’être relancée à Kinshasa, au moment où Katebe Katoto se met au service du président Félix Tshisekedi.",
+      "date_publication": "2026-09-07T13:21:18+00:00",
+      "heure_collecte": "2026-09-07T13:23:10"
+    },
+    {
+      "id": 321,
+      "titre": "Lagos, Abidjan, Nairobi… Ce qui dope la rentabilité exceptionnelle des Bourses africaines",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840565/economie-entreprises/lagos-abidjan-nairobi-ce-qui-dope-la-rentabilite-exceptionnelle-des-bourses-africaines/",
+      "resume": "Les places financières du continent surperforment les grands indices mondiaux en 2026, avec des hausses allant jusqu’à 71 %. Réformes, baisse des taux directeurs et mobile money expliquent cette euphorie.",
+      "date_publication": "2026-09-07T12:07:32+00:00",
+      "heure_collecte": "2026-09-07T13:23:10"
+    },
+    {
+      "id": 322,
+      "titre": "En Algérie, le retour en grâce inattendu de Mohamed Bouslimani au ministère de la Communication",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840729/politique/en-algerie-le-retour-en-grace-inattendu-de-mohamed-bouslimani-au-ministere-de-la-communication/",
+      "resume": "Les parcours de certains hauts responsables du pays racontent le fonctionnement interne du pouvoir central mieux que n’importe quel discours officiel. Le retour de Mohamed Bouslimani, limogé en 2023, à la tête du ministère de la Communication entre dans ce cas de figure.",
+      "date_publication": "2026-09-07T08:50:13+00:00",
+      "heure_collecte": "2026-09-07T13:23:10"
+    },
     {
       "id": 317,
       "titre": "« S’il vous perçoit comme une menace, il vous écrase » : Muhoozi Kainerugaba, le « bulldozer » qui veut succéder à son père à la tête de l’Ouganda",
@@ -4158,48 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:36"
-    },
-    {
-      "id": 24,
-      "titre": "Politiques de confidentialité",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Société Ivoirienne de Raffinage (SIR)",
-      "url": "https://www.sir.ci/politiques-de-confidentialite/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:36"
-    },
-    {
-      "id": 16,
-      "titre": "Centre d'Analyses et de Recherche",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "PETROCI Holding",
-      "url": "https://www.petroci.ci/car/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:34"
-    },
-    {
-      "id": 17,
-      "titre": "QNEC 2026 : PETROCI Holding mobilise son Comité de Direction",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "PETROCI Holding",
-      "url": "https://www.petroci.ci/article-detail/10/215/qnec-2026-petroci-holding-mobilise-son-comite-de-direction",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:34"
     }
   ]
 }
