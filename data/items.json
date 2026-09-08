@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-08T14:24:59",
+  "generated_at": "2026-09-08T18:01:45",
   "items": [
+    {
+      "id": 335,
+      "titre": "Comment l’Afrique se prépare au choc El Niño",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841261/economie-entreprises/comment-lafrique-se-prepare-au-choc-el-nino/",
+      "resume": "Alors que les économies du continent tentent de préserver leur croissance dans un environnement déjà contraint, les fortes perturbations climatiques attendues dans les prochains mois risquent de peser sur les récoltes, les prix alimentaires et les finances publiques.",
+      "date_publication": "2026-09-08T19:00:03+00:00",
+      "heure_collecte": "2026-09-08T18:01:26"
+    },
+    {
+      "id": 336,
+      "titre": "Cameroun-Allemagne : six crânes, un siècle d’exil et une histoire coloniale à exhumer",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838395/politique/cameroun-allemagne-six-cranes-un-siecle-dexil-et-une-histoire-coloniale-a-exhumer/",
+      "resume": "Six crânes de chefs camerounais exécutés en 1905 ont été rapatriés d’Allemagne en juillet. Un geste symbolique qui rouvre le dossier douloureux du patrimoine humain et culturel spolié pendant la colonisation allemande.",
+      "date_publication": "2026-09-08T18:55:00+00:00",
+      "heure_collecte": "2026-09-08T18:01:26"
+    },
     {
       "id": 333,
       "titre": "Mutinerie au Niger : 5 questions pour comprendre pourquoi l’AES a laissé Tiani seul",
@@ -4171,34 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1830190/economie-entreprises/barrick-pourquoi-lafrique-reste-au-coeur-de-la-strategie-internationale-du-geant-minier/",
       "resume": "En séparant ses actifs nord-américains du reste, Barrick redessine son portefeuille mondial. À la tête du « Rest of the world », Sebastiaan Bock hérite d’un ensemble où l’Afrique pourrait peser lourd.",
       "date_publication": "2026-08-14T13:28:05+00:00",
-      "heure_collecte": "2026-08-16T19:51:40"
-    },
-    {
-      "id": 51,
-      "titre": "Mustafa Rawji (Rawbank) : « Notre priorité, c’est désormais l’économie réelle, celle qui crée de l’emploi »",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1740613/economie-entreprises/mustafa-rawji-rawbank-notre-priorite-cest-desormais-leconomie-reelle-celle-qui-cree-de-lemploi/",
-      "resume": "Face aux défis de la RDC et à l’émergence de la concurrence, Rawbank adapte son modèle. Son dirigeant veut conforter la position de leader régional de la banque, en axant sur les PME et les investisseurs internationaux attirés par les grands projets régionaux.",
-      "date_publication": "2026-08-14T12:53:37+00:00",
-      "heure_collecte": "2026-08-16T19:51:40"
-    },
-    {
-      "id": 52,
-      "titre": "Dîna Slaoui, la Marocaine qui a ouvert les portes du monde très fermé des diamantaires",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1832399/societe/dina-slaoui-la-marocaine-qui-a-ouvert-les-portes-du-monde-tres-ferme-des-diamantaires/",
-      "resume": "Première Marocaine à intégrer la Bourse du diamant d’Anvers, Dîna Slaoui s’est frayé un chemin dans un univers où réputation et confiance font loi. De Casablanca aux coulisses du négoce mondial, portrait d’une passionnée qui connaît les diamants sous toutes leurs facettes.",
-      "date_publication": "2026-08-14T11:39:12+00:00",
       "heure_collecte": "2026-08-16T19:51:40"
     }
   ]
