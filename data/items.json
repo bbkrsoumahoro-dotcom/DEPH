@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-09T08:53:39",
+  "generated_at": "2026-09-09T13:36:14",
   "items": [
+    {
+      "id": 341,
+      "titre": "Sénégal : ce qu’il faut retenir de la déclaration de politique générale du Premier ministre Ahmadou Al Aminou Mohamed Lô",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841666/politique/senegal-ce-quil-faut-retenir-de-la-declaration-de-politique-generale-du-premier-ministre-ahmadou-al-aminou-mohamed-lo/",
+      "resume": "Au terme d’un marathon face aux députés, la déclaration de politique générale (DPG) du successeur d’Ousmane Sonko aura confirmé, hier, les tiraillements entre le gouvernement et la majorité parlementaire Pastef.",
+      "date_publication": "2026-09-09T14:43:51+00:00",
+      "heure_collecte": "2026-09-09T13:35:53"
+    },
     {
       "id": 337,
       "titre": "Tanezrouft, ce bagne du désert où Abdelmadjid Tebboune veut envoyer les narcotrafiquants algériens",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1832930/economie-entreprises/comment-lafrique-du-sud-a-double-lespagne-sur-lexportation-dagrumes/",
       "resume": "En quarante ans, l’Afrique du Sud est passée des boycotts anti-apartheid au sommet du commerce mondial des agrumes. Mais protectionnisme européen, logistique défaillante et El Niño menacent ce succès.",
       "date_publication": "2026-08-14T18:27:51+00:00",
-      "heure_collecte": "2026-08-16T19:51:40"
-    },
-    {
-      "id": 46,
-      "titre": "La Cour africaine des droits de l’homme est-elle encore utile ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1833030/politique/la-cour-africaine-des-droits-de-lhomme-est-elle-encore-utile/",
-      "resume": "Créée pour protéger les droits fondamentaux sur le continent, la Cour africaine des droits de l’homme et des peuples (CADHP) peine à faire appliquer ses décisions : sur les 104 arrêts rendus, seuls deux ont été pleinement exécutés. Décryptage en vidéo.",
-      "date_publication": "2026-08-14T18:26:26+00:00",
       "heure_collecte": "2026-08-16T19:51:40"
     }
   ]
