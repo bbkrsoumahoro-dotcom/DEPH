@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-09T17:42:51",
+  "generated_at": "2026-09-09T20:43:36",
   "items": [
+    {
+      "id": 346,
+      "titre": "Dialogue en RDC : pourquoi les Églises cherchent encore leur place",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841740/politique/dialogue-en-rdc-pourquoi-les-eglises-cherchent-encore-leur-place/",
+      "resume": "Alors qu’ils ont été au cœur des discussions qui ont précédé l’annonce de ces futures assises, les religieux redoutent de n’avoir, au final, qu’un rôle marginal dans ce processus auquel l’opposition a d’ores et déjà refusé de prendre part.",
+      "date_publication": "2026-09-09T20:00:01+00:00",
+      "heure_collecte": "2026-09-09T20:43:16"
+    },
     {
       "id": 342,
       "titre": "Côte d’Ivoire : entre Simone Ehivet et Laurent Gbagbo, des retrouvailles très politiques",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1832435/societe/le-petrole-est-une-malediction-en-ouganda-des-villages-dans-lincertitude-sur-la-propriete-de-leurs-terres/",
       "resume": "En Ouganda, la ruée vers l’or noir a exacerbé des conflits fonciers vieux de quinze ans. TotalEnergies et Kampala s’y retrouvent face aux communautés spoliées. Reportage.",
       "date_publication": "2026-08-15T10:10:10+00:00",
-      "heure_collecte": "2026-08-16T19:51:40"
-    },
-    {
-      "id": 41,
-      "titre": "Succès Masra gracié, Assimi Goïta et Abdelmadjid Tebboune se réconcilient, la crise d’Ormuz profite aux majors… Les 5 infos qu’il ne fallait pas manquer",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1830921/politique/succes-masra-gracie-assimi-goita-et-abdelmadjid-tebboune-se-reconcilient-la-crise-dormuz-profite-aux-majors-les-5-infos-quil-ne-fallait-pas-manquer/",
-      "resume": "Cette semaine, le Brief de Jeune Afrique revient sur la grâce accordée à l’opposant tchadien Succès Masra, décrypte la réconciliation entre le Mali et l’Algérie, analyse les bénéfices tirés par les majors de la crise d’Ormuz et le regain d’attractivité des hydrocarbures africains, s’interroge sur un possible report des élections locales au Sénégal et fait le point sur les dernières tractations aut",
-      "date_publication": "2026-08-15T08:30:00+00:00",
       "heure_collecte": "2026-08-16T19:51:40"
     }
   ]
