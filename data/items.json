@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-10T06:29:12",
+  "generated_at": "2026-09-10T11:44:47",
   "items": [
+    {
+      "id": 350,
+      "titre": "Gabon : 10 choses à savoir sur Guy Rossatanga-Rignault, conseiller de l’ombre d’Oligui Nguema",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841754/politique/gabon-dix-choses-a-savoir-sur-guy-rossatanga-rignault-conseiller-de-lombre-doligui-nguema/",
+      "resume": "Avocat, enseignant, auteur et éditeur… L’ancien secrétaire général de la présidence est depuis plusieurs décennies au cœur du pouvoir gabonais. Une influence discrète mais durable, d’Omar Bongo Ondimba à Brice Clotaire Oligui Nguema.",
+      "date_publication": "2026-09-10T12:37:45+00:00",
+      "heure_collecte": "2026-09-10T11:44:26"
+    },
+    {
+      "id": 351,
+      "titre": "Au Tchad, l’ancien chef rebelle centrafricain Abdoulaye Miskine condamné à quinze ans de prison",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841982/politique/au-tchad-lancien-chef-rebelle-centrafricain-abdoulaye-miskine-condamne-a-quinze-ans-de-prison/",
+      "resume": "Abdoulaye Miskine a été condamné pour des faits d’assassinat, de viol ou de torture, commis entre 2002 et 2003 dans des zones frontalières entre le Tchad et la République centrafricaine. Bangui avait en vain demandé son extradition.",
+      "date_publication": "2026-09-10T10:12:22+00:00",
+      "heure_collecte": "2026-09-10T11:44:26"
+    },
+    {
+      "id": 352,
+      "titre": "France-Algérie : l’Institut Montaigne plaide pour une « désensibilisation » de la relation",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841393/politique/france-algerie-linstitut-montaigne-plaide-pour-une-desensibilisation-de-la-relation/",
+      "resume": "Et si la France choisissait d’entretenir une relation « normale » avec l’Algérie, dépassionnée et débarrassée des vieilles querelles ? C’est l’option défendue par le think tank français, proche de la droite, dans la perspective de l’élection présidentielle de 2027.",
+      "date_publication": "2026-09-10T08:30:19+00:00",
+      "heure_collecte": "2026-09-10T11:44:26"
+    },
+    {
+      "id": 349,
+      "titre": "La Côte d'Ivoire distinguée par SLB pour son leadership dans le pétrole et le gaz",
+      "categorie": "hydrocarbures",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
+      "url": "https://www.energie.gouv.ci/actualite/la-cote-divoire-distinguee-par-slb-pour-son-leadership-dans-le-petrole-et-le-gaz-6aa27da551548",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-09-10T11:44:19"
+    },
     {
       "id": 347,
       "titre": "Aérien : les compagnies africaines sont-elles condamnées à nourrir les hubs étrangers ?",
@@ -4144,62 +4200,6 @@
       "resume": "Le président tchadien a accordé ce 14 août une grâce à neuf personnalités, dont l’opposant Succès Masra. Pour ce dernier, de nouvelles tractations commencent, avec comme objectif un nouveau retour au premier plan de la politique tchadienne.",
       "date_publication": "2026-08-14T10:35:03+00:00",
       "heure_collecte": "2026-08-16T19:51:41"
-    },
-    {
-      "id": 35,
-      "titre": "Attentat de Skhirat, « coup d’État des aviateurs »… La malédiction d’Azrou",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "rouge",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1832144/politique/attentat-de-skhirat-coup-detat-des-aviateurs-la-malediction-dazrou/",
-      "resume": "L’ascension des anciens d’Azrou au sein des institutions du royaume les a conduits au plus près du trône. Lorsque cet équilibre vole en éclats, au début des années 1970, le collège hérite d’une réputation sulfureuse, qui occultera pendant des décennies certains acteurs et épisodes d’une histoire bien plus complexe, celle du Maroc moderne.",
-      "date_publication": "2026-08-16T16:55:00+00:00",
-      "heure_collecte": "2026-08-16T19:51:40"
-    },
-    {
-      "id": 36,
-      "titre": "Uhuru Kenyatta peut-il unifier l’opposition kényane avant qu’il ne soit trop tard ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1832189/politique/uhuru-kenyatta-peut-il-unifier-lopposition-kenyane-avant-quil-ne-soit-trop-tard/",
-      "resume": "Quatre ans après avoir quitté State House, Uhuru Kenyatta tente de monter une coalition capable de battre William Ruto en 2027. Les chefs de l’opposition parviendront-ils à mettre leurs ambitions personnelles de côté ?",
-      "date_publication": "2026-08-16T15:00:00+00:00",
-      "heure_collecte": "2026-08-16T19:51:40"
-    },
-    {
-      "id": 37,
-      "titre": "Militaires, technocrates et hommes d’affaires : sur qui Faure Essozimna Gnassingbé s’appuie-t-il pour gouverner le Togo ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1805020/politique/militaires-technocrates-et-hommes-daffaires-sur-qui-faure-essozimna-gnassingbe-sappuie-t-il-pour-gouverner-le-togo/",
-      "resume": "Le président du Conseil, qui concentre l’essentiel des leviers de l’exécutif malgré l’instauration d’une Ve République supposée donner naissance à un régime parlementaire, s’appuie sur un réseau dense au service d’un pouvoir très centralisé.",
-      "date_publication": "2026-08-16T12:10:00+00:00",
-      "heure_collecte": "2026-08-16T19:51:40"
-    },
-    {
-      "id": 38,
-      "titre": "« Nous avons besoin de pardon, d’unité et de paix » : après avoir été libéré, l’opposant tchadien Succès Masra prône la réconciliation",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1833890/politique/nous-avons-besoin-de-pardon-dunite-et-de-paix-apres-avoir-ete-libere-lopposant-tchadien-succes-masra-prone-la-reconciliation/",
-      "resume": "Succès Masra, ancien Premier ministre et chef du principal parti d’opposition au Tchad, fraîchement libéré, a appelé ce 15 août à la réconciliation avec le président Mahamat Idriss Déby devant plusieurs centaines de militants réunis au siège de son parti.",
-      "date_publication": "2026-08-16T10:51:13+00:00",
-      "heure_collecte": "2026-08-16T19:51:40"
     }
   ]
 }
