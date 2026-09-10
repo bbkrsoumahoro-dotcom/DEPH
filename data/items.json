@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-10T16:06:46",
+  "generated_at": "2026-09-10T19:12:27",
   "items": [
+    {
+      "id": 358,
+      "titre": "Cameroun-Allemagne : à Doumé, l’énigme de la guillotine et des crimes coloniaux",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839091/politique/cameroun-allemagne-a-doume-lenigme-de-la-guillotine-et-des-crimes-coloniaux/",
+      "resume": "Le fortin colonial allemand de Doumé, dans l’est du Cameroun, cache un passé sanglant. Des historiens y soupçonnent l’existence d’une guillotine, utilisée lors de l’exécution de dix chefs de la résistance en juin 1910. Enquête.",
+      "date_publication": "2026-09-10T19:36:12+00:00",
+      "heure_collecte": "2026-09-10T19:12:07"
+    },
+    {
+      "id": 359,
+      "titre": "Présidentielle au Kenya : comment la santé d’Oburu Oginga menace la stratégie de William Ruto",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841368/politique/presidentielle-au-kenya-comment-la-sante-doburu-oginga-menace-la-strategie-de-william-ruto/",
+      "resume": "William Ruto a misé sur un allié qui semble affaibli pour contrôler l’ODM avant 2027. Les hospitalisations répétées d’Oburu Oginga, 83 ans, risquent de se retourner contre le président sortant.",
+      "date_publication": "2026-09-10T18:58:04+00:00",
+      "heure_collecte": "2026-09-10T19:12:07"
+    },
     {
       "id": 354,
       "titre": "Sénégal-Gambie : la Senelec peut-elle venir à la rescousses d’un réseau électrique sous tension ?",
@@ -4169,34 +4197,6 @@
       "fiabilite": "confirme",
       "source": "SODEMI",
       "url": "https://sodemi.ci/services/laboratoire-danalyses-minerales/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:48"
-    },
-    {
-      "id": 61,
-      "titre": "Laboratoire de traitement de minerais",
-      "categorie": "mines",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "SODEMI",
-      "url": "https://sodemi.ci/services/laboratoire-de-traitement-de-minerais/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:48"
-    },
-    {
-      "id": 62,
-      "titre": "Téléchargez notre catalogue",
-      "categorie": "mines",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "SODEMI",
-      "url": "https://app.box.com/s/lfb4a2v86yjpj6z0bzojtdapt78b4nla",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:48"
