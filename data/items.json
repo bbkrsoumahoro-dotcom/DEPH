@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-11T08:46:49",
+  "generated_at": "2026-09-11T13:24:30",
   "items": [
+    {
+      "id": 366,
+      "titre": "Tidiane Ouattara : « L’espace est une zone d’interdépendances dans laquelle personne n’est à l’abri de rien »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842317/economie-entreprises/tidiane-ouattara-lespace-est-une-zone-dinterdependances-dans-laquelle-personne-nest-a-labri-de-rien/",
+      "resume": "En poste depuis 2024, le premier président de l’Agence spatiale africaine (Afsa) plaide en faveur de partenariats multiples plutôt que pour une pleine souveraineté technologique qu’il estime illusoire.",
+      "date_publication": "2026-09-11T12:53:29+00:00",
+      "heure_collecte": "2026-09-11T13:24:09"
+    },
+    {
+      "id": 367,
+      "titre": "Comment la création d’Aqmi en 2006 a fait déferler le jihadisme sur le Maghreb et le Sahel",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "rouge",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840501/politique/comment-la-creation-daqmi-en-2006-a-fait-deferler-le-jihadisme-sur-le-maghreb-et-le-sahel/",
+      "resume": "Le 11 septembre 2006, cinq ans après les attentats de New York, Al-Qaïda s’unissait au GSPC algérien pour donner naissance à Aqmi. Retour sur la genèse et l’expansion d’une organisation jihadiste qui a reconfiguré le terrorisme au Maghreb et au Sahel.",
+      "date_publication": "2026-09-11T12:00:00+00:00",
+      "heure_collecte": "2026-09-11T13:24:09"
+    },
+    {
+      "id": 368,
+      "titre": "Cameroun : de nouveau accusé, Samuel Eto’o répond au nom « des intérêts de l’Afrique »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842376/politique/cameroun-de-nouveau-accuse-samuel-etoo-repond-au-nom-des-interets-de-lafrique/",
+      "resume": "Le président de la Fédération camerounaise de football (Fecafoot) est visé par des accusations concernant la gestion d’un versement russe de plus de 500 000 euros. L’intéressé a répondu, dénonçant une cabale contre un « Africain qui s’exprime librement ».",
+      "date_publication": "2026-09-11T11:51:08+00:00",
+      "heure_collecte": "2026-09-11T13:24:09"
+    },
+    {
+      "id": 365,
+      "titre": "Au Tchad, l’heure est-elle vraiment à la décrispation politique ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842224/politique/au-tchad-lheure-est-elle-vraiment-a-la-decrispation-politique/",
+      "resume": "La récente libération de l’opposant Succès Masra rouvre le débat sur l’ouverture de l’espace politique tchadien. Si le président Mahamat Idriss Déby Itno veut mettre en avant une décrispation, les doutes de l’opposition restent nombreux.",
+      "date_publication": "2026-09-11T13:21:09+00:00",
+      "heure_collecte": "2026-09-11T13:24:08"
+    },
     {
       "id": 360,
       "titre": "Côte d’Ivoire : Justin Koné Katinan, cadre du parti de Laurent Gbagbo, placé en garde à vue",
@@ -4144,62 +4200,6 @@
       "resume": "",
       "date_publication": "Tue, 05 Nov 2013 15:49:26 +0100",
       "heure_collecte": "2026-08-16T19:51:50"
-    },
-    {
-      "id": 68,
-      "titre": "Stéphane GRABER, Secrétaire général, GTSA (Geneva Trading & Shipping Association)",
-      "categorie": "mines",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Matières premières",
-      "url": "https://www.agenceecofin.com/matieres-premieres/0511-14829-stephane-graber-secretaire-general-gtsa-geneva-trading-shipping-association",
-      "resume": "",
-      "date_publication": "Tue, 05 Nov 2013 15:47:06 +0100",
-      "heure_collecte": "2026-08-16T19:51:50"
-    },
-    {
-      "id": 69,
-      "titre": "Daniel ABATE, Président du MECAM",
-      "categorie": "mines",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Matières premières",
-      "url": "https://www.agenceecofin.com/matieres-premieres/0511-14828-daniel-abate-president-du-mecam",
-      "resume": "",
-      "date_publication": "Tue, 05 Nov 2013 15:43:43 +0100",
-      "heure_collecte": "2026-08-16T19:51:50"
-    },
-    {
-      "id": 70,
-      "titre": "Lamine Kane : « un PPP de production de riz qui associe les populations locales »",
-      "categorie": "mines",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Matières premières",
-      "url": "https://www.agenceecofin.com/matieres-premieres/1610-14827-lamine-kane-un-ppp-de-production-de-riz-qui-associe-les-populations-locales",
-      "resume": "\nLe projet que Lamine Kane expose dans cette vidéo s’inscrit dans le cadre de l’initiative du président Macky Sall qui vise à produire au Sénégal jusqu’à 1,6 million de tonnes de riz.\nLa société ValNovel, que dirige Lamine Kane, a mis en place un PPP qui vise une production annuelle de 200&nbsp;000 à 300&nbsp;000 de tonnes de paddy&nbsp; en associant&nbsp;l’Etat sénégalais, les financeurs (tels qu",
-      "date_publication": "Tue, 05 Nov 2013 15:33:51 +0100",
-      "heure_collecte": "2026-08-16T19:51:50"
-    },
-    {
-      "id": 55,
-      "titre": "31, Boulevard des martyrs Abidjan, Côte d'Ivoire",
-      "categorie": "mines",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "SODEMI",
-      "url": "https://maps.app.goo.gl/iDRMVQk3Gj2ay1378",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:48"
     }
   ]
 }
