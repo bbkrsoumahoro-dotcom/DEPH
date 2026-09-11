@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-11T17:06:44",
+  "generated_at": "2026-09-11T19:58:00",
   "items": [
+    {
+      "id": 374,
+      "titre": "En Afrique, des propagandes russe et émiratie dopées à l’IA américaine",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842602/politique/en-afrique-des-propagandes-russe-et-emiratie-dopees-a-lia-americaine/",
+      "resume": "Un rapport d’Anthropic, géant américain de l’intelligence artificielle (IA), documente plusieurs usages de Claude, son assistant conversationnel, dans le cadre d’opérations de propagande sur le continent africain. Explications.",
+      "date_publication": "2026-09-11T19:23:49+00:00",
+      "heure_collecte": "2026-09-11T19:57:39"
+    },
     {
       "id": 369,
       "titre": "Face à Moody’s, Fitch et S&amp;P, l’Afrique peut-elle se noter elle-même ?",
@@ -4183,20 +4197,6 @@
       "fiabilite": "a_confirmer",
       "source": "Banque Africaine de Développement — Actualités",
       "url": "https://www.afdb.org/fr/documents/compliance-reviews",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:52"
-    },
-    {
-      "id": 82,
-      "titre": "Rapports sur l’intégrité et la lutte contre la corruption",
-      "categorie": "mines",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Banque Africaine de Développement — Actualités",
-      "url": "https://www.afdb.org/fr/documents/integrity-anti-corruption-reports",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:52"
