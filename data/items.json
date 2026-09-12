@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-12T13:28:14",
+  "generated_at": "2026-09-12T16:28:07",
   "items": [
+    {
+      "id": 379,
+      "titre": "Bénin : Romuald Wadagni a-t-il déjà imposé sa marque ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842404/politique/benin-romuald-wadagni-a-t-il-deja-impose-sa-marque/",
+      "resume": "Le nouveau président béninois a été élu depuis cinq mois. Style sobre, priorité au social et relations apaisées avec Patrice Talon : Romuald Wadagni veut imprimer son cachet, sans rompre avec son prédécesseur.",
+      "date_publication": "2026-09-12T17:08:57+00:00",
+      "heure_collecte": "2026-09-12T16:27:45"
+    },
     {
       "id": 378,
       "titre": "Niger : Abdourahamane Tiani nomme Mamane Sani Kiaou chef d’état-major à la place de Moussa Salaou Barmou",
@@ -4183,20 +4197,6 @@
       "fiabilite": "a_confirmer",
       "source": "Banque Africaine de Développement — Actualités",
       "url": "https://www.afdb.org/fr/documents-publications/rapport-annuel",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:52"
-    },
-    {
-      "id": 77,
-      "titre": "Acquisitions de biens et services relatives aux projets",
-      "categorie": "mines",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Banque Africaine de Développement — Actualités",
-      "url": "https://www.afdb.org/fr/documents/project-related-procurement",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:52"
