@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-12T09:33:21",
+  "generated_at": "2026-09-12T13:28:14",
   "items": [
+    {
+      "id": 378,
+      "titre": "Niger : Abdourahamane Tiani nomme Mamane Sani Kiaou chef d’état-major à la place de Moussa Salaou Barmou",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842771/politique/niger-abdourahamane-tiani-nomme-mamane-sani-kiaou-chef-detat-major-a-la-place-de-moussa-salaou-barmou/",
+      "resume": "Le chef de la junte au pouvoir au Niger a nommé un nouveau chef d’état-major des Armées, deux semaines après la mutinerie militaire qui a ébranlé son pouvoir.",
+      "date_publication": "2026-09-12T11:44:14+00:00",
+      "heure_collecte": "2026-09-12T13:27:52"
+    },
     {
       "id": 375,
       "titre": "Football libyen : enfin un terrain d’entente entre Haftar et Dbeibah",
@@ -4183,20 +4197,6 @@
       "fiabilite": "a_confirmer",
       "source": "Banque Africaine de Développement — Actualités",
       "url": "https://www.afdb.org/fr/documents/project-related-procurement",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:52"
-    },
-    {
-      "id": 78,
-      "titre": "Evaluation environnementale et sociale",
-      "categorie": "mines",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Banque Africaine de Développement — Actualités",
-      "url": "https://www.afdb.org/fr/documents/environmental-and-social-assessments",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:52"
