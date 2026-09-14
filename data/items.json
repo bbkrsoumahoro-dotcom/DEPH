@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-14T04:43:42",
+  "generated_at": "2026-09-14T10:26:24",
   "items": [
+    {
+      "id": 384,
+      "titre": "Présidentielle au Nigeria : la détention d’El-Rufai prive l’opposition de toute velléité de victoire",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842334/politique/presidentielle-au-nigeria-la-detention-del-rufai-prive-lopposition-de-toute-velleite-de-victoire/",
+      "resume": "Personnage haut en couleur de l’opposition nigériane, Nasir El-Rufai croupit en prison depuis février dernier. À moins d’un an des élections, des voix commencent à s’élever pour dénoncer une manœuvre politique du pouvoir.",
+      "date_publication": "2026-09-14T12:04:45+00:00",
+      "heure_collecte": "2026-09-14T10:26:01"
+    },
+    {
+      "id": 385,
+      "titre": "« Historique », « systémique », « populaire » : tout ce qu’il faut savoir sur l’entrée en Bourse de la raffinerie Dangote",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842574/economie-entreprises/historique-systemique-populaire-tout-ce-quil-faut-savoir-sur-lentree-en-bourse-de-la-raffinerie-dangote/",
+      "resume": "Aliko Dangote introduit sa raffinerie en Bourse dès le 14 septembre, visant 1,62 milliard de dollars. Une opération qui pourrait devenir la plus grande IPO de l’histoire africaine.",
+      "date_publication": "2026-09-14T08:30:35+00:00",
+      "heure_collecte": "2026-09-14T10:26:01"
+    },
+    {
+      "id": 386,
+      "titre": "Fouzi Lekjaâ : « Premier ministre ? Je vais vous dire une chose, je n’y ai jamais réfléchi »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840086/politique/fouzi-lekjaa-premier-ministre-je-vais-vous-dire-une-chose-je-ny-ai-jamais-reflechi/",
+      "resume": "Depuis son ralliement au PAM, et à moins de deux semaines des législatives du 23 septembre, le très médiatique ministre délégué au Budget et patron de la fédération de football attire tous les regards. Pourquoi est-il entré dans l’arène politique ? Envisage-t-il la primature ? Quelles ambitions nourrit-il pour la Coupe du monde que le royaume accueillera en 2030 ? Qu’a-t-il à dire sur la très polé",
+      "date_publication": "2026-09-14T08:01:26+00:00",
+      "heure_collecte": "2026-09-14T10:26:01"
+    },
+    {
+      "id": 387,
+      "titre": "Guinée-France : pourquoi Paris continue de ménager le régime de Mamadi Doumbouya",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840714/politique/guinee-france-pourquoi-paris-continue-de-menager-le-regime-de-mamadi-doumbouya/",
+      "resume": "Malgré les accusations de répression qui visent le pouvoir en place à Conakry, Paris assume le choix du dialogue. Une stratégie diplomatique qui s’explique aussi par le poids économique croissant de la Guinée, portée par le boom minier.",
+      "date_publication": "2026-09-14T07:00:00+00:00",
+      "heure_collecte": "2026-09-14T10:26:01"
+    },
     {
       "id": 383,
       "titre": "Constitution du 13 septembre 1996 : quand le Maroc choisissait l’alternance politique",
@@ -4144,62 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:54"
-    },
-    {
-      "id": 97,
-      "titre": "Toutes nos Publications, Avis, & Communiqués",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.cinergies.ci/category/avis-communiques/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:54"
-    },
-    {
-      "id": 98,
-      "titre": "Toutes nos vidéos sur notre chaine YouTube",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.youtube.com/channel/UC86l0atPMLuwXKvn3O2lMGg",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:54"
-    },
-    {
-      "id": 71,
-      "titre": "Aller au contenu principal",
-      "categorie": "mines",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Banque Africaine de Développement — Actualités",
-      "url": "https://www.afdb.org/fr/news-and-events#main-content",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:52"
-    },
-    {
-      "id": 72,
-      "titre": "Structure organisationnelle",
-      "categorie": "mines",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Banque Africaine de Développement — Actualités",
-      "url": "https://www.afdb.org/fr/node/13571",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:52"
     }
   ]
 }
