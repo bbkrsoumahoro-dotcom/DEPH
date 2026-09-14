@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-14T16:29:34",
+  "generated_at": "2026-09-14T20:28:11",
   "items": [
+    {
+      "id": 391,
+      "titre": "Niger : en écartant le général Barmou, Abdourahamane Tiani veut reprendre la main sur l’armée",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842954/politique/niger-en-ecartant-le-general-barmou-abdourahamane-tiani-veut-reprendre-la-main-sur-larmee/",
+      "resume": "Quelques semaines après la mutinerie d’une partie des forces spéciales, les 28 et 29 août, le chef de la junte nigérienne a procédé à un vaste remaniement de la hiérarchie militaire. Un premier signal de la réponse du pouvoir à la mutinerie qui a secoué Niamey.",
+      "date_publication": "2026-09-14T18:53:32+00:00",
+      "heure_collecte": "2026-09-14T20:27:50"
+    },
     {
       "id": 388,
       "titre": "Sénégal : face à Starlink, Sonatel pousse l’État à faire respecter les règles",
@@ -4183,20 +4197,6 @@
       "fiabilite": "confirme",
       "source": "CI-ENERGIES",
       "url": "https://www.cinergies.ci/2026/08/12/recrutement-dun-consultant-contract-manager/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:54"
-    },
-    {
-      "id": 93,
-      "titre": "AMI RECRUTEMENT CONSULTANTS \"CONTROLEURS DE TRAVAUX\"",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.cinergies.ci/2026/08/12/ami-recrutement-consultants-controleurs-de-travaux/",
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-16T19:51:54"
