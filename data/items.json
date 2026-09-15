@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-15T07:28:07",
+  "generated_at": "2026-09-15T12:52:20",
   "items": [
+    {
+      "id": 395,
+      "titre": "Massad Boulos à Alger : le Sahara en ligne de front, les hydrocarbures en arrière-plan",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843269/politique/massad-boulos-a-alger-le-sahara-en-ligne-de-front-les-hydrocarbures-en-arriere-plan/",
+      "resume": "Le conseiller de Trump pour l’Afrique était de retour à Alger le 13 septembre pour sa troisième visite en cinq mois. Objectif : convaincre l’Algérie d’accepter le nouveau cadre onusien sur le Sahara occidental, tout en ouvrant la porte aux majors pétrolières américaines.",
+      "date_publication": "2026-09-15T14:35:04+00:00",
+      "heure_collecte": "2026-09-15T12:51:43"
+    },
+    {
+      "id": 396,
+      "titre": "Aérien : Congo Airways peut-elle sortir de la crise ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843143/economie-entreprises/aerien-congo-airways-peut-elle-sortir-de-la-crise/",
+      "resume": "La compagnie aérienne de RDC est au bord du gouffre. Si le gouvernement a lancé un plan de relance en mars, reste à savoir s’il sera suffisant.",
+      "date_publication": "2026-09-15T14:28:33+00:00",
+      "heure_collecte": "2026-09-15T12:51:43"
+    },
+    {
+      "id": 397,
+      "titre": "Afrique-ONU : 5 questions pour comprendre les enjeux de la 81e Assemblée générale",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843215/politique/afrique-onu-5-questions-pour-comprendre-les-enjeux-de-la-81e-assemblee-generale/",
+      "resume": "Succession d’António Guterres, guerres au Soudan et dans l’est de la RDC, épidémie d’Ebola… La grand-messe onusienne s’ouvre le 22 septembre à New York et, cette année encore, des dossiers africains majeurs sont à suivre.",
+      "date_publication": "2026-09-15T12:30:29+00:00",
+      "heure_collecte": "2026-09-15T12:51:43"
+    },
+    {
+      "id": 398,
+      "titre": "Jared Kushner, le Maroc et les milliards promis des accords d’Abraham",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841750/politique/jared-kushner-le-maroc-et-les-milliards-promis-des-accords-dabraham/",
+      "resume": "De retour au premier plan des négociations sur Gaza, le gendre et envoyé spécial du président américain veut adosser la relance des accords d’Abraham à l’injection de capitaux privés. Six ans après la reconnaissance américaine de la marocanité du Sahara occidental, que peut encore y gagner Rabat ?",
+      "date_publication": "2026-09-15T09:56:51+00:00",
+      "heure_collecte": "2026-09-15T12:51:43"
+    },
     {
       "id": 392,
       "titre": "Bolt, Yango, Gozem… Qui saura profiter du retrait progressif d’Uber en Afrique ?",
@@ -4144,62 +4200,6 @@
       "resume": "Le projet, dont le coût global est estimé à 60 milliards de dollars, comprend notamment trois raffineries, cinq usines pétrochimiques, des installations de stockage de 10 millions de m3, des jetées et des infrastructures portuaires. \nLe gouvernement ghanéen a signé, le mardi 18 juin 2024, un accord avec un consortium composé d’entreprises locales et étrangères pour la réalisation de la première ph",
       "date_publication": "Thu, 20 Jun 2024 18:29:14 +0200",
       "heure_collecte": "2026-08-16T19:51:58"
-    },
-    {
-      "id": 86,
-      "titre": "Visit our YouTube channel",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.youtube.com/channel/UC86l0atPMLuwXKvn3O2lMGg/videos",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:54"
-    },
-    {
-      "id": 87,
-      "titre": "Automatisme - Téléconduite",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.cinergies.ci/automatisme-teleconduite/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:54"
-    },
-    {
-      "id": 88,
-      "titre": "Valeurs et Engagements Éthiques",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.cinergies.ci/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:54"
-    },
-    {
-      "id": 89,
-      "titre": "Notre Ambition à l'Horizon 2025 - 2030",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.cinergies.ci/ambitions-a-lhorizon-2025-2030/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-16T19:51:54"
     }
   ]
 }
