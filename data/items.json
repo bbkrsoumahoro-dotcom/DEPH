@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-15T12:52:20",
+  "generated_at": "2026-09-15T17:34:09",
   "items": [
+    {
+      "id": 400,
+      "titre": "« Tshisekedi nous a tendu un guet-apens » : en RDC, la mobilisation de l’opposition dégénère",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843551/politique/tshisekedi-nous-a-tendu-un-guet-apens-en-rdc-la-mobilisation-de-lopposition-degenere/",
+      "resume": "À Kinshasa, la marche de la coalition C64 contre le changement de Constitution a tourné en affrontements entre manifestants, leaders d’opposition et des jeunes désignés comme membres du parti au pouvoir. Blessé, Martin Fayulu a mis en cause le chef de l’État.",
+      "date_publication": "2026-09-15T18:28:47+00:00",
+      "heure_collecte": "2026-09-15T17:33:45"
+    },
+    {
+      "id": 401,
+      "titre": "Entrée en Bourse : face aux doutes des marchés, Aliko Dangote a-t-il été trop gourmand ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843405/economie-entreprises/entree-en-bourse-face-aux-doutes-des-marches-aliko-dangote-a-t-il-ete-trop-gourmand/",
+      "resume": "La valorisation de la raffinerie Dangote divise les analystes. Mais son directeur général explique pourquoi comparer Lekki aux raffineries européennes ou asiatiques n’a aucun sens.",
+      "date_publication": "2026-09-15T17:54:51+00:00",
+      "heure_collecte": "2026-09-15T17:33:45"
+    },
+    {
+      "id": 399,
+      "titre": "La Société minière METAL JAUNE offre une ambulance médicalisée et des Kits scolaires aux communautés locales de PETIGOA 2",
+      "categorie": "hydrocarbures",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
+      "url": "https://www.energie.gouv.ci/actualite/la-societe-miniere-metal-jaune-offre-une-ambulance-medicalisee-et-des-kits-scolaires-aux-communautes-locales-de-petigoa-2-6aa9564db6177",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-09-15T17:33:38"
+    },
     {
       "id": 395,
       "titre": "Massad Boulos à Alger : le Sahara en ligne de front, les hydrocarbures en arrière-plan",
@@ -4157,48 +4199,6 @@
       "url": "https://www.agenceecofin.com/energies/0909-121374-delestage-au-mali-l-irena-identifie-un-potentiel-de-398-7-gw-de-solaire",
       "resume": "Alors que le Mali est confronté à une crise énergétique marquée par des coupures d’électricité régulières, une nouvelle étude de l’IRENA révèle un important potentiel de développement pour les énergies renouvelables dans le pays. \nUne étude menée par l’Agence internationale pour les énergies renouvelables (IRENA) a révélé un important potentiel de développement pour les énergies renouvelables au M",
       "date_publication": "Mon, 09 Sep 2024 17:04:52 +0200",
-      "heure_collecte": "2026-08-16T19:51:58"
-    },
-    {
-      "id": 106,
-      "titre": "Angola : le turc Tosyali Holding et Sonangol lanceront une usine sidérurgique",
-      "categorie": "energie",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Énergies",
-      "url": "https://www.agenceecofin.com/energies/1608-120796-angola-le-turc-tosyali-holding-et-sonangol-lanceront-une-usine-siderurgique",
-      "resume": "L’usine, qui s’approvisionnera en minerai de fer à partir du gisement de Cassinga, devrait être opérationnelle à la mi-2027. \nLe groupe turc Tosyali Holding a annoncé, dans un communiqué publié ce jeudi 15 août, qu'il prévoit d’installer une usine sidérurgique intégrée en Angola, en association avec la compagnie pétrolière publique Sonangol.\nLa joint-venture, qui sera détenue à hauteur de 70% par ",
-      "date_publication": "Fri, 16 Aug 2024 05:52:52 +0200",
-      "heure_collecte": "2026-08-16T19:51:58"
-    },
-    {
-      "id": 107,
-      "titre": "La Guinée approuve un prêt de 65 millions $ pour l’accès à l’électricité",
-      "categorie": "energie",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Énergies",
-      "url": "https://www.agenceecofin.com/energies/1107-120207-la-guinee-approuve-un-pret-de-65-millions-pour-l-acces-a-l-electricite",
-      "resume": "L’AFD et la Guinée avaient signé une double convention de financement de développement dont l’amélioration et l’accès à l’eau potable en juillet 2023.\nRéunis en session plénière, les membres du Conseil national de transition (CNT) de la Guinée ont approuvé un prêt 60 millions d’euros (65,03 millions&nbsp;$) de l’Agence française de développement (AFD) pour le projet d’amélioration de l’accès à l’é",
-      "date_publication": "Thu, 11 Jul 2024 06:25:46 +0200",
-      "heure_collecte": "2026-08-16T19:51:58"
-    },
-    {
-      "id": 108,
-      "titre": "12 milliards $ pour la 1re phase du mégaprojet de hub pétrolier ghanéen",
-      "categorie": "energie",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Énergies",
-      "url": "https://www.agenceecofin.com/energies/2006-119672-12-milliards-pour-la-1re-phase-du-megaprojet-de-hub-petrolier-ghaneen",
-      "resume": "Le projet, dont le coût global est estimé à 60 milliards de dollars, comprend notamment trois raffineries, cinq usines pétrochimiques, des installations de stockage de 10 millions de m3, des jetées et des infrastructures portuaires. \nLe gouvernement ghanéen a signé, le mardi 18 juin 2024, un accord avec un consortium composé d’entreprises locales et étrangères pour la réalisation de la première ph",
-      "date_publication": "Thu, 20 Jun 2024 18:29:14 +0200",
       "heure_collecte": "2026-08-16T19:51:58"
     }
   ]
