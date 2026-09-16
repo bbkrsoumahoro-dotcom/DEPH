@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-16T09:27:02",
+  "generated_at": "2026-09-16T14:19:08",
   "items": [
+    {
+      "id": 405,
+      "titre": "Guinée-Côte d’Ivoire : dans les coulisses des retrouvailles entre Doumbouya et Ouattara",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843463/politique/cote-divoire-guinee-dans-les-coulisses-des-retrouvailles-entre-ouattara-et-doumbouya/",
+      "resume": "Le président guinéen a séjourné à Abidjan du 11 au 14 septembre où il s’est entretenu avec son homologue ivoirien. Sécurité frontalière, monnaie commune, opposants en exil… Plusieurs dossiers sensibles ont été évoqués lors de leur tête-à-tête.",
+      "date_publication": "2026-09-16T15:03:27+00:00",
+      "heure_collecte": "2026-09-16T14:18:43"
+    },
+    {
+      "id": 406,
+      "titre": "La méthode Paul Kammogne Fokam, le Camerounais qui a bâti le géant bancaire Afriland loin des projecteurs",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1828865/economie-entreprises/la-methode-paul-kammogne-fokam-le-camerounais-qui-a-bati-le-geant-bancaire-afriland-loin-des-projecteurs/",
+      "resume": "Fondateur d’Afriland First Bank, Paul Kammogne Fokam a bâti un empire bancaire en pariant sur l’épargne populaire. Portrait d’un pionnier discret, entre ambitions panafricaines et zones d’ombre.",
+      "date_publication": "2026-09-16T12:31:16+00:00",
+      "heure_collecte": "2026-09-16T14:18:43"
+    },
     {
       "id": 402,
       "titre": "Comment la chute de la Samir a redéfini la politique énergétique marocaine",
@@ -4171,34 +4199,6 @@
       "url": "https://www.agenceecofin.com/energies/0310-122121-ecomondo-2024-l-afrique-et-le-plan-mattei-au-centre-des-discussions-prevues",
       "resume": "Début 2024, l’Italie a dévoilé le plan Mattei, un programme de «&nbsp;partenariat stratégique&nbsp;» avec les pays africains, doté d’un budget initial de 5,95 milliards&nbsp;$. En novembre, au salon Ecomondo à Rimini, des discussions auront lieu avec un focus sur l’Afrique et ce plan pour le développement durable.\nLa 27e édition du salon Ecomondo, un des événements phares dédiés aux technologies v",
       "date_publication": "Thu, 03 Oct 2024 14:05:38 +0200",
-      "heure_collecte": "2026-08-16T19:51:58"
-    },
-    {
-      "id": 101,
-      "titre": "BOAD : 10 millions $ pour électrifier les zones rurales du Togo",
-      "categorie": "energie",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Énergies",
-      "url": "https://www.agenceecofin.com/energies/2309-121806-boad-10-millions-pour-electrifier-les-zones-rurales-du-togo",
-      "resume": "En 2023, le taux de couverture électrique du Togo était de 66%. Avec le nouveau financement, ce sont 172 localités qui seront impactées grâce à une extension du réseau de distribution.\nLe Togo va bénéficier d’un nouveau financement de la BOAD, informe Togo The First. A l'issue de la 143e session de son conseil d'administration, l’institution financière sous-régionale a approuvé l’allocation de 6 m",
-      "date_publication": "Mon, 23 Sep 2024 20:23:44 +0200",
-      "heure_collecte": "2026-08-16T19:51:58"
-    },
-    {
-      "id": 102,
-      "titre": "Tunisie : accords pour la construction de deux centrales solaires",
-      "categorie": "energie",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Énergies",
-      "url": "https://www.agenceecofin.com/energies/1909-121702-tunisie-accords-pour-la-construction-de-deux-centrales-solaires",
-      "resume": "Le potentiel de renouvelable des pays africains peut jouer un rôle crucial dans l’accès à une électricité fiable et propre. En Tunisie, les autorités envisagent d’augmenter la part de la production d’énergies renouvelables.\nLa ministre tunisienne de l'Industrie, des Mines et de l'Energie, Fatma Thabet Chiboub, et les sociétés norvégienne et japonaise d’énergies renouvelables, Scatec et Aeolus, ont",
-      "date_publication": "Thu, 19 Sep 2024 19:49:33 +0200",
       "heure_collecte": "2026-08-16T19:51:58"
     }
   ]
