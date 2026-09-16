@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-16T14:19:08",
+  "generated_at": "2026-09-16T18:20:45",
   "items": [
+    {
+      "id": 407,
+      "titre": "Guinée équatoriale : faux coup d’État, mais vraies arrestations chez les Obiang",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843758/politique/guinee-equatoriale-faux-coup-detat-mais-vraies-arrestations-chez-les-obiang/",
+      "resume": "Après avoir affirmé avoir localement déjoué un putsch, Malabo a ensuite démenti sa propre version. Mais les arrestations dans les familles de l’opposition en exil ont bien eu lieu et quatre personnes sont toujours détenues.",
+      "date_publication": "2026-09-16T19:02:01+00:00",
+      "heure_collecte": "2026-09-16T18:20:22"
+    },
+    {
+      "id": 408,
+      "titre": "Maroc : ce qui retarde l’introduction en Bourse de Dislog, le groupe de Moncef Belkhayat",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843961/economie-entreprises/maroc-ce-qui-retarde-lintroduction-en-bourse-de-dislog-le-groupe-de-moncef-belkhayat/",
+      "resume": "À quelques mois de l’échéance prévue, l’entrepreneur attend toujours le visa du régulateur pour l’introduction en Bourse de Dislog, navire amiral du géant H&amp;S Group. Déterminé à réaliser l’IPO d’ici à décembre, l’ancien ministre s’attelle désormais à bétonner son dossier en répondant à des compléments d’information.",
+      "date_publication": "2026-09-16T18:34:33+00:00",
+      "heure_collecte": "2026-09-16T18:20:22"
+    },
+    {
+      "id": 409,
+      "titre": "De Washington à Abou Dhabi, dans les coulisses du roadshow financier de Bassirou Diomaye Faye",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843872/economie-entreprises/de-washington-a-abou-dhabi-dans-les-coulisses-du-roadshow-financier-de-bassirou-diomaye-faye/",
+      "resume": "Accord avec le FMI en poche, le président sénégalais joue la carte de la diplomatie financière. Tambour battant, il cherche à convaincre créanciers et investisseurs de parier sur le redressement du Sénégal.",
+      "date_publication": "2026-09-16T18:11:51+00:00",
+      "heure_collecte": "2026-09-16T18:20:22"
+    },
+    {
+      "id": 410,
+      "titre": "« Ils ont vu les enfants, ils ont quand même tiré » : au Mali, enquête sur la guerre des drones",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841995/politique/ils-ont-vu-les-enfants-ils-ont-quand-meme-tire-au-mali-enquete-sur-la-guerre-des-drones/",
+      "resume": "Pendant plusieurs mois, Jeune Afrique et Bellingcat ont enquêté, avec la participation de The Sentry, sur les frappes de drones menées par l’armée malienne et les Russes d’Africa Corps. Au moins un quart d’entre elles font des victimes civiles. La face cachée d’une impitoyable reconquête.",
+      "date_publication": "2026-09-16T17:56:02+00:00",
+      "heure_collecte": "2026-09-16T18:20:22"
+    },
     {
       "id": 405,
       "titre": "Guinée-Côte d’Ivoire : dans les coulisses des retrouvailles entre Doumbouya et Ouattara",
@@ -4144,62 +4200,6 @@
       "resume": "Au cours des cinq dernières années, le réseau satellitaire de SpaceX aura réussi à obtenir des autorisations de déploiement dans 29 pays du continent. Cet essor fulgurant renforce l’inclusion numérique des populations, tout en mettant en péril la souveraineté des États signataires. Le jeu en vaut-il la chandelle ?",
       "date_publication": "2026-08-17T08:09:51+00:00",
       "heure_collecte": "2026-08-17T07:33:48"
-    },
-    {
-      "id": 112,
-      "titre": "Auchan, Carrefour, Marjane… Comment les supermarchés relèvent le défi du local dans les rayons",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1828572/economie-entreprises/auchan-carrefour-marjane-comment-les-supermarches-relevent-le-defi-du-local-dans-les-rayons/",
-      "resume": "La grande distribution se pose en fer de lance de l’essor du « Made in Africa » sur le continent. Si les résultats sont réels sur les produits frais et sur la structuration des filières agricoles, il reste encore beaucoup à faire pour généraliser le mouvement.",
-      "date_publication": "2026-08-17T08:06:01+00:00",
-      "heure_collecte": "2026-08-17T07:33:48"
-    },
-    {
-      "id": 109,
-      "titre": "Guinée : entre exil, prison et participation, l’opposition à Mamadi Doumbouya sous pression",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1829879/politique/guinee-entre-exil-prison-et-participation-lopposition-a-mamadi-doumbouya-sous-pression/",
-      "resume": "Avec la mise hors-jeu des partis historiques et de leurs leaders contraints à l’exil – parmi lesquels Cellou Dalein Diallo, Sidya Touré et Alpha Condé –, l’opposition guinéenne se recompose comme elle peut dans un espace politique dominé par la formation présidentielle et ses alliés.",
-      "date_publication": "2026-08-17T06:55:00+00:00",
-      "heure_collecte": "2026-08-17T05:10:35"
-    },
-    {
-      "id": 99,
-      "titre": "Hydrocarbures : une mission d'exploration turque dans les eaux somaliennes",
-      "categorie": "energie",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Énergies",
-      "url": "https://www.agenceecofin.com/energies/0710-122205-hydrocarbures-une-mission-dexploration-turque-dans-les-eaux-somaliennes",
-      "resume": "La Turquie a renforcé ses liens avec la Somalie depuis la visite effectuée en 2011 par le président Recep Tayyip Erdogan dans ce pays de la Corne de l’Afrique. En août dernier, des accords bilatéraux ont été signés dans les domaines de l’exploration d’hydrocarbures et de la défense.&nbsp;&nbsp;\nLa Turquie a annoncé, le samedi 5 octobre 2024, l’envoi du navire de recherche sémique Oruç Reis vers le",
-      "date_publication": "Mon, 07 Oct 2024 14:43:21 +0200",
-      "heure_collecte": "2026-08-16T19:51:58"
-    },
-    {
-      "id": 100,
-      "titre": "Ecomondo 2024 : l’Afrique et le plan Mattei au centre des discussions prévues",
-      "categorie": "energie",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Agence Ecofin — Énergies",
-      "url": "https://www.agenceecofin.com/energies/0310-122121-ecomondo-2024-l-afrique-et-le-plan-mattei-au-centre-des-discussions-prevues",
-      "resume": "Début 2024, l’Italie a dévoilé le plan Mattei, un programme de «&nbsp;partenariat stratégique&nbsp;» avec les pays africains, doté d’un budget initial de 5,95 milliards&nbsp;$. En novembre, au salon Ecomondo à Rimini, des discussions auront lieu avec un focus sur l’Afrique et ce plan pour le développement durable.\nLa 27e édition du salon Ecomondo, un des événements phares dédiés aux technologies v",
-      "date_publication": "Thu, 03 Oct 2024 14:05:38 +0200",
-      "heure_collecte": "2026-08-16T19:51:58"
     }
   ]
 }
