@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-17T15:13:19",
+  "generated_at": "2026-09-17T19:12:12",
   "items": [
+    {
+      "id": 423,
+      "titre": "Comment le PAPSS d’Afreximbank veut connecter l’Afrique au reste du monde",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844135/economie-entreprises/comment-le-papss-dafreximbank-veut-connecter-lafrique-au-reste-du-monde/",
+      "resume": "Créé pour fluidifier les paiements intra-africains, le PAPSS franchit une nouvelle étape en s’ouvrant aux grandes puissances commerciales mondiales. La plateforme vise également l’interopérabilité des cartes bancaires à travers le continent.",
+      "date_publication": "2026-09-17T17:52:42+00:00",
+      "heure_collecte": "2026-09-17T19:11:50"
+    },
+    {
+      "id": 421,
+      "titre": "Côte d’Ivoire : la justice allège les charges contre Blaise Lasm, proche de Laurent Gbagbo",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843849/politique/cote-divoire-la-justice-allege-les-charges-contre-blaise-lasm-proche-de-laurent-gbagbo/",
+      "resume": "Détenu depuis septembre 2025, le responsable du PPA-CI a obtenu un non-lieu partiel. Son dossier est désormais renvoyé devant le tribunal correctionnel.",
+      "date_publication": "2026-09-17T19:52:00+00:00",
+      "heure_collecte": "2026-09-17T19:11:49"
+    },
+    {
+      "id": 422,
+      "titre": "Rwanda-Bénin : chez Paul Kagame, les dossiers très sécuritaires de Romuald Wadagni",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844333/politique/rwanda-benin-chez-paul-kagame-les-dossiers-tres-securitaires-de-romuald-wadagni/",
+      "resume": "Avant Brazzaville, où il est arrivé ce 17 septembre, le président béninois a effectué une visite officielle à Kigali. Au cœur des discussions avec son homologue rwandais, le renforcement du partenariat sur les questions militaires et de renseignements.",
+      "date_publication": "2026-09-17T18:04:34+00:00",
+      "heure_collecte": "2026-09-17T19:11:49"
+    },
     {
       "id": 418,
       "titre": "Comment l’ivoirien Yeshi veut accélérer au Cameroun",
@@ -4158,48 +4200,6 @@
       "resume": "Le 12 juin, deux faux décrets présidentiels ont failli être lus à la CRTV. Deux mois plus tard, l’enquête s’oriente vers l’entourage de Paul Biya et met en lumière l’exacerbation de la lutte entre les clans qui se disputent le poste, encore vacant, de vice-président.",
       "date_publication": "2026-08-18T12:30:59+00:00",
       "heure_collecte": "2026-08-18T11:29:01"
-    },
-    {
-      "id": 122,
-      "titre": "Zambie : Hakainde Hichilema réélu président avec 60 % des voix malgré des tensions inédites",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1835715/politique/zambie-hakainde-hichilema-reelu-president-avec-60-des-voix-malgre-des-tensions-inedites/",
-      "resume": "Le président sortant a été réélu pour un deuxième mandat à la tête de la Zambie dans une confusion politique inhabituelle. Plusieurs opposants ont été arrêtés.",
-      "date_publication": "2026-08-18T10:12:43+00:00",
-      "heure_collecte": "2026-08-18T08:41:14"
-    },
-    {
-      "id": 123,
-      "titre": "Au Sénégal, l’Assemblée nationale adopte la loi sur la déclaration de patrimoine des hauts dirigeants",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1835696/politique/au-senegal-lassemblee-nationale-adopte-la-loi-sur-la-declaration-de-patrimoine-des-hauts-dirigeants/",
-      "resume": "Le nouveau texte impose au chef de l’État, au président de l’Assemblée nationale et au Premier ministre de déclarer leur patrimoine au Conseil constitutionnel à leur entrée et à leur sortie de fonction. Un texte adopté sur fond de discorde entre Bassirou Diomaye Faye et Ousmane Sonko.",
-      "date_publication": "2026-08-18T09:20:34+00:00",
-      "heure_collecte": "2026-08-18T08:41:14"
-    },
-    {
-      "id": 121,
-      "titre": "Le port de Tema fourbit ses armes face à Abidjan et Lomé",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1834997/economie-entreprises/le-port-de-tema-fourbit-ses-armes-face-a-abidjan-et-lome/",
-      "resume": "Alors que la compétition est rude entre les ports d’Afrique de l’Ouest, l’infrastructure ghanéenne de Tema consolide son essor. Une réussite fondée sur la croissance du trafic de conteneurs que le port veut appliquer aux autres segments d’activité.",
-      "date_publication": "2026-08-18T08:26:01+00:00",
-      "heure_collecte": "2026-08-18T06:50:23"
     }
   ]
 }
