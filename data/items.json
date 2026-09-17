@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-17T10:19:03",
+  "generated_at": "2026-09-17T15:13:19",
   "items": [
+    {
+      "id": 418,
+      "titre": "Comment l’ivoirien Yeshi veut accélérer au Cameroun",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844015/economie-entreprises/comment-livoirien-yeshi-veut-accelerer-au-cameroun/",
+      "resume": "Le groupe Yeshi, connu pour sa filiale de matériaux de construction et de quincaillerie Bernabé, mise sur son expérience en Côte d’Ivoire, au Sénégal et au Gabon pour assurer son essor au Cameroun. Il parie sur le secteur automobile.",
+      "date_publication": "2026-09-17T17:03:14+00:00",
+      "heure_collecte": "2026-09-17T15:12:58"
+    },
+    {
+      "id": 419,
+      "titre": "Gabon : tout comprendre au tour de passe-passe de Libreville pour se désendetter",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844083/economie-entreprises/gabon-tout-comprendre-au-tour-de-passe-passe-de-libreville-pour-se-desendetter/",
+      "resume": "Le nouvel inventaire des engagements publics donne à Libreville une base comptable plus précise pour piloter ses finances. Un ajustement qui intervient alors que le pays cherche à stabiliser ses comptes et à avancer dans ses discussions avec le FMI.",
+      "date_publication": "2026-09-17T13:53:43+00:00",
+      "heure_collecte": "2026-09-17T15:12:58"
+    },
+    {
+      "id": 420,
+      "titre": "10 choses à savoir sur Tchakpelé Aklesso, l’ancien maître espion nommé par Faure Gnassingbé à la tête de l’armée togolaise",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840084/politique/10-choses-a-savoir-sur-tchakpele-aklesso-lancien-maitre-espion-nomme-par-faure-gnassingbe-a-la-tete-de-larmee-togolaise/",
+      "resume": "Promu général et chef d’état-major, Tchakpelé Aklesso incarne la nouvelle doctrine sécuritaire de Faure Gnassingbé. Portrait d’un homme de l’ombre propulsé à la tête d’une armée en pleine mutation.",
+      "date_publication": "2026-09-17T12:30:59+00:00",
+      "heure_collecte": "2026-09-17T15:12:58"
+    },
+    {
+      "id": 417,
+      "titre": "Avec sa raffinerie d’or et son Comptoir d’achat, la Côte d’Ivoire veut maîtriser toute la chaîne de valeur",
+      "categorie": "hydrocarbures",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
+      "url": "https://www.energie.gouv.ci/actualite/avec-sa-raffinerie-dor-et-son-comptoir-dachat-la-cote-divoire-veut-maitriser-toute-la-chaine-de-valeur-6aabe2be88832",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-09-17T15:12:36"
+    },
     {
       "id": 411,
       "titre": "Jeune Afrique réagit au retrait de l’accréditation de son correspondant en Guinée",
@@ -4144,62 +4200,6 @@
       "resume": "Alors que la compétition est rude entre les ports d’Afrique de l’Ouest, l’infrastructure ghanéenne de Tema consolide son essor. Une réussite fondée sur la croissance du trafic de conteneurs que le port veut appliquer aux autres segments d’activité.",
       "date_publication": "2026-08-18T08:26:01+00:00",
       "heure_collecte": "2026-08-18T06:50:23"
-    },
-    {
-      "id": 120,
-      "titre": "Au Tchad, Mahamat Idriss Déby Itno est-il vraiment un souverainiste ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1831802/politique/au-tchad-mahamat-idriss-deby-itno-est-il-vraiment-un-souverainiste/",
-      "resume": "Retrait des troupes françaises, rapprochement avec l’AES, départ annoncé de la CPI : le président tchadien assume un discours de plus en plus « populiste ». Mais derrière cette rupture affichée, les réalités sont plus nuancées.",
-      "date_publication": "2026-08-18T07:00:00+00:00",
-      "heure_collecte": "2026-08-18T05:33:13"
-    },
-    {
-      "id": 119,
-      "titre": "Cameroun : le resort de Ngomedzap, fief politique de Grégoire Owona",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1831190/politique/cameroun-le-resort-de-ngomedzap-fief-politique-de-gregoire-owona/",
-      "resume": "Le ministre camerounais du Travail, Grégoire Owona, a fait construire dans son village natal un resort assorti d’un parcours de golf. Une destination de loisirs, mais pas uniquement…",
-      "date_publication": "2026-08-17T19:40:02+00:00",
-      "heure_collecte": "2026-08-17T17:59:07"
-    },
-    {
-      "id": 117,
-      "titre": "Aminata Kane (Visa) : « La régulation des fintech est un peu plus contraignante en Afrique francophone »",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1833073/economie-entreprises/aminata-kane-visa-la-regulation-des-fintech-est-un-peu-plus-contraignante-en-afrique-francophone/",
-      "resume": "Si l’Afrique subsaharienne figure parmi les marchés où les transactions mobiles progressent le plus rapidement, plusieurs freins entravent encore leur développement à plus grande échelle, estime la vice-présidente senior de Visa pour l’Afrique de l’Ouest et l’Afrique centrale.",
-      "date_publication": "2026-08-17T19:00:00+00:00",
-      "heure_collecte": "2026-08-17T17:30:25"
-    },
-    {
-      "id": 118,
-      "titre": "Rencontre avec Aurélien Mintsa Nguema, frère et conseiller du président",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1833133/politique/rencontre-avec-aurelien-mintsa-nguema-frere-et-conseiller-du-president/",
-      "resume": "Le frère cadet de Brice Clotaire Oligui Nguema a longtemps tenté de se tenir à l’écart des médias et des querelles de cour. De passage à Paris, le nouvel ambassadeur du Gabon en Inde a toutefois accepté de se confier à JA.",
-      "date_publication": "2026-08-17T18:54:14+00:00",
-      "heure_collecte": "2026-08-17T17:30:25"
     }
   ]
 }
