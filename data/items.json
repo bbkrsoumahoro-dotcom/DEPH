@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-18T10:52:37",
+  "generated_at": "2026-09-18T14:52:02",
   "items": [
+    {
+      "id": 432,
+      "titre": "Ambassades et liaisons aériennes : à New York, le Maroc et Israël renforcent leurs liens",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844496/politique/ambassades-et-liaisons-aeriennes-a-new-york-le-maroc-et-israel-renforcent-leurs-liens/",
+      "resume": "Lors d’une rencontre à trois incluant l’ambassadeur américain aux Nations unies, les ministres marocain et israélien des Affaires étrangères ont notamment décidé de transformer leurs représentations diplomatiques en véritables ambassades.",
+      "date_publication": "2026-09-18T14:33:00+00:00",
+      "heure_collecte": "2026-09-18T14:51:33"
+    },
+    {
+      "id": 431,
+      "titre": "Une première dans le bassin sédimentaire ivoirien : huit CPP signés avec Petrobras",
+      "categorie": "hydrocarbures",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
+      "url": "https://www.energie.gouv.ci/actualite/une-premiere-dans-le-bassin-sedimentaire-ivoirien-huit-cpp-signes-avec-petrobras-6aad22f7327bb",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-09-18T14:51:11"
+    },
     {
       "id": 424,
       "titre": "Mark Suzman (Fondation Gates) : « L’intelligence artificielle peut permettre d’atteindre les objectifs de développement du continent »",
@@ -4172,34 +4200,6 @@
       "resume": "Le scandale provoqué par l’ambassadeur de France, qui a reconnu avoir reçu de nombreuses jeunes femmes dans sa résidence, est le dernier d’une longue succession d’affaires. Il intervient en outre au pire moment pour Paris, qui tente de reprendre pied en Centrafrique malgré l’omniprésence russe dans le pays.",
       "date_publication": "2026-08-19T08:00:03+00:00",
       "heure_collecte": "2026-08-19T06:51:42"
-    },
-    {
-      "id": 134,
-      "titre": "Diomaye, l’affranchi : pourquoi le président sénégalais joue sa survie politique après la rupture avec Sonko",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1831448/politique/diomaye-laffranchi-pourquoi-le-president-senegalais-joue-sa-survie-politique-apres-la-rupture-avec-sonko/",
-      "resume": "Après avoir limogé Ousmane Sonko, son Premier ministre, Bassirou Diomaye Faye, le chef de l’État sénégalais, qui vient de créer son propre parti, a les yeux rivés sur les échéances électorales qui, en 2027, détermineront son destin politique.",
-      "date_publication": "2026-08-19T07:00:00+00:00",
-      "heure_collecte": "2026-08-19T06:51:42"
-    },
-    {
-      "id": 129,
-      "titre": "Cameroun : Grégoire Mba Mba, prince de Kribi et de l’Océan ad vitam aeternam ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1832168/politique/cameroun-gregoire-mba-mba-prince-de-kribi-et-de-locean-ad-vitam-aeternam/",
-      "resume": "Responsables politiques et hommes d’affaires se ruent sur les terres qui entourent la ville de Kribi. Mais le sénateur Mba Mba entend bien rester le patron de cette partie de la côte méridionale du Cameroun.",
-      "date_publication": "2026-08-18T19:24:38+00:00",
-      "heure_collecte": "2026-08-18T17:31:32"
     }
   ]
 }
