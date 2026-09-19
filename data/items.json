@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-19T12:59:44",
+  "generated_at": "2026-09-19T16:23:08",
   "items": [
+    {
+      "id": 444,
+      "titre": "Comment Ceuta nourrit le discours de l’extrême droite européenne",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844628/politique/comment-ceuta-nourrit-le-discours-de-lextreme-droite-europeenne/",
+      "resume": "La ruée vers Ceuta de dizaines de milliers de Marocains fin juillet a mis le feu aux poudres en Europe. Pour François Soudan, qui commente au micro de RFI l’article de notre collaboratrice Nina Kozlowski, ce « scénario idéal » profite avant tout aux droites identitaires occidentales.",
+      "date_publication": "2026-09-19T17:10:07+00:00",
+      "heure_collecte": "2026-09-19T16:22:47"
+    },
     {
       "id": 441,
       "titre": "Centrafrique : Hassan Bouba, l’ex-rebelle que Touadéra ne veut pas écarter",
@@ -4186,20 +4200,6 @@
       "resume": "Deux ans et demi après sa nomination, la page de la transition désormais tournée, le Premier ministre guinéen a fait sien le discours de Mamadi Doumbouya. Sans nuances. Reconduit à la tête du gouvernement, il revient sur la place de l’opposition, les disparitions, les priorités de l’exécutif et l’avenir du pays.",
       "date_publication": "2026-08-20T06:55:00+00:00",
       "heure_collecte": "2026-08-20T06:53:12"
-    },
-    {
-      "id": 144,
-      "titre": "Rencontre avec CECEP, CGM et CGC Chinois",
-      "categorie": "mines",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "SODEMI",
-      "url": "https://sodemi.ci/rencontre-avec-cecep-cgm-et-cgc-chinois/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-20T01:26:51"
     }
   ]
 }
