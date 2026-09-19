@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-19T03:57:00",
+  "generated_at": "2026-09-19T08:43:02",
   "items": [
+    {
+      "id": 438,
+      "titre": "Après la rupture, Alger en dit plus sur les « ingérences » reprochées aux Émirats arabes unis",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844136/politique/apres-la-rupture-alger-en-dit-plus-sur-les-ingerences-reprochees-aux-emirats-arabes-unis/",
+      "resume": "Pour justifier sa rupture diplomatique avec Abou Dhabi, Alger a notamment mis en avant des « ingérences » émiraties dans sa vie politique. Selon certaines sources, les soupçons portent sur des tentatives d’empêcher la victoire d’Abdelmadjid Tebboune aux présidentielles de 2019 et de 2024.",
+      "date_publication": "2026-09-19T09:54:00+00:00",
+      "heure_collecte": "2026-09-19T08:42:39"
+    },
+    {
+      "id": 439,
+      "titre": "Alliés lointains, voisins hostiles : en Éthiopie, le pari diplomatique à haut risque d’Abiy Ahmed",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844565/politique/allies-lointains-voisins-hostiles-en-ethiopie-le-pari-diplomatique-a-haut-risque-dabiy-ahmed/",
+      "resume": "Addis-Abeba cultive l’art des alliances transversales, séduisant simultanément l’Occident, la Chine et les pays du Golfe. Une agilité qui trouve ses limites face aux rivalités de la Corne de l’Afrique.",
+      "date_publication": "2026-09-19T09:05:00+00:00",
+      "heure_collecte": "2026-09-19T08:42:39"
+    },
+    {
+      "id": 440,
+      "titre": "Guerre des drones au Mali, interview exclusive de Fouzi Lekjaâ, les secrets du renseignement camerounais… Les 5 infos qu’il ne fallait pas manquer",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843111/politique/guerre-des-drones-au-mali-interview-exclusive-de-fouzi-lekjaa-les-secrets-du-renseignement-camerounais-les-5-infos-quil-ne-fallait-pas-manquer/",
+      "resume": "Cette semaine, le Brief de Jeune Afrique enquête sur les victimes civiles des frappes de drones au Mali, revient sur les ambitions politiques de Fouzi Lekjaâ au Maroc, dévoile les dessous de la guerre des clans qui fragilise les services de renseignements camerounais, décrypte les affrontements entre opposition et partisans du pouvoir en RDC et analyse les conséquences de la faillite de la Samir s",
+      "date_publication": "2026-09-19T08:30:00+00:00",
+      "heure_collecte": "2026-09-19T08:42:39"
+    },
     {
       "id": 433,
       "titre": "En RDC, l’ancien ministre Constant Mutamba poursuit sa dégringolade",
@@ -4158,48 +4200,6 @@
       "resume": "Ciblé en avril par le Trésor américain, qui l’accuse de soutenir les rebelles de l’AFC/M23, l’ex-président congolais organise sa défense aux États-Unis. Il a notamment sollicité un avocat sur place pour contester les sanctions qui le visent.",
       "date_publication": "2026-08-19T18:06:14+00:00",
       "heure_collecte": "2026-08-19T16:35:43"
-    },
-    {
-      "id": 141,
-      "titre": "Guinée : Abdourahmane Bella Bah condamné à un mois de prison ferme",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836290/politique/guinee-abdourahmane-bella-bah-condamne-a-un-mois-de-prison-ferme/",
-      "resume": "L’activiste, connu pour ses prises de position critiques sur les réseaux sociaux, était accusé d’avoir tenu des propos injurieux et diffamatoires à l’encontre du premier imam de la Grande Mosquée de Conakry.",
-      "date_publication": "2026-08-19T17:31:58+00:00",
-      "heure_collecte": "2026-08-19T16:35:43"
-    },
-    {
-      "id": 138,
-      "titre": "FMI au Sénégal : trois enjeux clés pour sortir de l’impasse de la dette cachée",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836139/economie-entreprises/fmi-au-senegal-trois-enjeux-cles-pour-sortir-de-limpasse-de-la-dette-cachee/",
-      "resume": "Alors qu’une nouvelle mission du FMI débute ce 19 août au Sénégal, le pays n’a jamais été aussi proche d’un accord avec le Fonds. Les discussions pourraient néanmoins se prolonger pendant encore plusieurs semaines. Explications.",
-      "date_publication": "2026-08-19T17:06:02+00:00",
-      "heure_collecte": "2026-08-19T15:35:14"
-    },
-    {
-      "id": 139,
-      "titre": "Togo : ce que l’on sait de l’arrestation des deux journalistes français placés en détention à Lomé",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836114/politique/togo-ce-que-lon-sait-de-larrestation-des-deux-journalistes-francais-places-en-detention-a-lome/",
-      "resume": "Deux journalistes français ainsi que leur collaborateur togolais, interpellés fin juillet dans le nord du pays, ont été placés en détention lundi 17 août. Ils sont poursuivis pour « fausses déclarations ». Selon nos informations, ils bénéficiaient pourtant d’une autorisation de tournage.",
-      "date_publication": "2026-08-19T16:43:40+00:00",
-      "heure_collecte": "2026-08-19T15:35:14"
     }
   ]
 }
