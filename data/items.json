@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-19T08:43:02",
+  "generated_at": "2026-09-19T12:59:44",
   "items": [
+    {
+      "id": 441,
+      "titre": "Centrafrique : Hassan Bouba, l’ex-rebelle que Touadéra ne veut pas écarter",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844279/politique/centrafrique-hassan-bouba-lex-rebelle-que-touadera-ne-veut-pas-ecarter/",
+      "resume": "De Berbérati à Birao, l’ancien rebelle continue de s’afficher en homme de terrain. Passé à l’Urbanisme lors du dernier remaniement, le ministre reste un élément-clé des dossiers sécuritaires, en particulier depuis l’offensive sur Amdafok.",
+      "date_publication": "2026-09-19T14:01:00+00:00",
+      "heure_collecte": "2026-09-19T12:59:20"
+    },
+    {
+      "id": 442,
+      "titre": "Minerais critiques en RDC : des acteurs chinois toujours plus présents… et nombreux",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844298/economie-entreprises/minerais-critiques-en-rdc-des-acteurs-chinois-toujours-plus-presents-et-nombreux/",
+      "resume": "Les entreprises de l’empire du Milieu sont désormais parties prenantes dans 49 projets miniers critiques en RDC. Un chiffre inédit.",
+      "date_publication": "2026-09-19T12:27:00+00:00",
+      "heure_collecte": "2026-09-19T12:59:20"
+    },
+    {
+      "id": 443,
+      "titre": "Secrétariat général de l’ONU : un troisième vote défavorable à Macky Sall",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844775/politique/secretariat-general-de-lonu-un-troisieme-vote-defavorable-a-macky-sall/",
+      "resume": "Au terme du troisième « straw poll » tenu au sein du Conseil de sécurité des Nations unies vendredi 18 septembre, l’ex-président sénégalais accuse un net recul dans la course à la succession d’António Guterres.",
+      "date_publication": "2026-09-19T11:23:57+00:00",
+      "heure_collecte": "2026-09-19T12:59:20"
+    },
     {
       "id": 438,
       "titre": "Après la rupture, Alger en dit plus sur les « ingérences » reprochées aux Émirats arabes unis",
@@ -4158,48 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-20T01:26:51"
-    },
-    {
-      "id": 143,
-      "titre": "Cameroun : Nkolandom, chefferie et baronnie du ministre Jacques Fame Ndongo",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1833468/politique/cameroun-nkolandom-chefferie-et-baronnie-du-ministre-jacques-fame-ndongo/",
-      "resume": "Propriété du ministre de l’Enseignement supérieur, le Centre touristique de Nkolandom, refuge naturel et espace de préservation de la mémoire patrimoniale, situé dans le sud du pays, est surtout un lieu de rencontres discrètes entre caciques du parti présidentiel.",
-      "date_publication": "2026-08-19T19:54:34+00:00",
-      "heure_collecte": "2026-08-19T18:40:30"
-    },
-    {
-      "id": 142,
-      "titre": "Fonds souverain guinéen : les dessous du bras de fer entre Conakry et le FMI",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836112/economie-entreprises/fonds-souverain-guineen-les-dessous-du-bras-de-fer-entre-conakry-et-le-fmi/",
-      "resume": "Conakry envisage de créer un fonds souverain doté de 1 milliard de dollars pour abriter les revenus de Simandou. Le FMI et la Banque mondiale émettent des réserves. Coulisses.",
-      "date_publication": "2026-08-19T18:57:52+00:00",
-      "heure_collecte": "2026-08-19T17:29:57"
-    },
-    {
-      "id": 140,
-      "titre": "RDC : Joseph Kabila riposte à Washington après les sanctions du Trésor américain",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836157/politique/rdc-joseph-kabila-riposte-a-washington-apres-les-sanctions-du-tresor-americain/",
-      "resume": "Ciblé en avril par le Trésor américain, qui l’accuse de soutenir les rebelles de l’AFC/M23, l’ex-président congolais organise sa défense aux États-Unis. Il a notamment sollicité un avocat sur place pour contester les sanctions qui le visent.",
-      "date_publication": "2026-08-19T18:06:14+00:00",
-      "heure_collecte": "2026-08-19T16:35:43"
     }
   ]
 }
