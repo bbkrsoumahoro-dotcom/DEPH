@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-20T12:08:27",
+  "generated_at": "2026-09-20T16:24:45",
   "items": [
+    {
+      "id": 449,
+      "titre": "Afrique du Sud : l’ANC va-t-elle perdre de vieux et stratégiques alliés ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844494/politique/afrique-du-sud-lanc-va-t-elle-perdre-de-vieux-et-strategiques-allies/",
+      "resume": "À l’approche des élections locales du 4 novembre, le Congrès national africain (ANC) pourrait perdre le soutien de deux organisations alliées depuis la lutte contre l’apartheid. Autre mauvaise nouvelle : l’érosion de son électorat s’accélère.",
+      "date_publication": "2026-09-20T16:04:30+00:00",
+      "heure_collecte": "2026-09-20T16:24:25"
+    },
     {
       "id": 448,
       "titre": "La SIMEP entre en phase opérationnelle",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1836678/economie-entreprises/ble-lafrique-face-au-retour-du-risque-de-penurie/",
       "resume": "Le regain de tensions entre la Russie et l’Ukraine en mer Noire, combiné aux perturbations dans le détroit d’Ormuz, mettent le marché du blé sous pression. Alors que le continent dépend des importations, les meuniers restent sur leurs gardes.",
       "date_publication": "2026-08-20T18:35:59+00:00",
-      "heure_collecte": "2026-08-20T16:39:02"
-    },
-    {
-      "id": 150,
-      "titre": "Paul Biya, de retour au Cameroun, saura-t-il répondre aux attentes ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836387/politique/paul-biya-de-retour-au-cameroun-saura-t-il-repondre-aux-attentes/",
-      "resume": "Le président camerounais est arrivé à Yaoundé ce 20 août, après 74 jours passés en Suisse. Maintes fois annoncé mais toujours reporté, ce retour va-t-il permettre de débloquer les nombreux sujets en suspens ?",
-      "date_publication": "2026-08-20T18:29:06+00:00",
       "heure_collecte": "2026-08-20T16:39:02"
     }
   ]
