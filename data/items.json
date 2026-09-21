@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-21T07:00:25",
+  "generated_at": "2026-09-21T13:57:50",
   "items": [
+    {
+      "id": 454,
+      "titre": "Comment la Banque européenne d’investissement repense sa stratégie africaine",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844575/economie-entreprises/comment-la-banque-europeenne-dinvestissement-repense-sa-strategie-africaine/",
+      "resume": "Avec 3 milliards d’euros investis en Afrique en 2025, la Banque européenne d’investissement tient le cap dans un contexte de baisse structurelle de l’aide au développement. Elle joue désormais la carte géopolitique face à la Chine et aux fonds du Golfe.",
+      "date_publication": "2026-09-21T13:29:38+00:00",
+      "heure_collecte": "2026-09-21T13:57:29"
+    },
+    {
+      "id": 455,
+      "titre": "Maroc-Algérie : deux diplomaties à l’offensive en Mauritanie",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844576/politique/maroc-algerie-deux-diplomaties-a-loffensive-en-mauritanie/",
+      "resume": "Routes, commerce, énergie, sécurité, Sahel… Rabat et Alger redoublent d’attention envers leur voisin mauritanien. À la manœuvre, Nasser Bourita et Ahmed Attaf incarnent deux diplomaties et deux projets régionaux concurrents. Face à eux, Nouakchott cultive méthodiquement l’art de ne pas choisir.",
+      "date_publication": "2026-09-21T12:32:00+00:00",
+      "heure_collecte": "2026-09-21T13:57:29"
+    },
+    {
+      "id": 456,
+      "titre": "Municipales 2027 au Sénégal : Keur Massar va-t-il se retourner contre Diomaye Faye et Sonko ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839310/politique/municipales-2027-au-senegal-keur-massar-va-t-il-se-retourner-contre-diomaye-faye-et-sonko/",
+      "resume": "Pastef y a fait le plein de voix lors de la présidentielle et des législatives, en 2024. Deux ans plus tard, nombre d’élus et d’habitants de Keur Massar, département stratégique de l’est de la région de Dakar, semblent déchanter. Mais les jeux sont loin d’être faits.",
+      "date_publication": "2026-09-21T11:53:32+00:00",
+      "heure_collecte": "2026-09-21T13:57:29"
+    },
     {
       "id": 450,
       "titre": "Air Sénégal : jusqu’où l’État pourra-t-il maintenir sa perfusion ?",
@@ -4158,48 +4200,6 @@
       "resume": "Seul candidat à sa propre succession à la tête de la FIF, Yacine Idriss Diallo peine à faire l’union. Une violente altercation entre deux de ses vice-présidents révèle des fractures profondes au sein de la fédération.",
       "date_publication": "2026-08-21T09:10:13+00:00",
       "heure_collecte": "2026-08-21T08:06:37"
-    },
-    {
-      "id": 157,
-      "titre": "Au Bénin, le cyberactiviste Steve Amoussou libéré après deux ans derrière les barreaux",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836825/politique/au-benin-le-cyberactiviste-steve-amoussou-libere-apres-deux-ans-derriere-les-barreaux/",
-      "resume": "Présenté comme la voix derrière le compte « Frère Hounvi », Steve Amoussou a été remis en liberté. Sa libération s’inscrit dans une série de relaxes et grâces qui surviennent depuis l’élection de Romuald Wadagni.",
-      "date_publication": "2026-08-21T08:46:26+00:00",
-      "heure_collecte": "2026-08-21T08:06:37"
-    },
-    {
-      "id": 158,
-      "titre": "« Ni eau, ni électricité, ni liberté » : nouvelle manifestation en Tunisie",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836827/politique/ni-eau-ni-electricite-ni-liberte-nouvelle-manifestation-en-tunisie/",
-      "resume": "Des centaines de Tunisiens ont manifesté le 20 août à Tunis contre Kaïs Saïed, dénonçant coupures d’électricité et pénuries d’eau. Un mouvement qui révèle la crise sociale et politique dans laquelle s’enfonce le pays.",
-      "date_publication": "2026-08-21T08:38:51+00:00",
-      "heure_collecte": "2026-08-21T08:06:37"
-    },
-    {
-      "id": 153,
-      "titre": "Barrick, Resolute, B2Gold… La production d’or au Mali fait son « come-back »",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836674/economie-entreprises/barrick-resolute-b2gold-la-production-dor-au-mali-fait-son-come-back/",
-      "resume": "Bamako remonte la pente dans sa production d’or malgré l’insécurité et un climat des affaires encore compliqué pour les compagnies minières.",
-      "date_publication": "2026-08-21T08:26:38+00:00",
-      "heure_collecte": "2026-08-21T07:02:08"
     }
   ]
 }
