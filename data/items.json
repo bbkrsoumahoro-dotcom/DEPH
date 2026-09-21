@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-21T01:28:11",
+  "generated_at": "2026-09-21T07:00:25",
   "items": [
+    {
+      "id": 450,
+      "titre": "Air Sénégal : jusqu’où l’État pourra-t-il maintenir sa perfusion ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838853/economie-entreprises/air-senegal-jusquou-letat-pourra-t-il-maintenir-sa-perfusion/",
+      "resume": "Retards, avions saisis, ligne New York fermée : Air Sénégal accumule les déboires. Derrière le naufrage opérationnel se pose une question centrale : qui financera les neuf Boeing 737 MAX commandés pour relancer la compagnie ?",
+      "date_publication": "2026-09-21T08:24:29+00:00",
+      "heure_collecte": "2026-09-21T06:59:59"
+    },
+    {
+      "id": 451,
+      "titre": "Législatives au Maroc : la réforme du Code de la famille, grand absent de la campagne",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844438/politique/legislatives-au-maroc-la-reforme-du-code-de-la-famille-grand-absent-de-la-campagne/",
+      "resume": "À quelques jours des législatives du 23 septembre, les féministes de Kif Mama Kif Baba ont passé au crible les programmes de huit partis sur trois sujets sensibles du Code de la famille. Leur constat : les engagements précis restent rares.",
+      "date_publication": "2026-09-21T07:58:00+00:00",
+      "heure_collecte": "2026-09-21T06:59:59"
+    },
+    {
+      "id": 452,
+      "titre": "Cameroun : face à l’aile dure du pouvoir, le dialogue politique est-il encore possible ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1843675/politique/cameroun-face-a-laile-dure-du-pouvoir-le-dialogue-politique-est-il-encore-possible/",
+      "resume": "Une semaine après la démission surprise de Maurice Kamto, une partie du Cameroun s’interroge sur l’avenir de son opposition. Derrière cet événement se dessine un tableau alarmant : celui d’un espace démocratique qui se rétrécit.",
+      "date_publication": "2026-09-21T07:02:00+00:00",
+      "heure_collecte": "2026-09-21T06:59:59"
+    },
+    {
+      "id": 453,
+      "titre": "Un journaliste sud-africain et son fixeur portés disparus à Djibouti",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844790/societe/un-journaliste-sud-africain-et-son-fixeur-portes-disparus-a-djibouti/",
+      "resume": "Micah Reddy et son fixeur Kooki Mahmoud sont portés disparus depuis samedi 19 septembre. Alors que leurs soutiens appellent les autorités à « clarifier l’endroit où ils se trouvent », un responsable gouvernemental a déclaré ne pas être au courant de l’affaire.",
+      "date_publication": "2026-09-20T16:53:15+00:00",
+      "heure_collecte": "2026-09-21T06:59:59"
+    },
     {
       "id": 449,
       "titre": "Afrique du Sud : l’ANC va-t-elle perdre de vieux et stratégiques alliés ?",
@@ -4144,62 +4200,6 @@
       "resume": "Bamako remonte la pente dans sa production d’or malgré l’insécurité et un climat des affaires encore compliqué pour les compagnies minières.",
       "date_publication": "2026-08-21T08:26:38+00:00",
       "heure_collecte": "2026-08-21T07:02:08"
-    },
-    {
-      "id": 154,
-      "titre": "Effondrement de la mine de Zamboï en Centrafrique : ce que le drame révèle des dérives du secteur de l’or au Cameroun",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836382/politique/effondrement-de-la-mine-de-zamboi-en-centrafrique-ce-que-le-drame-revele-des-derives-du-secteur-de-lor-au-cameroun/",
-      "resume": "Un éboulement survenu sur un site minier situé à la frontière entre les deux pays, ce 18 août, a fait au moins 100 morts. Le drame relance le débat autour du contrôle défaillant de l’orpaillage au Cameroun.",
-      "date_publication": "2026-08-21T07:00:00+00:00",
-      "heure_collecte": "2026-08-21T07:02:08"
-    },
-    {
-      "id": 151,
-      "titre": "Martin Fayulu : « Félix Tshisekedi me verra sur sa route s’il change la Constitution »",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836451/politique/martin-fayulu-felix-tshisekedi-me-verra-sur-sa-route-sil-change-la-constitution/",
-      "resume": "L’opposant, membre de la coalition C64, met en garde le président congolais contre toute tentative de se maintenir au pouvoir, et le presse d’organiser un dialogue national inclusif. Entretien en vidéo.",
-      "date_publication": "2026-08-20T19:30:00+00:00",
-      "heure_collecte": "2026-08-20T17:33:26"
-    },
-    {
-      "id": 152,
-      "titre": "Côte d’Ivoire : les dessous de la (difficile) refonte des instances du RHDP voulue par Alassane Ouattara",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836342/politique/cote-divoire-les-dessous-de-la-difficile-refonte-des-instances-du-rhdp-voulue-par-alassane-ouattara/",
-      "resume": "La refonte du RHDP, initiée par le chef de l’État, tarde à se traduire dans les textes statutaires du parti présidentiel. Alors que de nouvelles instances ont été créées, dont un « Comité de direction », découvrez les coulisses d’une réorganisation interne complexe.",
-      "date_publication": "2026-08-20T18:59:15+00:00",
-      "heure_collecte": "2026-08-20T17:33:26"
-    },
-    {
-      "id": 149,
-      "titre": "Blé : l’Afrique face au retour du risque de pénurie ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836678/economie-entreprises/ble-lafrique-face-au-retour-du-risque-de-penurie/",
-      "resume": "Le regain de tensions entre la Russie et l’Ukraine en mer Noire, combiné aux perturbations dans le détroit d’Ormuz, mettent le marché du blé sous pression. Alors que le continent dépend des importations, les meuniers restent sur leurs gardes.",
-      "date_publication": "2026-08-20T18:35:59+00:00",
-      "heure_collecte": "2026-08-20T16:39:02"
     }
   ]
 }
