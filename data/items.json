@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-22T13:14:25",
+  "generated_at": "2026-09-22T17:42:52",
   "items": [
+    {
+      "id": 466,
+      "titre": "Côte d’Ivoire : tout comprendre au mandat d’arrêt contre Habiba Touré, proche de Laurent Gbagbo",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845297/politique/cote-divoire-tout-comprendre-au-mandat-darret-contre-habiba-toure-proche-de-laurent-gbagbo/",
+      "resume": "Dévoilée par le procureur à la surprise générale, la mesure de justice visant Habiba Touré n’avait pas encore été rendue publique. Quand la Côte d’Ivoire a-t-elle saisi la France où la porte-parole du PPA-CI réside ? Risque-t-elle l’extradition ? Décryptage.",
+      "date_publication": "2026-09-22T19:29:02+00:00",
+      "heure_collecte": "2026-09-22T17:42:32"
+    },
+    {
+      "id": 467,
+      "titre": "Côte d’Ivoire : la stratégie d’Abidjan pour encadrer le secteur de l’or",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845327/economie-entreprises/cote-divoire-la-strategie-dabidjan-pour-formaliser-le-secteur-de-lor/",
+      "resume": "Alors que le secteur aurifère est en plein essor en Côte d’Ivoire, l’exécutif a lancé un volet de mesures pour mettre fin à l’orpaillage illégal et réglementer les mines artisanales. Un chantier aux multiples enjeux.",
+      "date_publication": "2026-09-22T19:19:27+00:00",
+      "heure_collecte": "2026-09-22T17:42:32"
+    },
+    {
+      "id": 468,
+      "titre": "ONU : comment Macky Sall a tenté d’empêcher l’accès à un site web critiquant son bilan",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845194/politique/onu-comment-macky-sall-a-tente-dempecher-lacces-a-un-site-web-critiquant-son-bilan/",
+      "resume": "Le 9 septembre, le tribunal judiciaire de Paris a débouté l’ancien président du Sénégal, qui tentait de faire bloquer l’accès, depuis la France, à un site militant qui entend démontrer son « inaptitude » à la fonction de secrétaire général des Nations unies.",
+      "date_publication": "2026-09-22T18:48:22+00:00",
+      "heure_collecte": "2026-09-22T17:42:32"
+    },
+    {
+      "id": 469,
+      "titre": "Élections au Maroc : au-delà des promesses, les défis économiques du prochain gouvernement",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845256/economie-entreprises/elections-au-maroc-au-dela-des-promesses-les-defis-economiques-du-prochain-gouvernement/",
+      "resume": "Au Maroc, la campagne législative se joue sur le terrain social. SMIG à 5 000 dirhams, revalorisation des retraites, création d’emplois : les partis surenchérissent face à des défis économiques qui dépassent les slogans.",
+      "date_publication": "2026-09-22T17:31:29+00:00",
+      "heure_collecte": "2026-09-22T17:42:32"
+    },
     {
       "id": 463,
       "titre": "L’Afrique est-elle encore dans le viseur de Société générale ?",
@@ -4144,62 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-22T14:25:38"
-    },
-    {
-      "id": 183,
-      "titre": "US EPA to extend renewable fuel standard compliance deadline for refiners",
-      "categorie": "hydrocarbures",
-      "pays": "International",
-      "zone": "international",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Reuters — Énergie (international)",
-      "url": "https://www.reuters.com/business/energy/epa-extends-renewable-fuel-standard-compliance-deadline-refiners-2026-08-21/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-22T14:25:38"
-    },
-    {
-      "id": 168,
-      "titre": "États-Unis – Afrique : le Sénat américain a évité le pire sur l’Agoa, sans pour autant dissiper l’incertitude",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836495/economie-entreprises/etats-unis-afrique-le-senat-americain-a-evite-le-pire-sur-lagoa-sans-pour-autant-dissiper-lincertitude/",
-      "resume": "Pierre angulaire des relations commerciales entre Washington et l’Afrique, l’Agoa vient d’être prolongé jusqu’en 2028. Mais sa refonte, promise depuis des mois, se fait toujours attendre.",
-      "date_publication": "2026-08-22T12:58:37+00:00",
-      "heure_collecte": "2026-08-22T11:23:50"
-    },
-    {
-      "id": 167,
-      "titre": "Unesco : pourquoi l’Afrique ne parvient pas à sortir ses trésors naturels de la liste des sites en péril",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836378/societe/unesco-pourquoi-lafrique-ne-parvient-pas-a-sortir-ses-tresors-naturels-de-la-liste-des-sites-en-peril/",
-      "resume": "Le continent compte relativement peu de sites naturels inscrits au patrimoine mondial de l’Unesco, mais est surreprésenté parmi ceux classés « en péril ». Du parc de la Garamba en RDC à celui du Djoudj au Sénégal, décryptage en infographies des menaces qui pèsent sur les joyaux naturels du continent.",
-      "date_publication": "2026-08-22T12:36:03+00:00",
-      "heure_collecte": "2026-08-22T10:53:21"
-    },
-    {
-      "id": 166,
-      "titre": "Visite du DG à AFEMA Gold",
-      "categorie": "mines",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "SODEMI",
-      "url": "https://sodemi.ci/visite-du-dg-a-afema-gold/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-08-22T09:31:21"
     }
   ]
 }
