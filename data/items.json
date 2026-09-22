@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-22T01:31:15",
+  "generated_at": "2026-09-22T07:31:18",
   "items": [
+    {
+      "id": 461,
+      "titre": "Locales au Sénégal : ce qu’il faut retenir du rétropédalage de la présidence sur la date du scrutin",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844913/politique/locales-au-senegal-ce-quil-faut-retenir-du-retropedalage-de-la-presidence-sur-la-date-du-scrutin/",
+      "resume": "Alors que l’omerta continue de régner sur le calendrier des élections locales initialement prévues au Sénégal en janvier 2027, une intervention du porte-parole de la présidence a donné lieu à un revirement embarrassé.",
+      "date_publication": "2026-09-22T08:07:29+00:00",
+      "heure_collecte": "2026-09-22T07:30:57"
+    },
+    {
+      "id": 462,
+      "titre": "Rencontre avec le capitaine Effoudou, l’homme qui défie Ferdinand Ngoh Ngoh",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844056/politique/rencontre-avec-le-capitaine-effoudou-lhomme-qui-accuse-ferdinand-ngoh-ngoh/",
+      "resume": "S’estimant menacé, cet officier, qui fut membre de l’état-major du président Biya, a quitté le Cameroun pour la France en mai 2025. Depuis, il continue d’accuser Ferdinand Ngoh Ngoh d’avoir voulu s’emparer du pouvoir.",
+      "date_publication": "2026-09-22T07:00:00+00:00",
+      "heure_collecte": "2026-09-22T07:30:57"
+    },
     {
       "id": 457,
       "titre": "Au Tchad, pourquoi Mahamat Idriss Déby Itno a nommé Ahmed Kogri à la tête de la diplomatie",
@@ -4172,34 +4200,6 @@
       "resume": "Patron du RDPC dans la région de l’Est, le ministre Joseph Le a fait du complexe hôtelier qu’il possède dans son village natal l’épicentre de son influence politique.",
       "date_publication": "2026-08-21T19:56:00+00:00",
       "heure_collecte": "2026-08-21T18:41:25"
-    },
-    {
-      "id": 162,
-      "titre": "Crise de Ceuta : l’Espagne peut-elle vraiment utiliser la carte énergétique contre le Maroc ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836737/economie-entreprises/crise-de-ceuta-lespagne-peut-elle-vraiment-utiliser-la-carte-energetique-contre-le-maroc/",
-      "resume": "La crise migratoire intervenue à Ceuta a tendu les relations entre Madrid et Rabat. Dans ce bras de fer, l’Espagne dispose d’un levier non négligeable : elle est un fournisseur de premier plan en gaz, pétrole et électricité du royaume. Décryptage.",
-      "date_publication": "2026-08-21T18:05:44+00:00",
-      "heure_collecte": "2026-08-21T16:39:26"
-    },
-    {
-      "id": 161,
-      "titre": "Aux origines de la divination marocaine",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1474728/politique/aux-origines-de-la-divination-marocaine/",
-      "resume": "Si l’islam condamne fermement la pratique de la sorcellerie, il reconnaît son existence et a intégré une part de magie. Au Maroc, pays multiculturel de tradition soufie, confrérique et maraboutique, cette magie semble avoir pris une ampleur inédite.",
-      "date_publication": "2026-08-21T18:13:08+00:00",
-      "heure_collecte": "2026-08-21T16:39:25"
     }
   ]
 }
