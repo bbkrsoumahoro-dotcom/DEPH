@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-22T07:31:18",
+  "generated_at": "2026-09-22T13:14:25",
   "items": [
+    {
+      "id": 463,
+      "titre": "L’Afrique est-elle encore dans le viseur de Société générale ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845075/economie-entreprises/lafrique-est-elle-encore-dans-le-viseur-de-societe-generale/",
+      "resume": "À Londres, Slawomir Krupa a fixé le cap de Société générale pour 2029 : réduire les coûts et maîtriser les risques. Pour ses filiales africaines, ce plan stratégique relance les spéculations sur de nouvelles cessions.",
+      "date_publication": "2026-09-22T13:30:18+00:00",
+      "heure_collecte": "2026-09-22T13:14:03"
+    },
+    {
+      "id": 464,
+      "titre": "Biens mal acquis : 5 questions pour comprendre le coup de froid diplomatique entre le Congo et le Gabon",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844886/politique/biens-mal-acquis-5-questions-pour-comprendre-le-coup-de-froid-diplomatique-entre-le-congo-et-le-gabon/",
+      "resume": "L’affaire des biens mal acquis (BMA) de la famille Bongo en France, ouverte à Paris en 2010, entre dans sa phase finale. Mais la clôture de l’instruction par le parquet parisien a ravivé les tensions entre Brazzaville et Libreville.",
+      "date_publication": "2026-09-22T12:39:42+00:00",
+      "heure_collecte": "2026-09-22T13:14:03"
+    },
+    {
+      "id": 465,
+      "titre": "Le Maroc est-il prêt à voir Mohammed VI nommer une femme à la tête du gouvernement ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845067/politique/le-maroc-est-il-pret-a-voir-mohammed-vi-nommer-une-femme-a-la-tete-du-gouvernement/",
+      "resume": "À un jour des législatives du 23 septembre, l’hypothèse n’a jamais été aussi concrète. Fatima Ezzahra El Mansouri au PAM, Nadia Fettah au RNI : le nom d’une femme pourrait entrer dans l’équation de la primature. Juridiquement, rien ne s’y oppose. Reste à savoir si le pays y est prêt.",
+      "date_publication": "2026-09-22T11:02:00+00:00",
+      "heure_collecte": "2026-09-22T13:14:03"
+    },
     {
       "id": 461,
       "titre": "Locales au Sénégal : ce qu’il faut retenir du rétropédalage de la présidence sur la date du scrutin",
@@ -4158,48 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-08-22T09:31:21"
-    },
-    {
-      "id": 164,
-      "titre": "La Fabrique de l’info : pourquoi certains articles de Jeune Afrique sont anonymes",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836149/societe/la-fabrique-de-linfo-pourquoi-certains-articles-de-jeune-afrique-sont-anonymes/",
-      "resume": "Nous faisons parfois le choix de ne pas apposer de signature à nos contenus. Il s’agit d’une pratique délibérée, destinée à protéger journalistes et sources dans des contextes à haut risque.",
-      "date_publication": "2026-08-22T09:01:00+00:00",
-      "heure_collecte": "2026-08-22T08:34:57"
-    },
-    {
-      "id": 165,
-      "titre": "Paul Biya de retour au Cameroun, Faure Essozimna Gnassingbé en médiateur, l’heure de vérité pour Bassirou Diomaye Faye… Les 5 infos qu’il ne fallait pas manquer",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1835286/politique/paul-biya-de-retour-au-cameroun-faure-essozimna-gnassingbe-en-mediateur-lheure-de-verite-pour-bassirou-diomaye-faye-les-5-infos-quil-ne-fallait-pas-manquer/",
-      "resume": "Cette semaine, le Brief de Jeune Afrique revient sur le retour de Paul Biya au Cameroun, décrypte le rôle de Faure Essozimna Gnassingbé dans la libération de deux mercenaires russes par le FLA, analyse la bataille politique de Bassirou Diomaye Faye après sa rupture avec Ousmane Sonko, se penche sur le redémarrage de la production d’or au Mali et examine les fragilités du modèle social marocain.",
-      "date_publication": "2026-08-22T08:29:00+00:00",
-      "heure_collecte": "2026-08-22T08:34:57"
-    },
-    {
-      "id": 163,
-      "titre": "Cameroun : Bagofit Sun City, le bastion de luxe de Joseph Le dans l’Est",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1836076/politique/cameroun-bagofit-sun-city-le-bastion-de-luxe-de-joseph-le-dans-lest/",
-      "resume": "Patron du RDPC dans la région de l’Est, le ministre Joseph Le a fait du complexe hôtelier qu’il possède dans son village natal l’épicentre de son influence politique.",
-      "date_publication": "2026-08-21T19:56:00+00:00",
-      "heure_collecte": "2026-08-21T18:41:25"
     }
   ]
 }
