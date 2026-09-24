@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-24T11:35:06",
+  "generated_at": "2026-09-24T16:49:36",
   "items": [
+    {
+      "id": 496,
+      "titre": "Uranium : le Niger et l’australien Atomic Eagle relancent le gisement de Madaouela",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845989/economie-entreprises/uranium-le-niger-et-laustralien-atomic-eagle-relancent-le-gisement-de-madaouela/",
+      "resume": "À l’arrêt depuis 2024, l’exploitation de Madaouela est relancée par les autorités après une rénégociation de l’accord avec l’australien Atomic Eagle. Cette avancée intervient alors que l’uranium est au centre d’un bras de fer entre Niamey et le français Orano.",
+      "date_publication": "2026-09-24T14:54:29+00:00",
+      "heure_collecte": "2026-09-24T16:49:18"
+    },
+    {
+      "id": 497,
+      "titre": "Airtel Money à Londres : ce qu’il faut savoir de l’entrée en Bourse du champion africain de la fintech",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845718/economie-entreprises/airtel-money-a-londres-ce-quil-faut-savoir-de-lentree-en-bourse-du-champion-africain-de-la-fintech/",
+      "resume": "Airtel Money entre à la Bourse de Londres avec 53 millions de clients actifs et 1,35 milliard de dollars de chiffre d’affaires. Une cotation sans levée de fonds portée par des ambitions de forte croissance.",
+      "date_publication": "2026-09-24T14:04:07+00:00",
+      "heure_collecte": "2026-09-24T16:49:18"
+    },
+    {
+      "id": 495,
+      "titre": "Efficacité énergétique des bâtiments publics : la direction générale de l’énergie œuvre à la mise en place d’une chaîne de financement, de l’audit énergétique à l’exploitation",
+      "categorie": "hydrocarbures",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
+      "url": "https://www.energie.gouv.ci/actualite/efficacite-energetique-des-batiments-publics-la-direction-generale-de-lenergie-oeuvre-a-la-mise-en-place-dune-chaine-de-financement-de-laudit-energetique-a-lexploitation-6ab54d1e6bfa4",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-09-24T16:48:56"
+    },
     {
       "id": 492,
       "titre": "- RESULTATS TRACES DE LIGNES HTB - AMI N°003 / NEDA / 2026",
@@ -4158,48 +4200,6 @@
       "resume": "Une querelle qui met aux prises l’ancien ministre Olivier Kamitatu et le sénateur Salomon Kalonda menace la cohésion du parti de Moïse Katumbi. Coulisses d’une crise révélatrice de profondes fractures.",
       "date_publication": "2026-08-24T19:41:31+00:00",
       "heure_collecte": "2026-08-24T18:46:44"
-    },
-    {
-      "id": 195,
-      "titre": "Le Niger reprend son uranium en main malgré le risque des arbitrages internationaux",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837213/economie-entreprises/le-niger-reprend-son-uranium-en-main-malgre-le-risque-des-arbitrages-internationaux/",
-      "resume": "En réattribuant à deux sociétés publiques les permis autrefois détenus par Orano et Goviex, Niamey accélère sa politique de souveraineté minière. Mais ces décisions interviennent alors que plusieurs procédures arbitrales sont toujours en cours.",
-      "date_publication": "2026-08-24T19:28:29+00:00",
-      "heure_collecte": "2026-08-24T17:34:04"
-    },
-    {
-      "id": 196,
-      "titre": "Thierry Hebraud (MCB) : « Si le gaz est important en Europe, pourquoi cela ne serait pas le cas en Afrique ? »",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837348/economie-entreprises/thierry-hebraud-mcb-si-le-gaz-est-important-en-europe-pourquoi-cela-ne-serait-pas-le-cas-en-afrique/",
-      "resume": "Boom gazier, électrification, commerce intra-africain… Le patron de la Mauritius Commercial Bank (MCB) détaille la stratégie de son groupe, notamment pour relever les défis énergétiques.",
-      "date_publication": "2026-08-24T18:54:33+00:00",
-      "heure_collecte": "2026-08-24T17:34:04"
-    },
-    {
-      "id": 197,
-      "titre": "Gabon : Albert Ondo Ossa, un « président élu » qui n’en démord pas",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1835878/politique/gabon-albert-ondo-ossa-un-president-elu-qui-nen-demord-pas/",
-      "resume": "Depuis son exil parisien, Albert Ondo Ossa continue envers et contre tous de s’autoproclamer « président élu » de la présidentielle d’août 2023. Portrait d’un homme désormais bien seul, mais convaincu que l’histoire lui donnera raison.",
-      "date_publication": "2026-08-24T18:51:33+00:00",
-      "heure_collecte": "2026-08-24T17:34:04"
     }
   ]
 }
