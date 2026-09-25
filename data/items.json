@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-25T01:47:12",
+  "generated_at": "2026-09-25T07:23:25",
   "items": [
+    {
+      "id": 503,
+      "titre": "Tensions à Bab-el-Mandeb : les ports africains sont-ils l’alternative gagnante ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845125/economie-entreprises/tensions-a-bab-el-mandeb-les-ports-africains-sont-ils-lalternative-gagnante/",
+      "resume": "Les Houthis resserrent leur emprise sur le détroit de Bab-el-Mandeb, déstabilisant les routes maritimes mondiales. Une situation qui pousse les armateurs à repenser leurs trajets, sans pour autant automatiser le passage par le cap de Bonne-Espérance.",
+      "date_publication": "2026-09-25T08:36:23+00:00",
+      "heure_collecte": "2026-09-25T07:23:04"
+    },
+    {
+      "id": 504,
+      "titre": "De Kemi Seba à Tiani : Abdourahamane Oumarou, parcours d’un militant devenu ministre",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846036/politique/de-kemi-seba-a-tiani-abdourahamane-oumarou-parcours-dun-militant-devenu-ministre/",
+      "resume": "Longtemps conseiller officieux du chef de la junte nigérienne, ce fervent panafricaniste, ex-candidat à la présidentielle, voit aujourd’hui sa loyauté récompensée. Le 15 septembre, il a été nommé ministre de la Refondation et de la Promotion des valeurs sociales.",
+      "date_publication": "2026-09-25T07:54:00+00:00",
+      "heure_collecte": "2026-09-25T07:23:04"
+    },
+    {
+      "id": 505,
+      "titre": "Cameroun : des universités en grève et à l’arrêt, un État piégé par sa dette",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845932/societe/cameroun-des-universites-en-greve-et-a-larret-un-etat-piege-par-sa-dette/",
+      "resume": "Au Cameroun, le syndicat des enseignants du supérieur maintient sa grève dans les universités publiques, malgré des annonces du gouvernement. Derrière le bras de fer sur les primes impayées se dessine une crise plus profonde.",
+      "date_publication": "2026-09-25T07:15:00+00:00",
+      "heure_collecte": "2026-09-25T07:23:04"
+    },
     {
       "id": 502,
       "titre": "- Eclaircissement N° 1 - AMI /004/NEDA/2026",
@@ -4158,48 +4200,6 @@
       "resume": "Alors qu’en Côte d’Ivoire, le tribunal doit trancher le 22 octobre sur la destitution du président du PDCI, de nombreux militants, véritables soldats du numérique, le défendent sans relâche sur les réseaux sociaux. Une force d’influence qui est aussi très difficile à réguler pour le parti.",
       "date_publication": "2026-08-25T17:55:51+00:00",
       "heure_collecte": "2026-08-25T16:41:39"
-    },
-    {
-      "id": 207,
-      "titre": "CEEAC : pourquoi le Centrafricain Jean-Jacques Demafouth fait son retour au Gabon",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837238/politique/ceeac-pourquoi-le-centrafricain-jean-jacques-demafouth-fait-son-retour-au-gabon/",
-      "resume": "Jean-Jacques Demafouth rejoint la CEEAC comme conseiller diplomatique, fort de ses réseaux à Addis-Abeba et du soutien de Bangui. La mission de l’ancien ministre centrafricain est multiple.",
-      "date_publication": "2026-08-25T17:51:25+00:00",
-      "heure_collecte": "2026-08-25T16:41:39"
-    },
-    {
-      "id": 204,
-      "titre": "MTN : l’Afrique de l’Ouest, locomotive inattendue du géant sud-africain des télécoms",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837532/economie-entreprises/mtn-lafrique-de-louest-locomotive-inattendue-du-geant-sud-africain-des-telecoms/",
-      "resume": "MTN affiche des résultats en forte hausse au premier semestre de 2026, portés par le rebond spectaculaire du Nigeria et la croissance soutenue du Ghana. L’Afrique de l’Ouest s’impose comme le nouveau moteur du géant télécoms sud-africain.",
-      "date_publication": "2026-08-25T13:16:46+00:00",
-      "heure_collecte": "2026-08-25T11:32:12"
-    },
-    {
-      "id": 203,
-      "titre": "RDC-Rwanda : cinq questions pour comprendre le bras de fer sur l’avenir des FDLR",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837212/politique/rdc-rwanda-cinq-questions-pour-comprendre-le-bras-de-fer-sur-lavenir-des-fdlr/",
-      "resume": "Le sort de ce groupe armé fondé par d’anciens génocidaires rwandais est au cœur des négociations entre Kigali et Kinshasa. La RDC a mis sur la table un protocole de désarmement que le Rwanda dénonce. Décryptage.",
-      "date_publication": "2026-08-25T12:22:58+00:00",
-      "heure_collecte": "2026-08-25T10:37:19"
     }
   ]
 }
