@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-26T10:07:25",
+  "generated_at": "2026-09-26T14:40:37",
   "items": [
+    {
+      "id": 524,
+      "titre": "JOJ de Dakar 2026 : le Sénégal dans les starting-blocks",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1840803/politique/joj-de-dakar-2026-le-senegal-dans-les-starting-blocks/",
+      "resume": "Sécurité, logistique, transports, hébergement… À quelques semaines du coup d’envoi des Jeux olympiques de la jeunesse (31 octobre-13 novembre) – la première compétition olympique organisée sur le sol africain –, la capitale sénégalaise, ville hôte, est dans la dernière ligne droite des préparatifs.",
+      "date_publication": "2026-09-26T16:07:09+00:00",
+      "heure_collecte": "2026-09-26T14:40:14"
+    },
+    {
+      "id": 525,
+      "titre": "Ensemencer les nuages pour les faire pleuvoir : solution miracle ou mirage ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845027/societe/ensemencer-les-nuages-pour-les-faire-pleuvoir-solution-miracle-ou-mirage/",
+      "resume": "Faire pleuvoir les nuages, ce n’est pas de la science-fiction. Utilisée en Afrique depuis plusieurs décennies, cette technique ne s’y est pourtant jamais vraiment imposée. Mais la multiplication des sécheresses pourrait la remettre au goût du jour. Avec quels résultats ? Réponse en infographies.",
+      "date_publication": "2026-09-26T12:29:55+00:00",
+      "heure_collecte": "2026-09-26T14:40:14"
+    },
     {
       "id": 519,
       "titre": "Comment le Rassemblement national tente de se constituer des réseaux dans le monde arabe",
@@ -4171,34 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1838144/politique/pourquoi-les-negociations-entre-patrick-vieira-et-la-federation-senegalaise-de-football-seternisent/",
       "resume": "Patrick Vieira n’a toujours pas signé son contrat de sélectionneur du Sénégal. Des détails restent à régler, dans un contexte tendu entre la fédération et Pape Thiaw, l’ancien coach de l’équipe.",
       "date_publication": "2026-08-27T18:00:52+00:00",
-      "heure_collecte": "2026-08-27T21:06:04"
-    },
-    {
-      "id": 227,
-      "titre": "Élections locales au Sénégal : la Cour suprême maintient le flou sur la date des scrutins",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838311/politique/elections-locales-au-senegal-la-cour-supreme-maintient-le-flou-sur-la-date-des-scrutins/",
-      "resume": "Au Sénégal, la chambre administrative de la Cour suprême a rejeté les requêtes d’une partie de l’opposition et de la société civile, qui lui demandait de contraindre le président Bassirou Diomaye Faye à fixer la date des élections locales.",
-      "date_publication": "2026-08-27T17:19:52+00:00",
-      "heure_collecte": "2026-08-27T21:06:04"
-    },
-    {
-      "id": 228,
-      "titre": "Comment Sky Mali s’est engouffré dans le vide aérien laissé par Air France et Corsair",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837901/economie-entreprises/comment-sky-mali-sest-engouffre-dans-le-vide-aerien-laisse-par-air-france-et-corsair/",
-      "resume": "Le retrait de Corsair prive le Mali de son dernier lien aérien direct avec Paris. Sky Mali veut saisir cette occasion pour accélérer son expansion régionale et s’imposer comme un hub de correspondance vers l’Europe.",
-      "date_publication": "2026-08-27T17:15:43+00:00",
       "heure_collecte": "2026-08-27T21:06:04"
     }
   ]
