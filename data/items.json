@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-26T14:40:37",
+  "generated_at": "2026-09-26T18:26:07",
   "items": [
+    {
+      "id": 526,
+      "titre": "Cameroun : « Le contrôle de la DGRE est un enjeu crucial pour les différents clans autour de Paul Biya »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846581/politique/cameroun-le-controle-de-la-dgre-est-un-enjeu-crucial-pour-les-differents-clans-autour-de-paul-biya/",
+      "resume": "Le service de renseignements camerounais, déjà le théâtre de rivalités politiques entre des clans ennemis autour du chef de l’État, est devenu un réel bazar aux informations confidentielles, accessibles au plus offrant.",
+      "date_publication": "2026-09-26T17:31:00+00:00",
+      "heure_collecte": "2026-09-26T18:25:46"
+    },
     {
       "id": 524,
       "titre": "JOJ de Dakar 2026 : le Sénégal dans les starting-blocks",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1838189/politique/au-mali-comment-assimi-goita-tente-de-contenir-le-debat-sur-lexcision/",
       "resume": "Le débat a ressurgi à la faveur d’une campagne pro-excision sur les réseaux sociaux. La junte tente désormais de reprendre la main, donnant des gages aux religieux et demandant aux ONG de suspendre leurs actions de prévention.",
       "date_publication": "2026-08-27T19:00:00+00:00",
-      "heure_collecte": "2026-08-27T21:06:04"
-    },
-    {
-      "id": 226,
-      "titre": "Pourquoi les négociations entre Patrick Vieira et la Fédération sénégalaise de football s’éternisent",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838144/politique/pourquoi-les-negociations-entre-patrick-vieira-et-la-federation-senegalaise-de-football-seternisent/",
-      "resume": "Patrick Vieira n’a toujours pas signé son contrat de sélectionneur du Sénégal. Des détails restent à régler, dans un contexte tendu entre la fédération et Pape Thiaw, l’ancien coach de l’équipe.",
-      "date_publication": "2026-08-27T18:00:52+00:00",
       "heure_collecte": "2026-08-27T21:06:04"
     }
   ]
