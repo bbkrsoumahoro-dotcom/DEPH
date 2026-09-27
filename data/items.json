@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-27T10:25:55",
+  "generated_at": "2026-09-27T15:15:00",
   "items": [
+    {
+      "id": 527,
+      "titre": "États-Unis – Érythrée : pourquoi Washington tourne la page des sanctions contre Asmara",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "rouge",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845619/politique/etats-unis-erythree-pourquoi-washington-tourne-la-page-des-sanctions-contre-asmara/",
+      "resume": "Washington se rapproche d’Asmara en laissant expirer l’état d’urgence nationale décrété sur le nord de l’Éthiopie. Une décision stratégique, mais controversée, alors que le Tigré renoue avec la violence.",
+      "date_publication": "2026-09-27T16:10:19+00:00",
+      "heure_collecte": "2026-09-27T15:14:39"
+    },
+    {
+      "id": 528,
+      "titre": "En Algérie, qui sont les fidèles parmi les fidèles d’Abdelmadjid Tebboune ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845577/politique/en-algerie-qui-sont-les-fideles-parmi-les-fideles-dabdelmadjid-tebboune/",
+      "resume": "Réélu en septembre 2024, le président algérien s’appuie sur un noyau dur de fidèles forgé dans l’épreuve. Voici les hommes de l’ombre au cœur du palais d’El Mouradia.",
+      "date_publication": "2026-09-27T12:49:38+00:00",
+      "heure_collecte": "2026-09-27T15:14:39"
+    },
+    {
+      "id": 529,
+      "titre": "Dette du Sénégal : pourquoi l’accord avec le FMI comporte encore des zones d’ombre",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846229/economie-entreprises/dette-du-senegal-pourquoi-laccord-avec-le-fmi-comporte-encore-des-zones-dombre/",
+      "resume": "Le Sénégal n’a pas encore reçu un dollar du FMI, mais l’accord du 1er septembre a déjà fait bouger les marchés. L’économiste Florent Kanga Gbongué analyse les vraies marges de manœuvre du pays dans les colonnes de The Conversation.",
+      "date_publication": "2026-09-27T12:49:17+00:00",
+      "heure_collecte": "2026-09-27T15:14:39"
+    },
     {
       "id": 526,
       "titre": "Cameroun : « Le contrôle de la DGRE est un enjeu crucial pour les différents clans autour de Paul Biya »",
@@ -4158,48 +4200,6 @@
       "resume": "Depuis le putsch d’août 2023 au Gabon, le conflit opposant Brice Clotaire Oligui Nguema à une partie de la famille de son prédécesseur, Ali Bongo Ondimba, ne cesse de s’envenimer. L’enjeu : un patrimoine colossal, que les seconds espèrent sauver de la traque lancée par le premier.",
       "date_publication": "2026-08-28T06:58:00+00:00",
       "heure_collecte": "2026-08-28T05:33:26"
-    },
-    {
-      "id": 223,
-      "titre": "Football en Côte d’Ivoire : A’Salfo s’offre son club",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838164/politique/football-en-cote-divoire-asalfo-soffre-son-club/",
-      "resume": "Le ballon rond ivoirien est – aussi – une affaire de pouvoir et d’influence. Le leader de Magic System vient de racheter un club abidjanais. Il suit ainsi l’exemple de toute une série de ministres, de députés ou d’hommes d’affaires.",
-      "date_publication": "2026-08-27T19:44:59+00:00",
-      "heure_collecte": "2026-08-27T21:06:04"
-    },
-    {
-      "id": 224,
-      "titre": "Cameroun : imbroglio autour de la cession de Sosucam",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838335/economie-entreprises/cameroun-imbroglio-autour-de-la-cession-de-sosucam/",
-      "resume": "Le changement de mains de la Société sucrière du Cameroun (Sosucam), qui doit quitter le giron de Castel pour être reprise par un consortium local, crée des remous. L’opération nourrit des crispations dans les rangs de la primature. Explications.",
-      "date_publication": "2026-08-27T19:21:00+00:00",
-      "heure_collecte": "2026-08-27T21:06:04"
-    },
-    {
-      "id": 225,
-      "titre": "Au Mali, comment Assimi Goïta tente de contenir le débat sur l’excision",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838189/politique/au-mali-comment-assimi-goita-tente-de-contenir-le-debat-sur-lexcision/",
-      "resume": "Le débat a ressurgi à la faveur d’une campagne pro-excision sur les réseaux sociaux. La junte tente désormais de reprendre la main, donnant des gages aux religieux et demandant aux ONG de suspendre leurs actions de prévention.",
-      "date_publication": "2026-08-27T19:00:00+00:00",
-      "heure_collecte": "2026-08-27T21:06:04"
     }
   ]
 }
