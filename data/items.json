@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-28T01:07:33",
+  "generated_at": "2026-09-28T07:26:28",
   "items": [
+    {
+      "id": 530,
+      "titre": "Cameroun : les enquêtes sur un trafic d’or se poursuivent, Paul Biya pris entre deux clans",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846033/politique/cameroun-les-enquetes-sur-un-trafic-dor-se-poursuivent-paul-biya-pris-entre-deux-clans/",
+      "resume": "Ouganda, Dubaï, entreprises chinoises : l’enquête sur l’or camerounais s’étend. Mais à Yaoundé, des blocages freinent les recherches aux portes du palais.",
+      "date_publication": "2026-09-28T08:15:00+00:00",
+      "heure_collecte": "2026-09-28T07:26:06"
+    },
+    {
+      "id": 531,
+      "titre": "Comment le Nigérian Aliko Dangote prépare son retour en force dans la meunerie",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845768/economie-entreprises/comment-le-nigerian-aliko-dangote-prepare-son-retour-en-force-dans-la-meunerie/",
+      "resume": "Le milliardaire nigérian, qui vient de mettre en Bourse sa raffinerie de Lekki, enchaîne les investissements dans le pétrole et les engrais. Ce qui ne l’empêche pas de vouloir se relancer sur le marché de la farine face notamment aux géants Olam et BUA.",
+      "date_publication": "2026-09-28T07:54:00+00:00",
+      "heure_collecte": "2026-09-28T07:26:06"
+    },
+    {
+      "id": 532,
+      "titre": "Locales au Sénégal : « Le temps joue contre Bassirou Diomaye Faye », selon Babacar Ndiaye",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1838592/politique/locales-au-senegal-le-temps-joue-contre-bassirou-diomaye-faye-selon-babacar-ndiaye/",
+      "resume": "Alors que le chef de l’État vient de créer son parti et qu’on lui prête la volonté de reporter les élections locales, prévues en janvier 2027, la lutte pour la mairie de Dakar s’annonce âpre, et symptomatique de la redéfinition de l’échiquier politique national. Comme l’explique le politologue Babacar Ndiaye.",
+      "date_publication": "2026-09-28T06:58:00+00:00",
+      "heure_collecte": "2026-09-28T07:26:06"
+    },
     {
       "id": 527,
       "titre": "États-Unis – Érythrée : pourquoi Washington tourne la page des sanctions contre Asmara",
@@ -4158,48 +4200,6 @@
       "resume": "En RDC, Félix Tshisekedi a annoncé l’ouverture d’un dialogue national « d’une durée maximale de trois mois », en excluant les rebelles de l’AFC/M23. Une porte reste cependant entrouverte aux combattants qui renonceraient individuellement à la lutte armée.",
       "date_publication": "2026-08-28T08:05:17+00:00",
       "heure_collecte": "2026-08-28T18:23:04"
-    },
-    {
-      "id": 240,
-      "titre": "En Tunisie, les protestations contre « l’été de tous les délestages » prennent un tour politique",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "rouge",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838015/politique/en-tunisie-les-protestations-contre-lete-de-tous-les-delestages-prennent-un-tour-politique/",
-      "resume": "Si la Tunisie est habituée aux pénuries, l’été particulièrement caniculaire qu’elle vient de traverser a accentué les problèmes. Dans la rue et sur les réseaux sociaux, les citoyens accusent le pouvoir d’inaction. Le président, lui, évoque des actes de sabotage.",
-      "date_publication": "2026-08-28T07:59:00+00:00",
-      "heure_collecte": "2026-08-28T18:23:04"
-    },
-    {
-      "id": 241,
-      "titre": "Cessions de Société générale en Afrique : pourquoi le processus s’enlise",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837997/economie-entreprises/cessions-de-societe-generale-en-afrique-pourquoi-le-processus-senlise/",
-      "resume": "En Afrique de l’Ouest et Afrique centrale, les ventes de certaines filiales du groupe français tardent à se conclure. Au Bénin, au Cameroun et au Togo, le désengagement du groupe français tourne au ralenti, entre blocages réglementaires et appétits souverainistes.",
-      "date_publication": "2026-08-28T07:51:32+00:00",
-      "heure_collecte": "2026-08-28T18:23:04"
-    },
-    {
-      "id": 230,
-      "titre": "Entre Oligui Nguema et les Bongo, l’impitoyable traque des avoirs et des milliards",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1789185/politique/entre-oligui-nguema-et-les-bongo-limpitoyable-traque-des-avoirs-et-des-milliards/",
-      "resume": "Depuis le putsch d’août 2023 au Gabon, le conflit opposant Brice Clotaire Oligui Nguema à une partie de la famille de son prédécesseur, Ali Bongo Ondimba, ne cesse de s’envenimer. L’enjeu : un patrimoine colossal, que les seconds espèrent sauver de la traque lancée par le premier.",
-      "date_publication": "2026-08-28T06:58:00+00:00",
-      "heure_collecte": "2026-08-28T05:33:26"
     }
   ]
 }
