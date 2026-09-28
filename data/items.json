@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-28T15:48:57",
+  "generated_at": "2026-09-28T21:42:55",
   "items": [
+    {
+      "id": 537,
+      "titre": "RDC : à Kenge, un crash, 17 morts et des questions en suspens",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "rouge",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847080/politique/rdc-a-kenge-un-crash-17-morts-et-des-questions-en-suspens/",
+      "resume": "Au drame, dans lequel deux hauts responsables de la justice militaire ont péri, succède la polémique. Chacun cherche à établir les responsabilités d’un accident qui mettrait en évidence, selon certains, les failles de l’État congolais.",
+      "date_publication": "2026-09-28T19:26:20+00:00",
+      "heure_collecte": "2026-09-28T21:42:33"
+    },
+    {
+      "id": 538,
+      "titre": "Comment les juntes sahéliennes ont profité de l’ONU pour afficher un « front commun » diplomatique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847028/politique/comment-les-juntes-saheliennes-ont-profite-de-lonu-pour-afficher-un-front-commun-diplomatique/",
+      "resume": "Le Burkina Faso, le Mali et le Niger ont mené à l’ONU un lobbying tous azimuts pour positionner l’AES comme un interlocuteur incontournable. Une volonté de « normalisation » qui ne remet pas en cause les fondamentaux des juntes au pouvoir au Sahel.",
+      "date_publication": "2026-09-28T18:57:47+00:00",
+      "heure_collecte": "2026-09-28T21:42:33"
+    },
+    {
+      "id": 539,
+      "titre": "Les « traîtres », la France, l’AES et la Cedeao… Au Burkina Faso, Ibrahim Traoré fixe sa ligne",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846997/politique/les-traitres-la-france-laes-et-la-cedeao-au-burkina-faso-ibrahim-traore-fixe-sa-ligne/",
+      "resume": "Quatre ans après le coup d’État qui l’a porté au pouvoir, le chef de la junte burkinabè assume sa rupture avec Paris et refuse tout retour au modèle démocratique « occidental ». Sur l’AES, en revanche, il admet que les résultats restent en deçà des ambitions affichées.",
+      "date_publication": "2026-09-28T18:12:53+00:00",
+      "heure_collecte": "2026-09-28T21:42:33"
+    },
     {
       "id": 533,
       "titre": "TER de Dakar : derrière la vitrine de modernité, une équation financière à résoudre",
@@ -4157,48 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1838630/economie-entreprises/commerce-intra-africain-pourquoi-le-continent-echange-encore-si-peu-avec-lui-meme/",
       "resume": "L’Afrique échange davantage de produits transformés avec elle-même qu’avec le reste du monde, mais pas encore à une échelle suffisante. Un rapport de la Banque mondiale et de l’Agence française de développement identifie les « frictions » qui freinent l’industrialisation continentale.",
       "date_publication": "2026-08-28T18:13:59+00:00",
-      "heure_collecte": "2026-08-28T18:23:04"
-    },
-    {
-      "id": 233,
-      "titre": "Gabon : pourquoi Eddy Minang, l’influent procureur de Libreville, a été radié",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838356/politique/gabon-pourquoi-eddy-minang-linfluent-procureur-de-libreville-a-ete-radie/",
-      "resume": "Coup de théâtre. Le 25 août, à Libreville, trois magistrats ont été révoqués à l’issue d’un conseil de discipline exceptionnel. Parmi eux, le procureur général qui avait dirigé le procès de Sylvia et de Noureddin Bongo.",
-      "date_publication": "2026-08-28T18:00:09+00:00",
-      "heure_collecte": "2026-08-28T18:23:04"
-    },
-    {
-      "id": 234,
-      "titre": "Incendies en Algérie : des dizaines de morts et un discours officiel qui passe mal",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "rouge",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838687/politique/incendies-en-algerie-des-dizaines-de-morts-et-un-discours-officiel-qui-passe-mal/",
-      "resume": "Des dizaines de morts, des victimes enterrées dans des fosses communes, des villages ravagés et un bilan qui pourrait être largement sous-estimé. Face à un nouvel été meurtrier, la colère gronde contre les autorités et contre le président Tebboune.",
-      "date_publication": "2026-08-28T17:38:31+00:00",
-      "heure_collecte": "2026-08-28T18:23:04"
-    },
-    {
-      "id": 235,
-      "titre": "RDC : le corridor de Lobito, catalyseur ou menace pour l’économie congolaise ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838550/economie-entreprises/rdc-le-corridor-de-lobito-catalyseur-ou-menace-pour-leconomie-congolaise/",
-      "resume": "La signature du contrat de concession du tronçon congolais du mégaprojet qui vise à exploiter les ressources minières de la RDC, de l’Angola et de la Zambie marque une étape majeure. Mais l’incertitude demeure sur son impact local.",
-      "date_publication": "2026-08-28T17:01:46+00:00",
       "heure_collecte": "2026-08-28T18:23:04"
     }
   ]
