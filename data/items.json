@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-29T08:08:12",
+  "generated_at": "2026-09-29T15:00:48",
   "items": [
+    {
+      "id": 543,
+      "titre": "Que sait-on de l’affaire de « faux bulletins de vote » qui a provoqué l’arrestation du maire de Tanger ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847284/politique/que-sait-on-de-laffaire-de-faux-bulletins-de-vote-qui-a-provoque-larrestation-du-maire-de-tanger/",
+      "resume": "Des bulletins déjà cochés, des sacs transportés dans un bureau de vote et une vidéo qui met le feu aux poudres : cinq jours après l’élection législative, l’affaire a conduit les enquêteurs jusqu’au maire de Tanger, Mounir Limouri.",
+      "date_publication": "2026-09-29T14:25:27+00:00",
+      "heure_collecte": "2026-09-29T15:00:22"
+    },
+    {
+      "id": 544,
+      "titre": "Législatives au Maroc : ce que disent vraiment les chiffres",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846147/politique/sieges-voix-participation-ce-que-disent-vraiment-les-chiffres-des-legislatives-marocaines/",
+      "resume": "Alors que le nom du prochain chef du gouvernement est toujours attendu, retour sur les résultats des législatives marocaines du 23 septembre. Un scrutin marqué par un relatif rééquilibrage des scores des quatre partis dominants – même si le PAM se détache nettement – et par une forte abstention.",
+      "date_publication": "2026-09-29T13:59:51+00:00",
+      "heure_collecte": "2026-09-29T15:00:22"
+    },
+    {
+      "id": 545,
+      "titre": "Éthiopie : 5 questions pour comprendre le retour de la « guerre totale » dans le Tigré",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847017/politique/ethiopie-5-questions-pour-comprendre-le-retour-de-la-guerre-totale-dans-le-tigre/",
+      "resume": "Du Front de libération aux miliciens Fano, plusieurs groupes armés qui se combattaient hier ont uni leurs forces contre le Premier ministre, Abiy Ahmed, dans un conflit qui menace d’embraser toute la Corne de l’Afrique. Jusqu’où peut aller cette « guerre totale » que les rebelles affirment avoir déclenchée ?",
+      "date_publication": "2026-09-29T12:32:59+00:00",
+      "heure_collecte": "2026-09-29T15:00:22"
+    },
+    {
+      "id": 546,
+      "titre": "Comment Dangote, BUA et Olam se disputent le marché nigérian de l’agroalimentaire",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842225/economie-entreprises/comment-dangote-bua-et-olam-se-disputent-le-marche-nigerian-de-lagroalimentaire/",
+      "resume": "Sous l’impulsion des pouvoirs publics nigérians, Dangote, BUA, TGI, Olam et d’autres investissent massivement dans des exploitations agricoles, des minoteries et des usines. Objectif : réduire une facture des importations alimentaires qui s’élève à 10 milliards de dollars par an.",
+      "date_publication": "2026-09-29T12:32:20+00:00",
+      "heure_collecte": "2026-09-29T15:00:22"
+    },
     {
       "id": 540,
       "titre": "Souverainisme minier : le Burkina Faso inaugure sa première raffinerie d’or",
@@ -4144,62 +4200,6 @@
       "resume": "Un enregistrement à l’authenticité controversée a précipité la chute de celui qui, pendant le procès du massacre du 28-Septembre, a porté l’accusation. Était-il au centre d’un vrai complot visant à déstabiliser Mamadi Doumbouya ou a-t-il été victime d’un règlement de comptes politique ?",
       "date_publication": "2026-08-29T15:48:26+00:00",
       "heure_collecte": "2026-08-29T14:15:55"
-    },
-    {
-      "id": 247,
-      "titre": "Tentative de coup d’État au Niger : ce que l’on sait de la situation à Niamey",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838805/politique/tentative-de-coup-detat-au-niger-ce-que-lon-sait-de-la-situation-a-niamey/",
-      "resume": "Une mutinerie a éclaté à Niamey dans la nuit de vendredi à samedi, ciblant la présidence, l’aéroport et la télévision nationale. Selon nos informations, des jeunes officiers des Forces armées nigériennes en sont à l’origine. Voici ce que l’on sait de la situation.",
-      "date_publication": "2026-08-29T11:30:11+00:00",
-      "heure_collecte": "2026-08-29T14:15:55"
-    },
-    {
-      "id": 242,
-      "titre": "29 août 1986 : la fin d’une étrange et éphémère lune de miel entre Hassan II et Kadhafi",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837792/politique/29-aout-1986-la-fin-dune-etrange-et-ephemere-lune-de-miel-entre-hassan-ii-et-kadhafi/",
-      "resume": "Il y a quarante ans, le 29 août 1986, le roi du Maroc mettait fin à l’alliance qui l’unissait à la Libye de Mouammar Kadhafi et qui avait surpris la communauté internationale. Comment des dirigeants que tout séparait étaient-ils parvenus à s’entendre, et pourquoi cette union n’a-t-elle tenu que deux ans ?",
-      "date_publication": "2026-08-29T10:06:55+00:00",
-      "heure_collecte": "2026-08-29T08:47:04"
-    },
-    {
-      "id": 243,
-      "titre": "En Centrafrique, la méthode Touadéra pour réglementer le secteur aurifère",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838560/politique/en-centrafrique-la-methode-touadera-pour-reglementer-le-secteur-aurifere/",
-      "resume": "Contrôles, encadrement voire suspension des permis… Depuis le drame de Zamboï, les autorités de Bangui s’attèlent à remettre de l’ordre dans la filière aurifère. Une tâche difficile quand on connaît les méfaits de l’économie informelle.",
-      "date_publication": "2026-08-29T09:05:00+00:00",
-      "heure_collecte": "2026-08-29T08:47:04"
-    },
-    {
-      "id": 244,
-      "titre": "Oligui Nguema traque les avoirs des Bongo, Tshisekedi impose son tempo, le RNI et le PAM se déchirent… Les 5 infos qu’il ne fallait pas manquer",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837376/politique/oligui-nguema-traque-les-avoirs-des-bongo-tshisekedi-impose-son-tempo-le-rni-et-le-pam-se-dechirent-les-5-infos-quil-ne-fallait-pas-manquer/",
-      "resume": "Cette semaine, le Brief de Jeune Afrique revient sur la traque au Gabon des avoirs de la famille Bongo par Brice Clotaire Oligui Nguema, décrypte le bras de fer entre Félix Tshisekedi et ses adversaires autour du dialogue national en RDC, analyse la guerre des transfuges entre le RNI et le PAM à l’approche des législatives marocaines, se penche sur les écarts de prix du carburant en Afrique de l’O",
-      "date_publication": "2026-08-29T08:30:00+00:00",
-      "heure_collecte": "2026-08-29T08:47:04"
     }
   ]
 }
