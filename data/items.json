@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-29T01:38:04",
+  "generated_at": "2026-09-29T08:08:12",
   "items": [
+    {
+      "id": 540,
+      "titre": "Souverainisme minier : le Burkina Faso inaugure sa première raffinerie d’or",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847177/economie-entreprises/souverainisme-minier-le-burkina-faso-inaugure-sa-premiere-raffinerie-dor/",
+      "resume": "La Raffinerie nationale d’or (Raffinor), qui marque pour la présidence « une étape historique dans la quête d’indépendance économique » du Burkina Faso, a une capacité de production annuelle de 164 tonnes d’or.",
+      "date_publication": "2026-09-29T09:27:15+00:00",
+      "heure_collecte": "2026-09-29T08:07:53"
+    },
+    {
+      "id": 541,
+      "titre": "Finance, tech, énergie : quelle est la recette gagnante des prochains champions africains ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1842092/economie-entreprises/finance-tech-energie-quelle-est-la-recette-gagnante-des-prochains-champions-africains/",
+      "resume": "L’Afrique compte davantage d’entreprises valant plus d’un milliard de dollars qu’avant. La question la plus épineuse est de savoir si elle est capable d’en faire éclore suffisamment, et si ces sociétés arriveront à relever les défis propres au continent.",
+      "date_publication": "2026-09-29T08:29:45+00:00",
+      "heure_collecte": "2026-09-29T08:07:53"
+    },
+    {
+      "id": 542,
+      "titre": "Côte d’Ivoire-Sahel : une détente sans désarmement politique entre Abidjan et l’AES",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1841528/politique/cote-divoire-sahel-une-detente-sans-desarmement-politique-entre-abidjan-et-laes/",
+      "resume": "La Côte d’Ivoire et les pays de l’Alliance des États du Sahel renouent des liens diplomatiques et économiques. Mais ce rapprochement pragmatique ne dissipe ni les soupçons sécuritaires ni la rivalité entre deux visions de l’Afrique de l’Ouest.",
+      "date_publication": "2026-09-29T07:00:00+00:00",
+      "heure_collecte": "2026-09-29T08:07:53"
+    },
     {
       "id": 537,
       "titre": "RDC : à Kenge, un crash, 17 morts et des questions en suspens",
@@ -4158,48 +4200,6 @@
       "resume": "Cette semaine, le Brief de Jeune Afrique revient sur la traque au Gabon des avoirs de la famille Bongo par Brice Clotaire Oligui Nguema, décrypte le bras de fer entre Félix Tshisekedi et ses adversaires autour du dialogue national en RDC, analyse la guerre des transfuges entre le RNI et le PAM à l’approche des législatives marocaines, se penche sur les écarts de prix du carburant en Afrique de l’O",
       "date_publication": "2026-08-29T08:30:00+00:00",
       "heure_collecte": "2026-08-29T08:47:04"
-    },
-    {
-      "id": 245,
-      "titre": "Niger : des tirs et détonations entendus à Niamey",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838801/politique/niger-des-tirs-et-detonations-entendus-a-niamey/",
-      "resume": "Des tirs et des détonations ont été entendus dans la nuit de vendredi 28 à samedi 29 août dans plusieurs quartiers de la capitale du Niger, Niamey, notamment autour de la base militaire attenante à l’aéroport international.",
-      "date_publication": "2026-08-29T08:28:18+00:00",
-      "heure_collecte": "2026-08-29T08:47:04"
-    },
-    {
-      "id": 231,
-      "titre": "Cameroun : Eto’o-Mouelle Kombi, la guerre des clans par football interposé",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837783/politique/cameroun-etoo-mouelle-kombi-la-guerre-des-clans-par-football-interpose/",
-      "resume": "Le sacre des Lionnes indomptables à la Coupe d’Afrique des nations n’a pas mis fin à la querelle entre le président de la Fecafoot et le ministre des Sports. La guerre des clans qui se disputent au sommet de l’État se joue – aussi – sur les terrains de foot.",
-      "date_publication": "2026-08-28T19:57:25+00:00",
-      "heure_collecte": "2026-08-28T18:23:04"
-    },
-    {
-      "id": 232,
-      "titre": "Commerce intra-africain : pourquoi le continent échange encore si peu avec lui-même",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838630/economie-entreprises/commerce-intra-africain-pourquoi-le-continent-echange-encore-si-peu-avec-lui-meme/",
-      "resume": "L’Afrique échange davantage de produits transformés avec elle-même qu’avec le reste du monde, mais pas encore à une échelle suffisante. Un rapport de la Banque mondiale et de l’Agence française de développement identifie les « frictions » qui freinent l’industrialisation continentale.",
-      "date_publication": "2026-08-28T18:13:59+00:00",
-      "heure_collecte": "2026-08-28T18:23:04"
     }
   ]
 }
