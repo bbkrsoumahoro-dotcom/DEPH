@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-30T11:01:16",
+  "generated_at": "2026-09-30T16:56:39",
   "items": [
+    {
+      "id": 558,
+      "titre": "L’or et le lithium du Mali dans le viseur de l’administration Trump",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847863/economie-entreprises/lor-et-le-lithium-du-mali-dans-le-viseur-de-ladministration-trump/",
+      "resume": "Une vingtaine d’invités, des experts du secteur minier et de la sécurité, et, surtout, la plus grande discrétion. Le 24 septembre, à Bamako, un panel organisé par l’ambassade des États-Unis a posé les premiers jalons d’une offensive de Washington sur les ressources minières maliennes.",
+      "date_publication": "2026-09-30T18:00:49+00:00",
+      "heure_collecte": "2026-09-30T16:56:17"
+    },
+    {
+      "id": 559,
+      "titre": "Maroc : le PAM saura-t-il relever le défi du pouvoir ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847814/politique/maroc-le-pam-saura-t-il-relever-le-defi-du-pouvoir/",
+      "resume": "Convaincre les abstentionnistes, bâtir une coalition qui ne soit pas une simple distribution de postes, donner un sens à la victoire électorale du 23 septembre : pour la nouvelle cheffe du gouvernement, Fatima-Ezzahra El Mansouri, le plus difficile commence.",
+      "date_publication": "2026-09-30T15:49:22+00:00",
+      "heure_collecte": "2026-09-30T16:56:17"
+    },
+    {
+      "id": 560,
+      "titre": "ONU : malgré le soutien de Bassirou Diomaye Faye, la candidature de Macky Sall ne décolle pas",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847684/politique/onu-malgre-le-soutien-de-bassirou-diomaye-faye-la-candidature-de-macky-sall-ne-decolle-pas/",
+      "resume": "L’espoir de succéder à António Guterres au poste de secrétaire général des Nations unies apparaît plus mince que jamais pour le Sénégalais Macky Sall, comme pour l’Ougandais Olara Otunnu. Les deux Africains en lice retireront-ils leur candidature ?",
+      "date_publication": "2026-09-30T14:01:54+00:00",
+      "heure_collecte": "2026-09-30T16:56:17"
+    },
     {
       "id": 552,
       "titre": "En RDC, la Fecofa va-t-elle enfin lutter contre la pédocriminalité dans le football ?",
@@ -4158,48 +4200,6 @@
       "resume": "De l’ambassade de Côte d’Ivoire au Ghana en passant par la direction du cabinet du président du PPA-CI, l’ancien footballeur s’est toujours tenu loin des projecteurs. Ce qui ne l’a pas empêché d’acquérir une grande influence.",
       "date_publication": "2026-08-31T19:15:37+00:00",
       "heure_collecte": "2026-08-31T21:34:58"
-    },
-    {
-      "id": 256,
-      "titre": "Niger : la nuit où Abdourahamane Tiani a vacillé",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838945/politique/niger-la-nuit-ou-abdourahamane-tiani-a-vacille/",
-      "resume": "Dans la nuit du 28 au 29 août, des dizaines de militaires ont tenté de prendre d’assaut le palais présidentiel et se sont emparés d’une partie de la base aérienne 101 de Niamey. Récit, heure par heure.",
-      "date_publication": "2026-08-31T18:14:11+00:00",
-      "heure_collecte": "2026-08-31T16:19:30"
-    },
-    {
-      "id": 257,
-      "titre": "Chez Castel, la guerre des clans ne faiblit pas",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838873/economie-entreprises/chez-castel-la-guerre-des-clans-ne-faiblit-pas/",
-      "resume": "La guerre de succession au sein du groupe Castel s’emballe. Communiqués contradictoires, révocations contestées et batailles judiciaires : la gouvernance d’un empire présent dans 22 pays africains vacille.",
-      "date_publication": "2026-08-31T17:58:37+00:00",
-      "heure_collecte": "2026-08-31T16:19:30"
-    },
-    {
-      "id": 258,
-      "titre": "Incendies en Algérie : face à la colère, le président Tebboune promet la peine de mort pour les pyromanes",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "rouge",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838988/politique/incendies-en-algerie-face-a-la-colere-le-president-tebboune-promet-la-peine-de-mort-pour-les-pyromanes/",
-      "resume": "Les autorités continuent de refuser de communiquer sur le bilan des feux de forêts, qui auraient fait plusieurs centaines de morts. Mais, pour calmer l’ire populaire, le chef de l’État dit vouloir mettre fin au moratoire de 1993 sur l’exécution de la peine capitale, qui serait alors appliquée aux incendiaires.",
-      "date_publication": "2026-08-31T16:58:52+00:00",
-      "heure_collecte": "2026-08-31T16:19:30"
     }
   ]
 }
