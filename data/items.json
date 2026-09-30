@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-30T16:56:39",
+  "generated_at": "2026-09-30T21:21:31",
   "items": [
+    {
+      "id": 561,
+      "titre": "Hausse du SMIG, baisse des impôts… Au Maroc, la nouvelle cheffe du gouvernement a-t-elle les moyens de ses ambitions sociales ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847834/economie-entreprises/hausse-du-smig-baisse-des-impots-au-maroc-la-nouvelle-cheffe-du-gouvernement-a-t-elle-les-moyens-de-ses-ambitions-sociales/",
+      "resume": "Le gouvernement Fatima-Ezzahra El Mansouri porte un agenda social inédit, promettant un million d’emplois et des retraites minimales à 3 000 dirhams. Reste à financer un programme aussi ambitieux.",
+      "date_publication": "2026-09-30T19:10:34+00:00",
+      "heure_collecte": "2026-09-30T21:21:10"
+    },
     {
       "id": 558,
       "titre": "L’or et le lithium du Mali dans le viseur de l’administration Trump",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1838994/politique/rdc-le-dialogue-national-voulu-par-felix-tshisekedi-deja-mort-ne/",
       "resume": "Le dialogue national tant attendu a été annoncé par Félix Tshisekedi, puis aussitôt rejeté par l’opposition, qui y voit une manœuvre du président pour rester au pouvoir. Le bras de fer se poursuit, avant une manifestation prévue le 15 septembre.",
       "date_publication": "2026-08-31T19:55:12+00:00",
-      "heure_collecte": "2026-08-31T21:34:58"
-    },
-    {
-      "id": 262,
-      "titre": "Comment Emmanuel Ackah est devenu la clé de voûte du système Gbagbo",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1837528/politique/comment-emmanuel-ackah-est-devenu-la-cle-de-voute-du-systeme-gbagbo/",
-      "resume": "De l’ambassade de Côte d’Ivoire au Ghana en passant par la direction du cabinet du président du PPA-CI, l’ancien footballeur s’est toujours tenu loin des projecteurs. Ce qui ne l’a pas empêché d’acquérir une grande influence.",
-      "date_publication": "2026-08-31T19:15:37+00:00",
       "heure_collecte": "2026-08-31T21:34:58"
     }
   ]
