@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-01T07:01:20",
+  "generated_at": "2026-10-01T14:41:56",
   "items": [
+    {
+      "id": 565,
+      "titre": "RDC : Denise Dusauchoy, itinéraire d’une influenceuse sous influence",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847878/politique/rdc-denise-dusauchoy-itineraire-dune-influenceuse-sous-influence/",
+      "resume": "Arrêtée en Tanzanie le 30 août, l’influenceuse est détenue depuis un mois par les services de renseignements congolais. Celle qui fut une sympathisante du président Félix Tshisekedi a fini par se mettre le pouvoir à dos.",
+      "date_publication": "2026-10-01T12:59:25+00:00",
+      "heure_collecte": "2026-10-01T14:41:35"
+    },
+    {
+      "id": 566,
+      "titre": "10 choses à savoir sur Justin Koné Katinan, bras droit de Laurent Gbagbo derrière les barreaux",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847542/politique/10-choses-a-savoir-sur-justin-kone-katinan-bras-droit-de-laurent-gbagbo-derriere-les-barreaux/",
+      "resume": "Quatrième vice-président du PPA-CI, l’ancien ministre a été placé sous mandat de dépôt pour « actes de terrorisme ». Portrait d’un fidèle de longue date de Gbagbo, contraint à l’exil pendant plus d’une décennie, qui n’en est pas à sa première interpellation.",
+      "date_publication": "2026-10-01T12:30:06+00:00",
+      "heure_collecte": "2026-10-01T14:41:35"
+    },
+    {
+      "id": 567,
+      "titre": "RDC : Walter Mbonyimwami fait le pari de l’IA pour explorer les mines du continent",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1844026/economie-entreprises/rdc-walter-mbonyimwami-fait-le-pari-de-lia-pour-explorer-les-mines-du-continent/",
+      "resume": "Alors que la RDC abrite 70 % des réserves mondiales de cobalt et est le premier producteur de cuivre en Afrique, la start-up Synchros s’est fixé pour objectif de rationaliser l’exploitation minière grâce à la technologie numérique.",
+      "date_publication": "2026-10-01T11:53:39+00:00",
+      "heure_collecte": "2026-10-01T14:41:35"
+    },
     {
       "id": 562,
       "titre": "Pétrole : pourquoi Abidjan invite Murphy Oil à intensifier ses forages",
@@ -4158,48 +4200,6 @@
       "resume": "Condamnée à rembourser 30 millions de dirhams à Bank of Africa, Ghita Bennis tente de négocier directement avec la banque d’Othman Benjelloun pour sauver la Gazelle d’or. Coulisses.",
       "date_publication": "2026-09-01T17:03:31+00:00",
       "heure_collecte": "2026-09-01T16:52:10"
-    },
-    {
-      "id": 265,
-      "titre": "5 questions pour comprendre pourquoi les tensions se cristallisent sur la frontière Sénégal-Gambie",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838055/politique/cinq-questions-pour-comprendre-pourquoi-les-tensions-se-cristallisent-sur-la-frontiere-senegal-gambie/",
-      "resume": "La démolition, en juillet, d’un muret gambien par l’armée sénégalaise a failli virer à la crise diplomatique entre Dakar et Banjul. Une commission mixte tente à présent de clarifier le tracé d’une frontière dessinée grossièrement par les colonisateurs en 1889.",
-      "date_publication": "2026-09-01T12:30:03+00:00",
-      "heure_collecte": "2026-09-01T12:27:47"
-    },
-    {
-      "id": 266,
-      "titre": "Cacao : la Côte d’Ivoire lance une saison test",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839170/economie-entreprises/cacao-la-cote-divoire-lance-une-saison-test/",
-      "resume": "Nouveau calendrier, tensions liées aux invendus, spéculation, contrebande… Abidjan lance la campagne de commercialisation de ses fèves de cacao dans un contexte tendu. Et les défis pour consolider la filière demeurent nombreux.",
-      "date_publication": "2026-09-01T12:02:57+00:00",
-      "heure_collecte": "2026-09-01T12:27:47"
-    },
-    {
-      "id": 267,
-      "titre": "Russie, Algérie, AES : qui a vraiment aidé Abdourahamane Tiani face à la mutinerie au Niger ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839011/politique/russie-algerie-aes-qui-a-vraiment-aide-abdourahamane-tiani-face-a-la-mutinerie-au-niger/",
-      "resume": "La mutinerie de Niamey a exposé des failles internes de l’armée nigérienne. Face à celles-ci, Abdourahamane Tiani a dû compter sur des partenaires extérieurs.",
-      "date_publication": "2026-09-01T09:39:21+00:00",
-      "heure_collecte": "2026-09-01T12:27:47"
     }
   ]
 }
