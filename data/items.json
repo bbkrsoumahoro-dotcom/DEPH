@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-01T00:44:58",
+  "generated_at": "2026-10-01T07:01:20",
   "items": [
+    {
+      "id": 562,
+      "titre": "Pétrole : pourquoi Abidjan invite Murphy Oil à intensifier ses forages",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847434/economie-entreprises/petrole-pourquoi-abidjan-invite-murphy-oil-a-intensifier-ses-forages/",
+      "resume": "Après avoir fait de l’offshore ivoirien sa porte d’entrée sur le continent en attendant d’étendre ses opérations au Maroc et au Cameroun via de nouveaux permis, Murphy Oil fait déjà face à un premier test décisif proposé par Abidjan.",
+      "date_publication": "2026-10-01T08:27:40+00:00",
+      "heure_collecte": "2026-10-01T07:00:44"
+    },
+    {
+      "id": 563,
+      "titre": "Interdiction des importations françaises: un pas de plus dans la crise franco-algérienne",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846990/politique/interdiction-des-importations-francaises-un-pas-de-plus-dans-la-crise-franco-algerienne/",
+      "resume": "Applicable depuis juillet 2026 mais sans avoir fait l’objet d’une communication officielle auprès des entreprises concernées, l’interdiction d’importer des marchandises françaises met de nombreux partenaires algériens en difficulté. Et vient encore dégrader une relation déjà glaciale.",
+      "date_publication": "2026-10-01T08:00:26+00:00",
+      "heure_collecte": "2026-10-01T07:00:44"
+    },
+    {
+      "id": 564,
+      "titre": "Au Ghana, le retour au calme à Bawku signe-t-il vraiment le recul de la violence jihadiste venue du Burkina Faso ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847280/politique/au-ghana-le-retour-au-calme-a-bawku-signe-t-il-vraiment-le-recul-de-la-violence-jihadiste-venue-du-burkina-faso/",
+      "resume": "Bawku connaît un calme inédit : plus de 130 jours sans violence, dans une ville meurtrie par des décennies de conflits ethniques. Médiation, pression sécuritaire et lassitude des communautés expliquent ce fragile répit. Analyse.",
+      "date_publication": "2026-10-01T07:00:00+00:00",
+      "heure_collecte": "2026-10-01T07:00:44"
+    },
     {
       "id": 561,
       "titre": "Hausse du SMIG, baisse des impôts… Au Maroc, la nouvelle cheffe du gouvernement a-t-elle les moyens de ses ambitions sociales ?",
@@ -4158,48 +4200,6 @@
       "resume": "La mutinerie de Niamey a exposé des failles internes de l’armée nigérienne. Face à celles-ci, Abdourahamane Tiani a dû compter sur des partenaires extérieurs.",
       "date_publication": "2026-09-01T09:39:21+00:00",
       "heure_collecte": "2026-09-01T12:27:47"
-    },
-    {
-      "id": 263,
-      "titre": "Simandou : comment la Guinée peut éviter le piège de la rente minière",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1828377/economie-entreprises/simandou-comment-la-guinee-peut-eviter-le-piege-de-la-rente-miniere/",
-      "resume": "Avec l’entrée en production du méga-gisement de fer de Simandou, la Guinée affiche l’une des croissances les plus dynamiques du continent. Cependant, le pays doit encore transformer cette manne en un moteur de développement durable. Une gageure.",
-      "date_publication": "2026-09-01T08:01:00+00:00",
-      "heure_collecte": "2026-09-01T06:39:36"
-    },
-    {
-      "id": 264,
-      "titre": "Au Bénin, Romuald Wadagni endosse l’habit présidentiel, à l’ombre de Patrice Talon",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1832066/politique/au-benin-romuald-wadagni-endosse-lhabit-presidentiel-a-lombre-de-patrice-talon/",
-      "resume": "Cent jours après son investiture, Romuald Wadagni impose sa marque : sobriété de style, mesures sociales, activisme diplomatique. Mais l’ombre de Patrice Talon, désormais président du Sénat, plane sur le palais de la Marina.",
-      "date_publication": "2026-09-01T06:56:00+00:00",
-      "heure_collecte": "2026-09-01T06:39:36"
-    },
-    {
-      "id": 261,
-      "titre": "RDC : le dialogue national voulu par Félix Tshisekedi déjà mort-né ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838994/politique/rdc-le-dialogue-national-voulu-par-felix-tshisekedi-deja-mort-ne/",
-      "resume": "Le dialogue national tant attendu a été annoncé par Félix Tshisekedi, puis aussitôt rejeté par l’opposition, qui y voit une manœuvre du président pour rester au pouvoir. Le bras de fer se poursuit, avant une manifestation prévue le 15 septembre.",
-      "date_publication": "2026-08-31T19:55:12+00:00",
-      "heure_collecte": "2026-08-31T21:34:58"
     }
   ]
 }
