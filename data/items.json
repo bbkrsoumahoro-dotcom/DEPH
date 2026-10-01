@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-01T14:41:56",
+  "generated_at": "2026-10-01T20:13:44",
   "items": [
+    {
+      "id": 569,
+      "titre": "RDC-France : de Kinshasa à Bunia, les enjeux de la visite de Jean-Noël Barrot",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848389/politique/rdc-france-de-kinshasa-a-bunia-les-enjeux-de-la-visite-de-jean-noel-barrot/",
+      "resume": "Le ministre français des Affaires étrangères se rend les 2 et 3 octobre en RDC, avant une conférence humanitaire à Paris. Il fera une étape, inédite pour le chef de la diplomatie française, dans l’est du pays.",
+      "date_publication": "2026-10-01T19:16:24+00:00",
+      "heure_collecte": "2026-10-01T20:13:21"
+    },
+    {
+      "id": 570,
+      "titre": "Cameroun : pourquoi Vision 4, la chaîne de télévision d’Amougou Belinga, a été suspendue",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848166/politique/cameroun-pourquoi-vision-4-la-chaine-de-television-damougou-belinga-a-ete-suspendue/",
+      "resume": "Incarcéré depuis deux ans dans le cadre de l’affaire Martinez Zogo, du nom du journaliste tué à Yaoundé en 2023, Jean-Pierre Amougou Belinga voit sa chaîne de télévision privée d’antenne pour un mois par le Conseil national de la communication. Un nouveau bras de fer s’engage donc avec le régulateur.",
+      "date_publication": "2026-10-01T18:58:00+00:00",
+      "heure_collecte": "2026-10-01T20:13:21"
+    },
+    {
+      "id": 568,
+      "titre": "Paiement instantané : Wave rallie la plateforme de la BCEAO et acte une nouvelle ère pour l’union monétaire",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848345/economie-entreprises/paiement-instantane-wave-rallie-la-plateforme-de-la-bceao-et-acte-une-nouvelle-ere-pour-lunion-monetaire/",
+      "resume": "Avec sa plateforme de paiement instantanée, l’UEMOA entre dans l’ère du paiement interopérable entre banques et portefeuilles mobiles. Un bouleversement qui menace les revenus des opérateurs et redistribue les cartes.",
+      "date_publication": "2026-10-01T19:29:59+00:00",
+      "heure_collecte": "2026-10-01T20:13:20"
+    },
     {
       "id": 565,
       "titre": "RDC : Denise Dusauchoy, itinéraire d’une influenceuse sous influence",
@@ -4158,48 +4200,6 @@
       "resume": "Pour pallier les limites des autorités provinciales, le chef de l’État a choisi de miser sur les éléments du Service national (SN), une structure paramilitaire qui dépend de la présidence, afin de lutter contre l’insalubrité à Kinshasa.",
       "date_publication": "2026-09-01T19:56:14+00:00",
       "heure_collecte": "2026-09-01T19:47:56"
-    },
-    {
-      "id": 271,
-      "titre": "Sénégal : le FMI ouvre la voie à 2,2 milliards de dollars, Dakar accepte de restructurer sa dette",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839414/economie-entreprises/senegal-le-fmi-ouvre-la-voie-a-22-milliards-de-dollars-dakar-accepte-de-restructurer-sa-dette/",
-      "resume": "Après deux ans de bras de fer, Dakar et le FMI ont conclu un accord de 2,2 milliards de dollars. Le prix à payer : une restructuration de la dette que le gouvernement de Bassirou Diomaye Faye avait longtemps refusée.",
-      "date_publication": "2026-09-01T19:06:58+00:00",
-      "heure_collecte": "2026-09-01T19:47:56"
-    },
-    {
-      "id": 268,
-      "titre": "« Ramenez nos fils et nos frères » : au Cameroun, la société civile dénonce les recrutements de l’armée russe",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838798/politique/ramenez-nos-fils-et-nos-freres-au-cameroun-la-societe-civile-denonce-les-recrutements-de-larmee-russe/",
-      "resume": "Le Cameroun est l’un des pays africains les plus touchés par le recrutement, par la Russie, de jeunes hommes envoyés sur le front en Ukraine. Un collectif citoyen réclame transparence et action diplomatique.",
-      "date_publication": "2026-09-01T18:01:07+00:00",
-      "heure_collecte": "2026-09-01T16:52:10"
-    },
-    {
-      "id": 269,
-      "titre": "Maroc : face à Bank of Africa, Ghita Bennis livre sa dernière bataille pour relancer la Gazelle d’or",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839092/economie-entreprises/maroc-face-a-bank-of-africa-ghita-bennis-livre-sa-derniere-bataille-pour-relancer-la-gazelle-dor/",
-      "resume": "Condamnée à rembourser 30 millions de dirhams à Bank of Africa, Ghita Bennis tente de négocier directement avec la banque d’Othman Benjelloun pour sauver la Gazelle d’or. Coulisses.",
-      "date_publication": "2026-09-01T17:03:31+00:00",
-      "heure_collecte": "2026-09-01T16:52:10"
     }
   ]
 }
