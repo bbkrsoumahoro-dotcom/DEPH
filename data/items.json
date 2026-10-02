@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-02T00:03:44",
+  "generated_at": "2026-10-02T06:02:25",
   "items": [
+    {
+      "id": 571,
+      "titre": "États-Unis – Cameroun : Trump choisit l’artisan de ses accords d’expulsion comme ambassadeur à Yaoundé",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848048/politique/etats-unis-cameroun-trump-choisit-lartisan-de-ses-accords-dexpulsion-comme-ambassadeur-a-yaounde/",
+      "resume": "Christian Jové Ehrhardt, responsable des très controversées expulsions de migrants vers des pays tiers, représente désormais Washington à Yaoundé. Une nomination qui éclaire les dessous de l’accord secret signé en décembre 2025 entre les États-Unis et le Cameroun.",
+      "date_publication": "2026-10-02T07:03:00+00:00",
+      "heure_collecte": "2026-10-02T06:02:03"
+    },
     {
       "id": 569,
       "titre": "RDC-France : de Kinshasa à Bunia, les enjeux de la visite de Jean-Noël Barrot",
@@ -4186,20 +4200,6 @@
       "resume": "Poursuivie pour « incitation au soulèvement » et arrêtée en septembre 2025, l’ancienne ministre des Armées attend toujours que la date de son procès soit fixée. Voici ce que l’on sait du lieu et de ses conditions de détention.",
       "date_publication": "2026-09-02T07:03:00+00:00",
       "heure_collecte": "2026-09-02T09:29:50"
-    },
-    {
-      "id": 270,
-      "titre": "RDC : à Kinshasa, Félix Tshisekedi parie sur la militarisation de l’assainissement urbain",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838182/politique/rdc-a-kinshasa-felix-tshisekedi-parie-sur-la-militarisation-de-lassainissement-urbain/",
-      "resume": "Pour pallier les limites des autorités provinciales, le chef de l’État a choisi de miser sur les éléments du Service national (SN), une structure paramilitaire qui dépend de la présidence, afin de lutter contre l’insalubrité à Kinshasa.",
-      "date_publication": "2026-09-01T19:56:14+00:00",
-      "heure_collecte": "2026-09-01T19:47:56"
     }
   ]
 }
