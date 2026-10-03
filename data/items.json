@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-03T07:49:08",
+  "generated_at": "2026-10-03T13:11:03",
   "items": [
+    {
+      "id": 585,
+      "titre": "Afrique de l’Ouest : les véritables ressorts d’une inflation alimentaire tenace",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848228/economie-entreprises/afrique-de-louest-les-veritables-ressorts-dune-inflation-alimentaire-tenace/",
+      "resume": "Carburants, engrais, change et météo : les coûts de la chaîne alimentaire s’envolent à nouveau en Afrique de l’Ouest. Une crise structurelle, qui met en lumière les fragilités d’économies encore trop dépendantes des marchés mondiaux. Décryptage en infographies.",
+      "date_publication": "2026-10-03T12:30:00+00:00",
+      "heure_collecte": "2026-10-03T13:10:43"
+    },
+    {
+      "id": 586,
+      "titre": "Avant Fatima-Ezzahra El Mansouri, une longue lignée de militantes marocaines",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848093/politique/avant-fatima-ezzahra-el-mansouri-une-longue-lignee-de-militantes-marocaines/",
+      "resume": "S’il répond à une logique institutionnelle, le choix d’une femme, Fatima-Ezzahra El Mansouri, pour diriger le gouvernement issu des élections du 23 septembre reste un événement. Pourtant, d’autres avant elle ont déjà joué un rôle de premier plan dans l’histoire du royaume.",
+      "date_publication": "2026-10-03T11:00:03+00:00",
+      "heure_collecte": "2026-10-03T13:10:43"
+    },
+    {
+      "id": 587,
+      "titre": "La première femme nommée à la tête du gouvernement au Maroc, les juntes sahéliennes à l’ONU, l’après-Orano au Niger… Les 5 infos qu’il ne fallait pas manquer",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1847923/politique/la-premiere-femme-nommee-a-la-tete-du-gouvernement-au-maroc-les-juntes-saheliennes-a-lonu-lapres-orano-au-niger-les-5-infos-quil-ne-fallait-pas-manquer/",
+      "resume": "Cette semaine, le Brief de Jeune Afrique revient sur la nomination de Fatima-Ezzahra El Mansouri, première femme à la tête du gouvernement marocain, décrypte l’entourage de Brice Clotaire Oligui Nguema, analyse la stratégie diplomatique commune des juntes sahéliennes, examine la relance de l’uranium au Niger et s’intéresse au pari des solutions solaires pour électrifier l’Afrique rurale.",
+      "date_publication": "2026-10-03T08:30:00+00:00",
+      "heure_collecte": "2026-10-03T13:10:43"
+    },
     {
       "id": 584,
       "titre": "États-Unis – Afrique : comment Donald Trump tente de combler le vide dans les ambassades américaines",
@@ -4158,48 +4200,6 @@
       "resume": "Cette fois, l’ONU veut y croire : en Libye, les deux gouvernements qui se disputent le pouvoir sont tombés d’accord pour organiser des élections en vue d’unifier le pays dans un délai précis. Cet accord a-t-il plus de chances d’aboutir que les précédents ?",
       "date_publication": "2026-09-03T11:57:20+00:00",
       "heure_collecte": "2026-09-03T11:35:19"
-    },
-    {
-      "id": 291,
-      "titre": "Crise à l’Église du christianisme céleste au Bénin : pourquoi Patrice Talon joue les médiateurs",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839616/politique/crise-a-leglise-du-christianisme-celeste-au-benin-pourquoi-patrice-talon-joue-les-mediateurs/",
-      "resume": "L’ex-président béninois, récemment élu à la tête du Sénat, s’active pour tenter d’apaiser les tensions au sein de cette Église protestante. Lors d’une intervention en région parisienne, il a annoncé le vote prochain d’une loi sur l’organisation du culte au Bénin. Une manière de continuer à y peser sur la scène politique ?",
-      "date_publication": "2026-09-03T09:19:47+00:00",
-      "heure_collecte": "2026-09-03T11:35:19"
-    },
-    {
-      "id": 286,
-      "titre": "BCP, Attijariwafa, Holmarcom… Pourquoi les banques marocaines marquent le pas",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839751/economie-entreprises/bcp-attijariwafa-holmarcom-pourquoi-les-banques-marocaines-marquent-le-pas/",
-      "resume": "Le crédit bancaire marocain n’a jamais progressé aussi vite. Pourtant, les banques cotées voient leurs résultats plombés par l’effondrement de leurs revenus de marché. Décryptage.",
-      "date_publication": "2026-09-03T08:04:09+00:00",
-      "heure_collecte": "2026-09-03T06:19:41"
-    },
-    {
-      "id": 284,
-      "titre": "Dans l’est de la RDC, Kinshasa fait la guerre à l’administration parallèle de l’AFC/M23",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839244/politique/dans-lest-de-la-rdc-kinshasa-fait-la-guerre-a-ladministration-parallele-de-lafc-m23/",
-      "resume": "De la magistrature à l’enseignement supérieur, les autorités congolaises tentent de s’opposer aux nominations effectuées par les rebelles. Mais elles se heurtent aux limites de leur influence dans les zones que l’AFC/M23 contrôle.",
-      "date_publication": "2026-09-02T20:53:13+00:00",
-      "heure_collecte": "2026-09-02T20:47:49"
     }
   ]
 }
