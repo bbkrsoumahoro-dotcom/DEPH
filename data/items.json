@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-03T01:48:17",
+  "generated_at": "2026-10-03T07:49:08",
   "items": [
+    {
+      "id": 584,
+      "titre": "États-Unis – Afrique : comment Donald Trump tente de combler le vide dans les ambassades américaines",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848742/politique/etats-unis-afrique-comment-donald-trump-tente-de-combler-le-vide-dans-les-ambassades-americaines/",
+      "resume": "Le Congrès américain a validé la nomination de sept nouveaux ambassadeurs en Afrique. Une goutte d’eau, alors que plus de la moitié des postes diplomatiques restent vacants sur le continent après la purge opérée par Trump au début de son mandat. Cartographie.",
+      "date_publication": "2026-10-03T07:10:00+00:00",
+      "heure_collecte": "2026-10-03T07:48:46"
+    },
     {
       "id": 578,
       "titre": "« Tous les militaires avaient déjà pris le large » : en RDC, la justice militaire se penche sur la chute de Bukavu",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1839244/politique/dans-lest-de-la-rdc-kinshasa-fait-la-guerre-a-ladministration-parallele-de-lafc-m23/",
       "resume": "De la magistrature à l’enseignement supérieur, les autorités congolaises tentent de s’opposer aux nominations effectuées par les rebelles. Mais elles se heurtent aux limites de leur influence dans les zones que l’AFC/M23 contrôle.",
       "date_publication": "2026-09-02T20:53:13+00:00",
-      "heure_collecte": "2026-09-02T20:47:49"
-    },
-    {
-      "id": 285,
-      "titre": "Engrais : le marocain OCP face aux leçons de la crise d’Ormuz",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839788/economie-entreprises/engrais-le-marocain-ocp-face-aux-lecons-de-la-crise-dormuz/",
-      "resume": "Le géant marocain des engrais phosphatés publie des résultats semestriels en repli, illustration du contexte difficile dans lequel il opère depuis le début de l’année. Ce qui relance les interrogations sur les limites de son modèle.",
-      "date_publication": "2026-09-02T19:50:38+00:00",
       "heure_collecte": "2026-09-02T20:47:49"
     }
   ]
