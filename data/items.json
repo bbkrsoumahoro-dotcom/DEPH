@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-04T11:14:19",
+  "generated_at": "2026-10-04T15:56:20",
   "items": [
+    {
+      "id": 590,
+      "titre": "RDC : comment Félix Tshisekedi a externalisé la guerre contre le M23",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848504/politique/rdc-comment-felix-tshisekedi-a-externalise-la-guerre-contre-le-m23/",
+      "resume": "Face aux combattants du M23 dans l’est de la RDC, la campagne de défense congolaise s’appuie sur des experts extérieurs. Une enquête menée par l’organisation GI-TOC dévoile la manière dont ces prestataires et conseillers opèrent sur le terrain.",
+      "date_publication": "2026-10-04T16:00:35+00:00",
+      "heure_collecte": "2026-10-04T15:55:59"
+    },
     {
       "id": 588,
       "titre": "Maroc : ceux (et celles) qui murmurent à l’oreille de Fatima-Ezzahra El Mansouri",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1839929/economie-entreprises/10-choses-a-savoir-sur-faris-derrij-le-monsieur-engrais-du-geant-marocain-ocp/",
       "resume": "Après avoir occupé plusieurs fonctions stratégiques au sein du leader mondial du phosphate, l’ingénieur a été nommé, en pleine crise, à la tête d’OCP Nutricrops, épine dorsale des ambitions industrielles du groupe.",
       "date_publication": "2026-09-03T13:19:20+00:00",
-      "heure_collecte": "2026-09-03T11:35:19"
-    },
-    {
-      "id": 288,
-      "titre": "En Algérie, le remaniement ministériel se poursuit",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839886/politique/en-algerie-le-remaniement-ministeriel-se-poursuit/",
-      "resume": "Après quatre nominations annoncées le 1er septembre, la présidence algérienne a surpris en nommant, le lendemain, deux nouveaux ministres. L’un prend le portefeuille de l’Industrie, l’autre celui des Collectivités locales.",
-      "date_publication": "2026-09-03T12:46:00+00:00",
       "heure_collecte": "2026-09-03T11:35:19"
     }
   ]
