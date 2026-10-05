@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-05T16:58:22",
+  "generated_at": "2026-10-05T23:07:08",
   "items": [
+    {
+      "id": 600,
+      "titre": "Déguerpissements en Côte d’Ivoire : pour Alassane Ouattara, l’épineux cas Ibrahim Cissé Bacongo",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846912/politique/deguerpissements-en-cote-divoire-pour-alassane-ouattara-lepineux-cas-ibrahim-cisse-bacongo/",
+      "resume": "Après de multiples polémiques, ce fidèle d’Alassane Ouattara, ministre-gouverneur du district d’Abidjan et responsable du parti présidentiel, est au cœur d’un nouveau scandale. Une affaire de nature à susciter le malaise jusqu’au plus haut sommet de l’État.",
+      "date_publication": "2026-10-05T19:49:12+00:00",
+      "heure_collecte": "2026-10-05T23:06:47"
+    },
     {
       "id": 594,
       "titre": "Au Gabon, Prix Import et Carrefour bousculent le géant Ceca-Gadis",
@@ -4186,20 +4200,6 @@
       "resume": "Premier ministre depuis janvier 2019, cet anglophone originaire du Sud-Ouest a survécu à sept années de guerre de succession sans jamais sembler appartenir à un clan. Jusqu’où le portera cet art de l’effacement ?",
       "date_publication": "2026-09-04T12:00:14+00:00",
       "heure_collecte": "2026-09-04T13:19:05"
-    },
-    {
-      "id": 298,
-      "titre": "Bénin : les premiers marqueurs économiques de l’ère Wadagni",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840106/economie-entreprises/benin-les-premiers-marqueurs-economiques-de-lere-wadagni/",
-      "resume": "Après avoir piloté pendant près de dix ans les finances du pays, le nouveau chef de l’État s’inscrit dans la trajectoire engagée sous Patrice Talon. Tout en mettant l’accent sur les dépenses sociales et une meilleure répartition de la croissance entre les territoires.",
-      "date_publication": "2026-09-04T08:01:06+00:00",
-      "heure_collecte": "2026-09-04T08:40:57"
     }
   ]
 }
