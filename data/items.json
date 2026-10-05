@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-05T01:10:52",
+  "generated_at": "2026-10-05T07:33:12",
   "items": [
+    {
+      "id": 591,
+      "titre": "Gaz et pétrole : les secrets de la stratégie d’expansion de QatarEnergy en Afrique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848652/economie-entreprises/gaz-et-petrole-les-secrets-de-la-strategie-dexpansion-de-qatarenergy-en-afrique/",
+      "resume": "Fragilisé par des contraintes opérationnelles majeures consécutives au conflit au Moyen-Orient, le géant du Golfe se cherche de nouveaux relais de croissance et s’appuie sur des projets africains à « fort impact ».",
+      "date_publication": "2026-10-05T08:27:49+00:00",
+      "heure_collecte": "2026-10-05T07:32:53"
+    },
+    {
+      "id": 592,
+      "titre": "Cameroun : au RDPC, le silence de Paul Biya suscite le malaise",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848393/politique/cameroun-au-rdpc-le-silence-de-paul-biya-suscite-le-malaise/",
+      "resume": "Un an après une présidentielle contestée et alors que des élections locales sont censées se tenir au début de 2027, le parti au pouvoir au Cameroun est dans l’incertitude, déboussolé par le mutisme de son président national.",
+      "date_publication": "2026-10-05T07:01:00+00:00",
+      "heure_collecte": "2026-10-05T07:32:53"
+    },
+    {
+      "id": 593,
+      "titre": "Sénégal : décès de l’écrivain et homme d’État Cheikh Hamidou Kane",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848947/societe/senegal-deces-de-lecrivain-et-homme-detat-cheikh-hamidou-kane/",
+      "resume": "L’auteur de « L’Aventure ambiguë », classique de la littérature africaine, est décédé dans la soirée du 3 octobre à Dakar à l’âge de 98 ans, ont annoncé la presse et le président sénégalais Bassirou Diomaye Faye.",
+      "date_publication": "2026-10-04T17:31:44+00:00",
+      "heure_collecte": "2026-10-05T07:32:53"
+    },
     {
       "id": 590,
       "titre": "RDC : comment Félix Tshisekedi a externalisé la guerre contre le M23",
@@ -4158,48 +4200,6 @@
       "resume": "Deux ans après la révélation de l’existence d’une dette cachée, Dakar a obtenu un accord de principe du FMI pour un prêt de 2,2 milliards de dollars. Financement, restructuration, vote au Parlement : trois inconnues majeures demeurent.",
       "date_publication": "2026-09-03T18:18:19+00:00",
       "heure_collecte": "2026-09-03T19:23:13"
-    },
-    {
-      "id": 292,
-      "titre": "Au Mali, la chute d’Alpha Yaya Sangaré, influent colonel devenu encombrant pour Assimi Goïta",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839974/politique/au-mali-la-chute-dalpha-yaya-sangare-influent-colonel-devenu-encombrant-pour-assimi-goita/",
-      "resume": "Condamné à vingt ans de prison pour avoir publié un essai sur le terrorisme au Mali, le colonel Alpha Yaya Sangaré paye aussi le prix de ses inimitiés au sein de la junte, et en particulier des ambitions que lui prêtait le chef des renseignements, Modibo Koné.",
-      "date_publication": "2026-09-03T17:54:13+00:00",
-      "heure_collecte": "2026-09-03T16:06:45"
-    },
-    {
-      "id": 293,
-      "titre": "Comment Kenya Airways tente de sortir de la zone de turbulences",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839774/economie-entreprises/comment-kenya-airways-tente-de-sortir-de-la-zone-de-turbulences/",
-      "resume": "Démission du directeur général, dette abyssale, pertes chroniques… La compagnie aérienne fait face à de violents vents contraires. Le gouvernement kényan envisage d’octroyer à Kenya Airways un nouveau prêt garanti, transférant encore davantage le risque aux contribuables.",
-      "date_publication": "2026-09-03T14:00:05+00:00",
-      "heure_collecte": "2026-09-03T16:06:45"
-    },
-    {
-      "id": 287,
-      "titre": "10 choses à savoir sur Faris Derrij, le « Monsieur engrais » du géant marocain OCP",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839929/economie-entreprises/10-choses-a-savoir-sur-faris-derrij-le-monsieur-engrais-du-geant-marocain-ocp/",
-      "resume": "Après avoir occupé plusieurs fonctions stratégiques au sein du leader mondial du phosphate, l’ingénieur a été nommé, en pleine crise, à la tête d’OCP Nutricrops, épine dorsale des ambitions industrielles du groupe.",
-      "date_publication": "2026-09-03T13:19:20+00:00",
-      "heure_collecte": "2026-09-03T11:35:19"
     }
   ]
 }
