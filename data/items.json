@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-06T17:05:56",
+  "generated_at": "2026-10-06T21:50:09",
   "items": [
+    {
+      "id": 613,
+      "titre": "RDC – Guylain Nyembo : « Le recensement couvrira tout le territoire national »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849251/politique/rdc-guylain-nyembo-le-recensement-couvrira-tout-le-territoire-national/",
+      "resume": "Quarante-deux ans après le dernier recensement national, le gouvernement congolais relance cet immense chantier dans un contexte de tensions politiques et sécuritaires. Autant d’obstacles que le ministre du Plan affirme pouvoir surmonter.",
+      "date_publication": "2026-10-06T19:46:58+00:00",
+      "heure_collecte": "2026-10-06T21:49:50"
+    },
     {
       "id": 606,
       "titre": "Bénin-France : ce qu’il faut retenir de la rencontre entre Romuald Wadagni et Emmanuel Macron",
@@ -4186,20 +4200,6 @@
       "resume": "À la tête de l’organe législatif de la transition pendant quatre ans, l’ancien militant de la société civile a su rebondir et se faire élire, le 17 juillet, à la présidence de l’Assemblée nationale. Avec ou sans l’assentiment du chef de l’État.",
       "date_publication": "2026-09-06T08:01:00+00:00",
       "heure_collecte": "2026-09-06T08:30:57"
-    },
-    {
-      "id": 312,
-      "titre": "Guerre au Soudan : les États-Unis pris entre deux feux",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839573/politique/guerre-au-soudan-les-etats-unis-pris-entre-deux-feux/",
-      "resume": "D’un côté, l’armée du général al-Burhane, forte de ses victoires, refuse de négocier le cessez-le-feu que préconise Washington. De l’autre, la coalition civile Somoud, que dirige Abdallah Hamdock, pousse l’administration américaine à imposer une trêve et un dialogue inter-soudanais pour mettre fin aux souffrances des populations.",
-      "date_publication": "2026-09-05T16:05:22+00:00",
-      "heure_collecte": "2026-09-05T15:03:44"
     }
   ]
 }
