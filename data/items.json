@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-07T15:21:39",
+  "generated_at": "2026-10-07T20:44:30",
   "items": [
+    {
+      "id": 622,
+      "titre": "Prétoires, pouvoir et réseaux : ces avocats qui façonnent la politique ivoirienne",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849283/politique/pretoires-pouvoir-et-reseaux-ces-avocats-qui-faconnent-la-politique-ivoirienne/",
+      "resume": "Habiba Touré, Jean-Chrysostome Blessy, Abdoulaye Meïté… En Côte d’Ivoire, les robes noires s’imposent au premier rang des batailles de partis, au sein desquels ils sont militants ou responsables. Le Palais de justice d’Abidjan est ainsi devenu le nouveau théâtre des luttes de pouvoir.",
+      "date_publication": "2026-10-07T19:55:34+00:00",
+      "heure_collecte": "2026-10-07T20:43:56"
+    },
+    {
+      "id": 623,
+      "titre": "Pourquoi la vente d’Oragroup est devenue une course contre la montre vitale",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1839243/economie-entreprises/pourquoi-la-vente-doragroup-est-devenue-une-course-contre-la-montre-vitale/",
+      "resume": "En quête d’une recapitalisation cruciale, le groupe bancaire panafricain a réuni son conseil d’administration le 7 octobre. En vente depuis 2019, la banque est contrainte de réduire ses octrois de crédits pour assurer sa survie.",
+      "date_publication": "2026-10-07T17:57:08+00:00",
+      "heure_collecte": "2026-10-07T20:43:56"
+    },
+    {
+      "id": 624,
+      "titre": "Loi anticorruption en RDC : Guillaume Ngefa a-t-il les moyens de ses ambitions ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849260/politique/loi-anticorruption-en-rdc-guillaume-ngefa-a-t-il-les-moyens-de-ses-ambitions/",
+      "resume": "Présenté le 28 septembre à l’Assemblée nationale, le projet de loi porté par le ministre de la Justice promet de moderniser la lutte contre la corruption. Reste à savoir s’il pourra réussir dans un domaine où son prédécesseur avait lui-même promis d’agir.",
+      "date_publication": "2026-10-07T17:44:26+00:00",
+      "heure_collecte": "2026-10-07T20:43:56"
+    },
     {
       "id": 618,
       "titre": "Affaire Kemi Seba : la justice sud-africaine rouvre la voie à une extradition vers le Bénin",
@@ -4158,48 +4200,6 @@
       "resume": "Prix d’achat du cacao, financement de l’interprofession, coopération avec Accra… Pour le régulateur du secteur de l’or brun ivoirien, la saison de commercialisation des fèves démarre, avec son lot de crispations.",
       "date_publication": "2026-09-07T18:48:02+00:00",
       "heure_collecte": "2026-09-07T18:20:21"
-    },
-    {
-      "id": 326,
-      "titre": "Niger : mutinerie ou tentative de coup d’État ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840947/politique/niger-mutinerie-ou-tentative-de-coup-detat/",
-      "resume": "Le coup de force qui a failli renverser le général Abdourahamane Tiani révèle des fractures profondes au sein de l’armée, tandis que les arrestations se multiplient à Niamey. Décryptage dans la Semaine de Jeune Afrique sur RFI.",
-      "date_publication": "2026-09-07T18:15:33+00:00",
-      "heure_collecte": "2026-09-07T18:20:21"
-    },
-    {
-      "id": 327,
-      "titre": "Au Sénégal, la coalition FDR peut-elle tirer profit de la rivalité entre Diomaye Faye et Sonko ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840688/politique/au-senegal-la-coalition-fdr-peut-elle-tirer-profit-de-la-rivalite-entre-diomaye-faye-et-sonko/",
-      "resume": "L’alliance formée par des dizaines de partis politiques, dont l’APR de Macky Sall, compte bien faire entendre sa voix lors des élections intermédiaires de 2027. Dans une ambiance conflictuelle entre le chef de l’État et son ancien allié, désormais à la tête de l’Assemblée nationale, elle tente de s’ériger en alternative crédible.",
-      "date_publication": "2026-09-07T18:00:03+00:00",
-      "heure_collecte": "2026-09-07T18:20:21"
-    },
-    {
-      "id": 320,
-      "titre": "RDC : entre les frères Raphaël Katoto et Moïse Katumbi, un conflit foncier au parfum très politique",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840205/politique/rdc-entre-les-freres-raphael-katoto-et-moise-katumbi-un-conflit-foncier-au-parfum-tres-politique/",
-      "resume": "Raphaël Katebe Katoto accuse son demi-frère, Moïse Katumbi, de lui avoir volé des biens dans le Haut-Katanga. Une plainte vient d’être relancée à Kinshasa, au moment où Katebe Katoto se met au service du président Félix Tshisekedi.",
-      "date_publication": "2026-09-07T13:21:18+00:00",
-      "heure_collecte": "2026-09-07T13:23:10"
     }
   ]
 }
