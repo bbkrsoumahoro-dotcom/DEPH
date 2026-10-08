@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-08T07:09:20",
+  "generated_at": "2026-10-08T14:48:57",
   "items": [
+    {
+      "id": 629,
+      "titre": "Le Maroc, porte d’entrée des industries de défense émiraties sur le continent",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850135/politique/le-maroc-porte-dentree-des-industries-de-defense-emiraties-sur-le-continent/",
+      "resume": "La présence massive des fournisseurs émiratis de matériel militaire au Marrakech Air Show n’est qu’une manifestation d’un phénomène plus large. Pour Abou Dhabi, le Maroc est plus qu’un marché, c’est aussi un pays stratégique pour séduire les armées de tout le continent.",
+      "date_publication": "2026-10-08T15:54:38+00:00",
+      "heure_collecte": "2026-10-08T14:48:35"
+    },
+    {
+      "id": 630,
+      "titre": "Sénégal : le calendrier de la restructuration de la dette est-il crédible ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850007/economie-entreprises/senegal-le-calendrier-de-la-restructuration-de-la-dette-est-il-credible/",
+      "resume": "Dakar vise un premier soutien du FMI dès le mois de novembre avant de boucler un accord sur sa dette avec les créanciers en décembre. Mais le calendrier semble particulièrement serré.",
+      "date_publication": "2026-10-08T12:44:00+00:00",
+      "heure_collecte": "2026-10-08T14:48:35"
+    },
+    {
+      "id": 631,
+      "titre": "Burkina Faso : 10 choses à savoir sur le général Diaouari, le maître à penser sécuritaire d’Ibrahim Traoré",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849822/politique/burkina-faso-10-choses-a-savoir-sur-le-general-diaouari-le-maitre-a-penser-securitaire-dibrahim-traore/",
+      "resume": "Très proche du président burkinabè, qui l’a élevé au rang de général en juillet dernier, cet officier au profil de technocrate est devenu central dans le dispositif d’Ibrahim Traoré. Des questions sécuritaires à la communication, en passant par la mise en œuvre du souverainisme économique, il est l’un des stratèges de la junte.",
+      "date_publication": "2026-10-08T12:30:01+00:00",
+      "heure_collecte": "2026-10-08T14:48:35"
+    },
+    {
+      "id": 632,
+      "titre": "« C’est le moment de rendre les armes » : à Bissau, le général N’Tam lance un appel aux militaires restés proches d’Embaló",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850052/politique/cest-le-moment-de-rendre-les-armes-a-bissau-le-general-ntam-lance-un-appel-aux-militaires-restes-proches-dembalo/",
+      "resume": "Après l’annonce de la candidature à la présidentielle du président déchu Umaro Sissoco Embaló, se sont ensuivies des rumeurs de mécontentement au sein de la garde présidentielle. Dans la foulée, plusieurs éléments ont été désarmés et placés sous contrôle de l’état-major.",
+      "date_publication": "2026-10-08T09:29:51+00:00",
+      "heure_collecte": "2026-10-08T14:48:35"
+    },
     {
       "id": 626,
       "titre": "Hôtellerie : au Sahel, les acteurs se réinventent sans les ONG ni la clientèle étrangère",
@@ -4144,62 +4200,6 @@
       "resume": "Le constructeur américain, leader sur le continent, table sur un doublement de la flotte africaine d’ici à 2045. Mais, entre recours au marché d’occasion, retards de livraison et montée en puissance des concurrents, rien n’est joué pour Boeing.",
       "date_publication": "2026-09-08T11:59:23+00:00",
       "heure_collecte": "2026-09-08T14:24:38"
-    },
-    {
-      "id": 332,
-      "titre": "Pour une exploitation minière responsable",
-      "categorie": "mines",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "SODEMI",
-      "url": "https://sodemi.ci/pour-une-exploitation-miniere-responsable/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-09-08T09:59:18"
-    },
-    {
-      "id": 328,
-      "titre": "Réforme de la cartographie mondiale : un pas de plus vers la décolonisation de la géographie",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841026/politique/reforme-de-la-cartographie-mondiale-un-pas-de-plus-vers-la-decolonisation-de-la-geographie/",
-      "resume": "L’ONU a adopté une résolution historique pour corriger la distorsion cartographique qui minimise l’Afrique depuis cinq siècles. Portée par le Togo, elle consacre la projection Equal Earth comme nouvelle référence mondiale. Explications en cartes.",
-      "date_publication": "2026-09-08T10:45:46+00:00",
-      "heure_collecte": "2026-09-08T09:59:13"
-    },
-    {
-      "id": 329,
-      "titre": "Dangote, Sahara, Afriquia… Les champions africains du pétrole se lancent à l’assaut des majors",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1832437/economie-entreprises/dangote-sahara-afriquia-les-champions-africains-du-petrole-se-lancent-a-lassaut-des-majors/",
-      "resume": "Dans un secteur pétrolier dominé par les poids lourds occidentaux, des groupes africains, à commencer par celui d’Aliko Dangote, se font une place. Ils creusent leur sillon dans le raffinage, le négoce et la distribution. Jusqu’où peuvent-ils aller ?",
-      "date_publication": "2026-09-08T08:05:57+00:00",
-      "heure_collecte": "2026-09-08T09:59:13"
-    },
-    {
-      "id": 330,
-      "titre": "Fin de la doctrine de non-intervention : pourquoi Alger s’engage militairement au Sahel",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840731/politique/fin-de-la-doctrine-de-non-intervention-pourquoi-alger-sengage-militairement-au-sahel/",
-      "resume": "La décision d’envoyer une force aérienne au Niger, le 30 août, pour aider à réprimer la tentative de putsch marque une évolution majeure pour l’Algérie, qui s’interdisait jusque-là d’envoyer des troupes hors de ses frontières. Les temps changent.",
-      "date_publication": "2026-09-08T08:04:55+00:00",
-      "heure_collecte": "2026-09-08T09:59:13"
     }
   ]
 }
