@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-07T20:44:30",
+  "generated_at": "2026-10-08T00:51:10",
   "items": [
+    {
+      "id": 625,
+      "titre": "7ème édition de Connect Côte d’Ivoire",
+      "categorie": "mines",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "SODEMI",
+      "url": "https://sodemi.ci/7eme-edition-de-connect-cote-divoire/",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-10-08T00:50:39"
+    },
     {
       "id": 622,
       "titre": "Prétoires, pouvoir et réseaux : ces avocats qui façonnent la politique ivoirienne",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1840820/politique/cote-divoire-france-ce-que-simone-ehivet-gbagbo-attend-de-sa-visite-a-paris/",
       "resume": "Affaiblie par les récentes démissions au sein du MGC, l’ancienne première dame tente de rebâtir son influence. Son séjour en France, du 18 au 22 septembre, doit lui permettre de restructurer son parti et de tisser des alliances en vue des prochaines échéances électorales.",
       "date_publication": "2026-09-07T18:58:50+00:00",
-      "heure_collecte": "2026-09-07T18:20:21"
-    },
-    {
-      "id": 325,
-      "titre": "Côte d’Ivoire : pourquoi le Conseil café-cacao reste sous pression",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840599/economie-entreprises/cote-divoire-pourquoi-le-conseil-cafe-cacao-reste-sous-pression/",
-      "resume": "Prix d’achat du cacao, financement de l’interprofession, coopération avec Accra… Pour le régulateur du secteur de l’or brun ivoirien, la saison de commercialisation des fèves démarre, avec son lot de crispations.",
-      "date_publication": "2026-09-07T18:48:02+00:00",
       "heure_collecte": "2026-09-07T18:20:21"
     }
   ]
