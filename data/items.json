@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-08T14:48:57",
+  "generated_at": "2026-10-08T20:35:35",
   "items": [
+    {
+      "id": 633,
+      "titre": "Pour Airtel Money, la Bourse est aussi un moyen de relancer les acquisitions",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850187/economie-entreprises/pour-airtel-money-la-bourse-est-aussi-un-moyen-de-relancer-les-acquisitions/",
+      "resume": "Valorisé 7 milliards de dollars, le géant de la finance mobile Airtel Money vise une cotation à Londres. Le groupe entend mobiliser des capitaux pour consolider le secteur de la fintech en Afrique et convertir 75 millions de clients télécoms.",
+      "date_publication": "2026-10-08T17:57:21+00:00",
+      "heure_collecte": "2026-10-08T20:34:45"
+    },
+    {
+      "id": 634,
+      "titre": "RDC : Félix Tshisekedi sollicite l’aide de la Monusco pour la démobilisation des FDLR",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849907/politique/rdc-felix-tshisekedi-sollicite-laide-de-la-monusco-pour-la-demobilisation-des-fdlr/",
+      "resume": "Le président congolais a écrit au secrétaire général des Nations unies pour qu’il soutienne son plan de démobilisation des anciens génocidaires hutu. La proposition pourrait être étudiée dans le cadre du renouvellement du mandat de la Monusco.",
+      "date_publication": "2026-10-08T17:54:22+00:00",
+      "heure_collecte": "2026-10-08T20:34:45"
+    },
     {
       "id": 629,
       "titre": "Le Maroc, porte d’entrée des industries de défense émiraties sur le continent",
@@ -4172,34 +4200,6 @@
       "resume": "Six crânes de chefs camerounais exécutés en 1905 ont été rapatriés d’Allemagne en juillet. Un geste symbolique qui rouvre le dossier douloureux du patrimoine humain et culturel spolié pendant la colonisation allemande.",
       "date_publication": "2026-09-08T18:55:00+00:00",
       "heure_collecte": "2026-09-08T18:01:26"
-    },
-    {
-      "id": 333,
-      "titre": "Mutinerie au Niger : 5 questions pour comprendre pourquoi l’AES a laissé Tiani seul",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841023/politique/mutinerie-au-niger-5-questions-pour-comprendre-pourquoi-laes-a-laisse-tiani-seul-face-aux-mutins/",
-      "resume": "Présentée comme le bras armé de l’Alliance des États du Sahel, la Force unifiée de l’AES peine à s’imposer. Son inaction lors de la mutinerie des 28 et 29 août illustre les difficultés des trois pays à transformer leur ambition de défense commune en réalité militaire opérationnelle.",
-      "date_publication": "2026-09-08T12:29:03+00:00",
-      "heure_collecte": "2026-09-08T14:24:38"
-    },
-    {
-      "id": 334,
-      "titre": "Boeing, Airbus, Embraer… Qui profitera de l’essor du trafic aérien africain ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840579/economie-entreprises/boeing-airbus-embraer-qui-profitera-de-lessor-du-trafic-aerien-africain/",
-      "resume": "Le constructeur américain, leader sur le continent, table sur un doublement de la flotte africaine d’ici à 2045. Mais, entre recours au marché d’occasion, retards de livraison et montée en puissance des concurrents, rien n’est joué pour Boeing.",
-      "date_publication": "2026-09-08T11:59:23+00:00",
-      "heure_collecte": "2026-09-08T14:24:38"
     }
   ]
 }
