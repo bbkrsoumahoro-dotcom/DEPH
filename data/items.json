@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-08T00:51:10",
+  "generated_at": "2026-10-08T07:09:20",
   "items": [
+    {
+      "id": 626,
+      "titre": "Hôtellerie : au Sahel, les acteurs se réinventent sans les ONG ni la clientèle étrangère",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848810/economie-entreprises/hotellerie-au-sahel-les-acteurs-se-reinventent-sans-les-ong-ni-la-clientele-etrangere/",
+      "resume": "Privés d’une partie de leur clientèle internationale par la crise sécuritaire et le recul de l’aide au développement, les hôtels sahéliens repensent leurs offres. De Bamako à Ouagadougou, ils tentent de séduire la clientèle locale.",
+      "date_publication": "2026-10-08T08:31:18+00:00",
+      "heure_collecte": "2026-10-08T07:09:01"
+    },
+    {
+      "id": 627,
+      "titre": "L’Égypte parviendra-t-elle à contenir l’Éthiopie ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849670/politique/legypte-parviendra-t-elle-a-contenir-lethiopie/",
+      "resume": "Le Caire tente de rassembler autour de lui les adversaires de l’Éthiopie, mais on ignore encore quelle est la solidité de l’alliance qu’il a nouée avec l’Érythrée, le Soudan et la Somalie, et quelle sera la réaction de Washington.",
+      "date_publication": "2026-10-08T08:04:18+00:00",
+      "heure_collecte": "2026-10-08T07:09:01"
+    },
+    {
+      "id": 628,
+      "titre": "Présidentielle au Cameroun : quand Anicet Ekane attendait Issa Tchiroma Bakary à Yaoundé",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848421/politique/presidentielle-au-cameroun-quand-anicet-ekane-attendait-issa-tchiroma-bakary-a-yaounde/",
+      "resume": "En octobre 2025, l’activiste aujourd’hui décédé a été l’un des principaux soutiens du candidat à la présidentielle. Pourtant, leur alliance face à Paul Biya ne s’est pas déroulée comme prévu.",
+      "date_publication": "2026-10-08T07:00:00+00:00",
+      "heure_collecte": "2026-10-08T07:09:01"
+    },
     {
       "id": 625,
       "titre": "7ème édition de Connect Côte d’Ivoire",
@@ -4158,48 +4200,6 @@
       "resume": "La décision d’envoyer une force aérienne au Niger, le 30 août, pour aider à réprimer la tentative de putsch marque une évolution majeure pour l’Algérie, qui s’interdisait jusque-là d’envoyer des troupes hors de ses frontières. Les temps changent.",
       "date_publication": "2026-09-08T08:04:55+00:00",
       "heure_collecte": "2026-09-08T09:59:13"
-    },
-    {
-      "id": 331,
-      "titre": "Entre le Niger et le Tchad, une relation compliquée par les groupes armés",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840863/politique/entre-le-niger-et-le-tchad-une-relation-compliquee-par-les-groupes-armes/",
-      "resume": "Les accusations portées par un capitaine de l’armée nigérienne contre de hauts gradés tchadiens, après la mutinerie des 28 et 29 août à Niamey, ont contribué à tendre des relations déjà difficiles entre le Niger et le Tchad. Explications.",
-      "date_publication": "2026-09-08T06:59:00+00:00",
-      "heure_collecte": "2026-09-08T09:59:13"
-    },
-    {
-      "id": 323,
-      "titre": "Au Cameroun, des milliards ont-ils disparu des coffres du Tribunal criminel spécial ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840953/politique/au-cameroun-des-milliards-ont-ils-disparu-des-coffres-du-tribunal-criminel-special/",
-      "resume": "Le Tribunal criminel spécial du Cameroun est au cœur d’une affaire troublante. Un cambriolage, un greffier en chef disparu et un coffre inaccessible, où des milliards de francs CFA pourraient avoir été soustraits. Révélations.",
-      "date_publication": "2026-09-07T20:02:38+00:00",
-      "heure_collecte": "2026-09-07T18:20:21"
-    },
-    {
-      "id": 324,
-      "titre": "Côte d’Ivoire-France : ce que Simone Ehivet Gbagbo attend de sa visite à Paris",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840820/politique/cote-divoire-france-ce-que-simone-ehivet-gbagbo-attend-de-sa-visite-a-paris/",
-      "resume": "Affaiblie par les récentes démissions au sein du MGC, l’ancienne première dame tente de rebâtir son influence. Son séjour en France, du 18 au 22 septembre, doit lui permettre de restructurer son parti et de tisser des alliances en vue des prochaines échéances électorales.",
-      "date_publication": "2026-09-07T18:58:50+00:00",
-      "heure_collecte": "2026-09-07T18:20:21"
     }
   ]
 }
