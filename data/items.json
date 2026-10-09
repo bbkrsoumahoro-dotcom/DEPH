@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-09T01:04:19",
+  "generated_at": "2026-10-09T07:52:10",
   "items": [
+    {
+      "id": 635,
+      "titre": "Pétrole : les dessous de l’incursion manquée de Simon Tiemtoré dans l’aval africain",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849971/economie-entreprises/petrole-les-dessous-de-lincursion-manquee-de-simon-tiemtore-dans-laval-africain/",
+      "resume": "Le banquier américano-burkinabé s’était positionné, via Lilium Capital Group, pour l’acquisition d’un réseau de quelque 400 stations-service. Mais les discussions n’ont finalement pas abouti. Coulisses.",
+      "date_publication": "2026-10-09T08:18:15+00:00",
+      "heure_collecte": "2026-10-09T07:51:48"
+    },
+    {
+      "id": 636,
+      "titre": "Au Cameroun, Maurice Kamto tente la stratégie de l’éminence grise",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850330/politique/au-cameroun-maurice-kamto-tente-la-strategie-de-leminence-grise/",
+      "resume": "Alors que le MRC s’apprête à désigner son successeur lors d’une convention toujours contestée, l’opposant reste présent en coulisses. En retrait, il travaille à l’implantation nationale du parti et veut peser sur ses futures alliances électorales.",
+      "date_publication": "2026-10-09T08:04:58+00:00",
+      "heure_collecte": "2026-10-09T07:51:48"
+    },
+    {
+      "id": 637,
+      "titre": "Saddam Haftar : du Sahel au Tchad, les limites d’une diplomatie sécuritaire",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849611/politique/saddam-haftar-du-sahel-au-tchad-les-limites-dune-diplomatie-securitaire/",
+      "resume": "Entre libérations d’otages, soutien à des mouvements rebelles et nouvelle alliance avec le Tchad, l’héritier du maréchal Haftar cherche à s’imposer comme un interlocuteur incontournable. Et se rêve en futur président d’une Libye réunifiée qui pèserait de nouveau sur la diplomatie continentale.",
+      "date_publication": "2026-10-09T07:00:00+00:00",
+      "heure_collecte": "2026-10-09T07:51:48"
+    },
     {
       "id": 633,
       "titre": "Pour Airtel Money, la Bourse est aussi un moyen de relancer les acquisitions",
@@ -4158,48 +4200,6 @@
       "resume": "L’ancien candidat à la présidentielle a annoncé ce 8 septembre qu’il quittait ses fonctions de président du Mouvement pour la renaissance du Cameroun (MRC), évoquant « l’intérêt supérieur » du parti. Explications.",
       "date_publication": "2026-09-09T07:54:08+00:00",
       "heure_collecte": "2026-09-09T08:53:18"
-    },
-    {
-      "id": 340,
-      "titre": "« Divisés, nous n’existons même pas » : quand Kadhafi plaidait pour les États-Unis d’Afrique",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/207116/politique/le-virage-africain-de-kadhafi/",
-      "resume": "Après avoir échoué à faire l’unité arabe, le guide libyen s’est fait le chantre du panafricanisme. Le 9 septembre 1999, c’est à Syrte, chez lui, que les chefs d’État africains adoptent la déclaration qui pose les bases de la future Union africaine.",
-      "date_publication": "2026-09-09T07:00:00+00:00",
-      "heure_collecte": "2026-09-09T08:53:18"
-    },
-    {
-      "id": 335,
-      "titre": "Comment l’Afrique se prépare au choc El Niño",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841261/economie-entreprises/comment-lafrique-se-prepare-au-choc-el-nino/",
-      "resume": "Alors que les économies du continent tentent de préserver leur croissance dans un environnement déjà contraint, les fortes perturbations climatiques attendues dans les prochains mois risquent de peser sur les récoltes, les prix alimentaires et les finances publiques.",
-      "date_publication": "2026-09-08T19:00:03+00:00",
-      "heure_collecte": "2026-09-08T18:01:26"
-    },
-    {
-      "id": 336,
-      "titre": "Cameroun-Allemagne : six crânes, un siècle d’exil et une histoire coloniale à exhumer",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838395/politique/cameroun-allemagne-six-cranes-un-siecle-dexil-et-une-histoire-coloniale-a-exhumer/",
-      "resume": "Six crânes de chefs camerounais exécutés en 1905 ont été rapatriés d’Allemagne en juillet. Un geste symbolique qui rouvre le dossier douloureux du patrimoine humain et culturel spolié pendant la colonisation allemande.",
-      "date_publication": "2026-09-08T18:55:00+00:00",
-      "heure_collecte": "2026-09-08T18:01:26"
     }
   ]
 }
