@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-10T06:15:50",
+  "generated_at": "2026-10-10T12:56:12",
   "items": [
+    {
+      "id": 650,
+      "titre": "Tramadol en Afrique : le filon des trafiquants, l’antidouleur des pauvres",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850378/politique/tramadol-en-afrique-le-filon-des-trafiquants-lantidouleur-des-pauvres/",
+      "resume": "97 % des saisies mondiales de tramadol ont lieu en Afrique de l’Ouest et en Afrique centrale. Ce trafic prospère sur un terreau : une région où l’on manque de presque tout pour soulager la douleur. Décryptage en infographies.",
+      "date_publication": "2026-10-10T12:38:53+00:00",
+      "heure_collecte": "2026-10-10T12:55:52"
+    },
+    {
+      "id": 651,
+      "titre": "Denise Dusauchoy au secret à Kinshasa, le Maroc face à la rupture Algérie-Émirats arabes unis, le calendrier serré de la dette du Sénégal… Les 5 infos qu’il ne fallait pas manquer",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850420/politique/denise-dusauchoy-au-secret-a-kinshasa-le-maroc-face-a-la-rupture-algerie-emirats-arabes-unis-le-calendrier-serre-de-la-dette-du-senegal-les-5-infos-quil-ne-fallait-pas-manquer/",
+      "resume": "Cette semaine, le Brief de Jeune Afrique revient sur la chute de l’influenceuse congolaise Denise Dusauchoy, décrypte les ambitions sahéliennes de Saddam Haftar, s’intéresse aux avocats qui s’imposent dans les batailles politiques ivoiriennes, analyse les conséquences de la rupture entre l’Algérie et les Émirats arabes unis pour le Maroc et évalue la crédibilité du calendrier de restructuration de",
+      "date_publication": "2026-10-10T08:30:00+00:00",
+      "heure_collecte": "2026-10-10T12:55:52"
+    },
+    {
+      "id": 652,
+      "titre": "L’accès à la mer Rouge est-il le véritable enjeu de la guerre entre l’Éthiopie et l’Érythrée ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850414/politique/lacces-a-la-mer-rouge-est-il-le-veritable-enjeu-de-la-guerre-entre-lethiopie-et-lerythree/",
+      "resume": "Quatre ans après avoir combattu côte à côte lors de la guerre du Tigré, les armées d’Abiy Ahmed et d’Issayas Afewerki s’affrontent dans le nord de l’Éthiopie. Jusqu’où cette escalade pourrait-elle aller ? Décryptage.",
+      "date_publication": "2026-10-10T07:00:00+00:00",
+      "heure_collecte": "2026-10-10T12:55:52"
+    },
     {
       "id": 648,
       "titre": "Pétrole : comment Aliko Dangote est-il devenu le roi du raffinage africain ?",
@@ -4158,48 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-09-10T16:06:20"
-    },
-    {
-      "id": 350,
-      "titre": "Gabon : 10 choses à savoir sur Guy Rossatanga-Rignault, conseiller de l’ombre d’Oligui Nguema",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841754/politique/gabon-dix-choses-a-savoir-sur-guy-rossatanga-rignault-conseiller-de-lombre-doligui-nguema/",
-      "resume": "Avocat, enseignant, auteur et éditeur… L’ancien secrétaire général de la présidence est depuis plusieurs décennies au cœur du pouvoir gabonais. Une influence discrète mais durable, d’Omar Bongo Ondimba à Brice Clotaire Oligui Nguema.",
-      "date_publication": "2026-09-10T12:37:45+00:00",
-      "heure_collecte": "2026-09-10T11:44:26"
-    },
-    {
-      "id": 351,
-      "titre": "Au Tchad, l’ancien chef rebelle centrafricain Abdoulaye Miskine condamné à quinze ans de prison",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841982/politique/au-tchad-lancien-chef-rebelle-centrafricain-abdoulaye-miskine-condamne-a-quinze-ans-de-prison/",
-      "resume": "Abdoulaye Miskine a été condamné pour des faits d’assassinat, de viol ou de torture, commis entre 2002 et 2003 dans des zones frontalières entre le Tchad et la République centrafricaine. Bangui avait en vain demandé son extradition.",
-      "date_publication": "2026-09-10T10:12:22+00:00",
-      "heure_collecte": "2026-09-10T11:44:26"
-    },
-    {
-      "id": 352,
-      "titre": "France-Algérie : l’Institut Montaigne plaide pour une « désensibilisation » de la relation",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841393/politique/france-algerie-linstitut-montaigne-plaide-pour-une-desensibilisation-de-la-relation/",
-      "resume": "Et si la France choisissait d’entretenir une relation « normale » avec l’Algérie, dépassionnée et débarrassée des vieilles querelles ? C’est l’option défendue par le think tank français, proche de la droite, dans la perspective de l’élection présidentielle de 2027.",
-      "date_publication": "2026-09-10T08:30:19+00:00",
-      "heure_collecte": "2026-09-10T11:44:26"
     }
   ]
 }
