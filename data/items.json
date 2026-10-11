@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-11T06:14:59",
+  "generated_at": "2026-10-11T13:19:59",
   "items": [
+    {
+      "id": 653,
+      "titre": "Mali : qui sont les hommes de l’ombre d’Ismaël Wagué, le général chargé de la réconciliation ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1845833/politique/mali-qui-sont-les-hommes-de-lombre-dismael-wague-le-general-charge-de-la-reconciliation/",
+      "resume": "Pour tenter de renouer les fils du dialogue dans un pays en guerre, le ministre d’État, ancien porte-voix des putschistes qui ont renversé Ibrahim Boubacar Keïta (IBK) en 2020, s’appuie sur un réseau qui va des officiers aux chefs communautaires, en passant par les religieux et les influenceurs.",
+      "date_publication": "2026-10-11T12:25:00+00:00",
+      "heure_collecte": "2026-10-11T13:19:38"
+    },
+    {
+      "id": 654,
+      "titre": "Le 11 octobre 1996, la Mauritanie organise ses premières élections pluralistes",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849803/politique/le-11-octobre-1996-la-mauritanie-organise-ses-premieres-elections-pluralistes/",
+      "resume": "Si les habitants de la « Mauritanie française » ont obtenu le droit d’élire des députés en 1946, il a fallu attendre 1996 pour que le pays organise ses premières législatives pluralistes. Un essai non transformé, mais une date importante dans l’histoire mauritanienne.",
+      "date_publication": "2026-10-11T10:00:42+00:00",
+      "heure_collecte": "2026-10-11T13:19:38"
+    },
+    {
+      "id": 655,
+      "titre": "Maroc : ces femmes qui font l’économie",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1846895/economie-entreprises/maroc-ces-femmes-qui-font-leconomie/",
+      "resume": "Au Maroc, les femmes occupent désormais 29 % des sièges dans les conseils d’administration des sociétés cotées. Finance, banque, industrie pharmaceutique… Elles s’imposent au sommet des plus grands groupes marocains. Portraits de six dirigeantes qui façonnent l’économie du royaume.",
+      "date_publication": "2026-10-11T08:58:00+00:00",
+      "heure_collecte": "2026-10-11T13:19:38"
+    },
     {
       "id": 650,
       "titre": "Tramadol en Afrique : le filon des trafiquants, l’antidouleur des pauvres",
@@ -4158,48 +4200,6 @@
       "resume": "Dans le top 5 des producteurs de cuivre en RDC, le groupe de Robert Friedland, qui exploite déjà Kamoa-Kakula, vient d’augmenter de 30 % les ressources de Makoko, un gisement encore inexploité. Une bonne nouvelle qui peut changer la donne pour Ivanhoe ?",
       "date_publication": "2026-09-10T16:59:31+00:00",
       "heure_collecte": "2026-09-10T16:06:26"
-    },
-    {
-      "id": 356,
-      "titre": "Génocide des Tutsi au Rwanda : la justice écarte définitivement les soupçons de complicité visant les militaires français dans les massacres à Bisesero",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841996/societe/genocide-des-tutsi-au-rwanda-la-justice-ecarte-definitivement-les-soupcons-de-complicite-visant-les-militaires-francais-dans-le-massacre-a-bisesero/",
-      "resume": "Dans une décision en date du 9 septembre, la Cour de cassation a confirmé l’ordonnance de non-lieu et de refus de mesures d’instruction rendue en 2022 dans le dossier « Bisesero », mettant un point final à cette procédure emblématique sur le rôle controversé joué par l’armée française au Rwanda en 1994.",
-      "date_publication": "2026-09-10T15:26:32+00:00",
-      "heure_collecte": "2026-09-10T16:06:26"
-    },
-    {
-      "id": 357,
-      "titre": "Maroc-Espagne : les non-dits de l’interminable crise de Ceuta",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841963/politique/maroc-espagne-les-non-dits-de-linterminable-crise-de-ceuta/",
-      "resume": "Plus d’un mois après l’entrée massive de dizaines de milliers de personnes à Ceuta, l’enquête espagnole n’a toujours pas fait la lumière sur les évènements. Des deux côtés du détroit, personne ou presque ne dit ce qu’il pense de cette frontière. Décryptage.",
-      "date_publication": "2026-09-10T14:36:55+00:00",
-      "heure_collecte": "2026-09-10T16:06:26"
-    },
-    {
-      "id": 353,
-      "titre": "Plateforme de Signalement Éthique",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "PETROCI Holding",
-      "url": "https://www.petroci.ci/signalement/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-09-10T16:06:20"
     }
   ]
 }
