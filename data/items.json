@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-11T13:19:59",
+  "generated_at": "2026-10-11T18:21:27",
   "items": [
+    {
+      "id": 656,
+      "titre": "Face au chômage, l’exode des jeunes Ghanéens vers le Golfe s’accélère",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850477/politique/face-au-chomage-lexode-des-jeunes-ghaneens-vers-le-golfe-saccelere/",
+      "resume": "De plus en plus de jeunes Ghanéens jettent leur dévolu sur l’Arabie saoudite, les Émirats arabes unis ou le Qatar. Des destinations plus accessibles que l’Europe mais souvent gérées par des trafiquants et des agences de recrutement douteuses.",
+      "date_publication": "2026-10-11T14:25:00+00:00",
+      "heure_collecte": "2026-10-11T18:21:07"
+    },
     {
       "id": 653,
       "titre": "Mali : qui sont les hommes de l’ombre d’Ismaël Wagué, le général chargé de la réconciliation ?",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1842067/economie-entreprises/senegal-gambie-la-senelec-peut-elle-venir-a-la-rescousses-dun-reseau-electrique-sous-tension/",
       "resume": "La Gambie est plongée dans le noir. Dépendante de ses voisins sénégalais et guinéen dont les livraisons se tarissent, et privée de Karpowership, la Nawec ne parvient plus à alimenter le pays.",
       "date_publication": "2026-09-10T17:55:32+00:00",
-      "heure_collecte": "2026-09-10T16:06:26"
-    },
-    {
-      "id": 355,
-      "titre": "En RDC, le gisement de Makoko s’impose dans les plans d’Ivanhoe Mines",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841635/economie-entreprises/en-rdc-le-gisement-de-makoko-simpose-dans-les-plans-divanhoe-mines/",
-      "resume": "Dans le top 5 des producteurs de cuivre en RDC, le groupe de Robert Friedland, qui exploite déjà Kamoa-Kakula, vient d’augmenter de 30 % les ressources de Makoko, un gisement encore inexploité. Une bonne nouvelle qui peut changer la donne pour Ivanhoe ?",
-      "date_publication": "2026-09-10T16:59:31+00:00",
       "heure_collecte": "2026-09-10T16:06:26"
     }
   ]
