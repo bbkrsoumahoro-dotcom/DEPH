@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-12T01:36:48",
+  "generated_at": "2026-10-12T08:52:40",
   "items": [
+    {
+      "id": 657,
+      "titre": "Sénégal, Gabon, croissance : les dossiers africains des assemblées du FMI et de la Banque mondiale",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "bleu",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850856/economie-entreprises/senegal-gabon-croissance-les-dossiers-africains-des-assemblees-du-fmi-et-de-la-banque-mondiale/",
+      "resume": "L’économie continentale résiste aux répercussions de la crise au Moyen-Orient. Un tournant stratégique se profile pour plusieurs pays africains dans leurs tractations financières avec le FMI.",
+      "date_publication": "2026-10-12T08:02:02+00:00",
+      "heure_collecte": "2026-10-12T08:52:06"
+    },
+    {
+      "id": 658,
+      "titre": "Felipe VI à Ceuta et Melilla : la visite royale va-t-elle envenimer les relations Maroc-Espagne ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850683/politique/felipe-vi-a-ceuta-et-melilla-la-visite-royale-va-t-elle-envenimer-les-relations-maroc-espagne/",
+      "resume": "Dix-neuf ans après la visite de Juan Carlos Ier, qui avait provoqué une crise diplomatique avec Rabat, c’est son successeur, le roi Felipe VI, qui se rendra les 13 et 14 octobre à Ceuta et Melilla, sur fond de crise migratoire et de tensions électorales en Espagne.",
+      "date_publication": "2026-10-12T08:01:10+00:00",
+      "heure_collecte": "2026-10-12T08:52:06"
+    },
+    {
+      "id": 659,
+      "titre": "À Madagascar, un an après la chute d’Andry Rajoelina, la tentation présidentielle du colonel Michaël",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848930/politique/a-madagascar-un-an-apres-la-chute-dandry-rajoelina-la-tentation-presidentielle-du-colonel-michael/",
+      "resume": "Alors que la GEN Z, fragilisée par ses divisions internes, est marginalisée, le colonel Michaël Randrianirina doit organiser les scrutins qui mettront un terme, dans un an, à la transition qu’il préside. Et auxquels il pourrait bien participer.",
+      "date_publication": "2026-10-12T07:50:00+00:00",
+      "heure_collecte": "2026-10-12T08:52:06"
+    },
+    {
+      "id": 660,
+      "titre": "Cameroun anglophone : dix ans après, la guerre refuse de s’éteindre",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850041/politique/cameroun-anglophone-dix-ans-apres-la-guerre-refuse-de-seteindre/",
+      "resume": "Privés d’une partie de leurs appuis dans la diaspora, les séparatistes anglophones n’en poursuivent pas moins leurs attaques sanglantes, une décennie après le début de la crise dans les régions anglophones. Face à eux, Paul Biya, réélu il y a un an pour un huitième mandat, fait le pari de l’usure.",
+      "date_publication": "2026-10-12T06:50:00+00:00",
+      "heure_collecte": "2026-10-12T08:52:06"
+    },
     {
       "id": 656,
       "titre": "Face au chômage, l’exode des jeunes Ghanéens vers le Golfe s’accélère",
@@ -4144,62 +4200,6 @@
       "resume": "L’hostilité devenait de plus en plus palpable, nourrie par des divergences diplomatiques de plus en plus fortes sur le Maroc, Israël, la Libye ou le Sahel. Le pas a finalement été franchi : Alger acte sa rupture avec Abou Dhabi, accusée d’« ingérences », d’« actes d’hostilité » et de « déstabilisation ».",
       "date_publication": "2026-09-11T08:05:31+00:00",
       "heure_collecte": "2026-09-11T08:46:29"
-    },
-    {
-      "id": 364,
-      "titre": "Champagne chez les VIP, cadavres au « Kosovo » : les deux visages de la prison de Yaoundé",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841141/politique/champagne-chez-les-vip-cadavres-au-kosovo-les-deux-visages-de-la-prison-de-yaounde/",
-      "resume": "Dans l’enceinte surpeuplée de la prison centrale de Kondengui, à Yaoundé, un mur sépare deux mondes. D’un côté, d’anciens dignitaires de l’État. De l’autre, les milliers d’anonymes du « Kosovo ». Récit.",
-      "date_publication": "2026-09-11T07:00:00+00:00",
-      "heure_collecte": "2026-09-11T08:46:29"
-    },
-    {
-      "id": 358,
-      "titre": "Cameroun-Allemagne : à Doumé, l’énigme de la guillotine et des crimes coloniaux",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839091/politique/cameroun-allemagne-a-doume-lenigme-de-la-guillotine-et-des-crimes-coloniaux/",
-      "resume": "Le fortin colonial allemand de Doumé, dans l’est du Cameroun, cache un passé sanglant. Des historiens y soupçonnent l’existence d’une guillotine, utilisée lors de l’exécution de dix chefs de la résistance en juin 1910. Enquête.",
-      "date_publication": "2026-09-10T19:36:12+00:00",
-      "heure_collecte": "2026-09-10T19:12:07"
-    },
-    {
-      "id": 359,
-      "titre": "Présidentielle au Kenya : comment la santé d’Oburu Oginga menace la stratégie de William Ruto",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841368/politique/presidentielle-au-kenya-comment-la-sante-doburu-oginga-menace-la-strategie-de-william-ruto/",
-      "resume": "William Ruto a misé sur un allié qui semble affaibli pour contrôler l’ODM avant 2027. Les hospitalisations répétées d’Oburu Oginga, 83 ans, risquent de se retourner contre le président sortant.",
-      "date_publication": "2026-09-10T18:58:04+00:00",
-      "heure_collecte": "2026-09-10T19:12:07"
-    },
-    {
-      "id": 354,
-      "titre": "Sénégal-Gambie : la Senelec peut-elle venir à la rescousses d’un réseau électrique sous tension ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1842067/economie-entreprises/senegal-gambie-la-senelec-peut-elle-venir-a-la-rescousses-dun-reseau-electrique-sous-tension/",
-      "resume": "La Gambie est plongée dans le noir. Dépendante de ses voisins sénégalais et guinéen dont les livraisons se tarissent, et privée de Karpowership, la Nawec ne parvient plus à alimenter le pays.",
-      "date_publication": "2026-09-10T17:55:32+00:00",
-      "heure_collecte": "2026-09-10T16:06:26"
     }
   ]
 }
