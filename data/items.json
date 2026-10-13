@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-12T18:47:32",
+  "generated_at": "2026-10-13T01:10:40",
   "items": [
+    {
+      "id": 669,
+      "titre": "RDC : Joseph Kabila prend officiellement la tête de la rébellion, l’AFC/M23 dissoute",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851360/politique/rdc-joseph-kabila-prend-officiellement-la-tete-de-la-rebellion-lafc-m23-dissoute/",
+      "resume": "L’ancien président congolais a annoncé la création d’un mouvement politico-militaire, le Front pour la refondation de la nation, depuis Goma, dans l’est du pays. Ce nouveau groupe rebelle sera codirigé par les principaux chefs de l’AFC/M23.",
+      "date_publication": "2026-10-12T20:57:38+00:00",
+      "heure_collecte": "2026-10-13T01:10:19"
+    },
     {
       "id": 661,
       "titre": "Côte d’Ivoire : ce que l’on sait de la convocation de Sébastien Dano Djédjé, placé sous contrôle judiciaire",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1842271/economie-entreprises/sanlamallianz-apres-lintegration-continentale-la-cash-machine-est-lancee/",
       "resume": "Avec la fusion marocaine finalisée, SanlamAllianz s’impose comme le géant incontesté de l’assurance africaine. Une domination qui redistribue les cartes et menace les acteurs intermédiaires du continent.",
       "date_publication": "2026-09-11T17:09:20+00:00",
-      "heure_collecte": "2026-09-11T17:06:23"
-    },
-    {
-      "id": 373,
-      "titre": "Nationalité espagnole pour les Sahraouis : ce que change le vote de la loi à Madrid",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1842562/politique/nationalite-espagnole-pour-les-sahraouis-ce-que-change-le-vote-de-la-loi-a-madrid/",
-      "resume": "En ouvrant la nationalité espagnole à des dizaines de milliers de Sahraouis, Madrid touche à l’un des dossiers les plus sensibles du Maghreb, au moment où ses relations se crispent avec Rabat et se réchauffent avec Alger.",
-      "date_publication": "2026-09-11T16:15:42+00:00",
       "heure_collecte": "2026-09-11T17:06:23"
     }
   ]
