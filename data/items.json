@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-13T16:18:34",
+  "generated_at": "2026-10-13T21:27:24",
   "items": [
+    {
+      "id": 682,
+      "titre": "RDC : après le lancement d’une nouvelle rébellion, l’heure du choix pour les alliés de Joseph Kabila",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851705/politique/rdc-apres-le-lancement-dune-nouvelle-rebellion-lheure-du-choix-pour-les-allies-de-joseph-kabila/",
+      "resume": "En prenant la tête du Front pour la refondation de la nation (FRN), né de la dissolution de l’AFC/M23, l’ancien chef de l’État contraint ses soutiens comme les autres opposants à se positionner dans cette nouvelle donne politique.",
+      "date_publication": "2026-10-13T19:38:53+00:00",
+      "heure_collecte": "2026-10-13T21:26:55"
+    },
+    {
+      "id": 683,
+      "titre": "Mines : comment la montée de Paris au capital d’Eramet peut rebattre les cartes avec Libreville",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851489/economie-entreprises/mines-comment-la-montee-de-paris-au-capital-deramet-peut-rebattre-les-cartes-avec-libreville/",
+      "resume": "L’État français s’apprête à porter sa participation dans Eramet à 49 % pour renflouer le groupe minier en difficulté. Un sauvetage financier qui pourrait bouleverser les équilibres entre Paris et Libreville sur la transformation locale des ressources.",
+      "date_publication": "2026-10-13T19:03:48+00:00",
+      "heure_collecte": "2026-10-13T21:26:55"
+    },
     {
       "id": 677,
       "titre": "Sidi Ould Tah, Makhtar Diop, Jeremy Awori… À Luanda, la finance africaine veut convertir les profits en investissements productifs",
@@ -4172,34 +4200,6 @@
       "resume": "Malgré les accusations de répression qui visent le pouvoir en place à Conakry, Paris assume le choix du dialogue. Une stratégie diplomatique qui s’explique aussi par le poids économique croissant de la Guinée, portée par le boom minier.",
       "date_publication": "2026-09-14T07:00:00+00:00",
       "heure_collecte": "2026-09-14T10:26:01"
-    },
-    {
-      "id": 383,
-      "titre": "Constitution du 13 septembre 1996 : quand le Maroc choisissait l’alternance politique",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840932/politique/constitution-du-13-septembre-1996-quand-le-maroc-choisissait-lalternance-politique/",
-      "resume": "Le 13 septembre 1996, Hassan II fait adopter par référendum la cinquième Constitution du Maroc. Un texte historique qui officialise la fin des « années de plomb » et ouvre aussi la voie à un accord avec l’Union européenne.",
-      "date_publication": "2026-09-13T14:00:00+00:00",
-      "heure_collecte": "2026-09-13T16:54:28"
-    },
-    {
-      "id": 380,
-      "titre": "Football : en Afrique, qui aide Gianni Infantino à verrouiller la présidence de la Fifa ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840320/politique/football-en-afrique-qui-aide-gianni-infantino-a-verrouiller-la-presidence-de-la-fifa/",
-      "resume": "Sous pression de l’Uefa et alors que la Fédération française vient de lui retirer son soutien, le patron du football mondial briguera un nouveau mandat à la tête de la Fifa, le 27 mars 2027 à Rabat. En Afrique, il peut s’appuyer sur de solides réseaux politico-sportifs.",
-      "date_publication": "2026-09-13T12:15:00+00:00",
-      "heure_collecte": "2026-09-13T12:37:51"
     }
   ]
 }
