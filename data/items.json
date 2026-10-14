@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-14T00:33:04",
+  "generated_at": "2026-10-14T05:57:00",
   "items": [
+    {
+      "id": 684,
+      "titre": "Pourquoi l’ouverture d’Ecobank au yuan change la donne pour le continent",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851623/economie-entreprises/pourquoi-louverture-decobank-au-yuan-change-la-donne-pour-le-continent/",
+      "resume": "En se rapprochant du système de paiement chinois (CIPS), le groupe togolais veut permettre aux entreprises africaines de régler plus directement leurs échanges avec l’Empire du Milieu. Il rejoint Standard Bank et Afreximbank dans la course aux transactions en renminbi.",
+      "date_publication": "2026-10-14T07:55:00+00:00",
+      "heure_collecte": "2026-10-14T05:56:36"
+    },
+    {
+      "id": 685,
+      "titre": "Cameroun anglophone : le St Joseph’s College de Sasse, au cœur des luttes identitaires",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1848453/politique/cameroun-anglophone-le-st-josephs-college-de-sasse-au-coeur-des-luttes-identitaires/",
+      "resume": "Fondé en 1939 sous l’administration britannique, il a traversé les bouleversements du Cameroun anglophone, des tensions nées des indépendances aux violences de la crise séparatiste. Son histoire est celle d’une identité contestée, au cœur d’une décennie de conflit dans les régions du Nord-Ouest et du Sud-Ouest (Noso).",
+      "date_publication": "2026-10-14T06:58:00+00:00",
+      "heure_collecte": "2026-10-14T05:56:36"
+    },
     {
       "id": 682,
       "titre": "RDC : après le lancement d’une nouvelle rébellion, l’heure du choix pour les alliés de Joseph Kabila",
@@ -4171,34 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1842574/economie-entreprises/historique-systemique-populaire-tout-ce-quil-faut-savoir-sur-lentree-en-bourse-de-la-raffinerie-dangote/",
       "resume": "Aliko Dangote introduit sa raffinerie en Bourse dès le 14 septembre, visant 1,62 milliard de dollars. Une opération qui pourrait devenir la plus grande IPO de l’histoire africaine.",
       "date_publication": "2026-09-14T08:30:35+00:00",
-      "heure_collecte": "2026-09-14T10:26:01"
-    },
-    {
-      "id": 386,
-      "titre": "Fouzi Lekjaâ : « Premier ministre ? Je vais vous dire une chose, je n’y ai jamais réfléchi »",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840086/politique/fouzi-lekjaa-premier-ministre-je-vais-vous-dire-une-chose-je-ny-ai-jamais-reflechi/",
-      "resume": "Depuis son ralliement au PAM, et à moins de deux semaines des législatives du 23 septembre, le très médiatique ministre délégué au Budget et patron de la fédération de football attire tous les regards. Pourquoi est-il entré dans l’arène politique ? Envisage-t-il la primature ? Quelles ambitions nourrit-il pour la Coupe du monde que le royaume accueillera en 2030 ? Qu’a-t-il à dire sur la très polé",
-      "date_publication": "2026-09-14T08:01:26+00:00",
-      "heure_collecte": "2026-09-14T10:26:01"
-    },
-    {
-      "id": 387,
-      "titre": "Guinée-France : pourquoi Paris continue de ménager le régime de Mamadi Doumbouya",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840714/politique/guinee-france-pourquoi-paris-continue-de-menager-le-regime-de-mamadi-doumbouya/",
-      "resume": "Malgré les accusations de répression qui visent le pouvoir en place à Conakry, Paris assume le choix du dialogue. Une stratégie diplomatique qui s’explique aussi par le poids économique croissant de la Guinée, portée par le boom minier.",
-      "date_publication": "2026-09-14T07:00:00+00:00",
       "heure_collecte": "2026-09-14T10:26:01"
     }
   ]
