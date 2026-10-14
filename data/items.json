@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-14T16:52:08",
+  "generated_at": "2026-10-14T20:31:30",
   "items": [
+    {
+      "id": 695,
+      "titre": "Affaire Martinez Zogo au Cameroun : un témoin dit subir menaces et tentatives d’influence",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852074/politique/affaire-martinez-zogo-au-cameroun-un-temoin-dit-subir-menaces-et-tentatives-dinfluence/",
+      "resume": "Un officier supérieur, témoin dans l’affaire Zogo, s’est invité au tribunal pour dénoncer des menaces pesant sur sa vie. Jeune Afrique a également pris connaissance d’un courrier d’alerte qu’il a transmis au ministre délégué à la Défense.",
+      "date_publication": "2026-10-14T19:48:45+00:00",
+      "heure_collecte": "2026-10-14T20:31:09"
+    },
     {
       "id": 690,
       "titre": "Tchad-France : ce que Mahamat Idriss Déby Itno est venu négocier avec Emmanuel Macron",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1843215/politique/afrique-onu-5-questions-pour-comprendre-les-enjeux-de-la-81e-assemblee-generale/",
       "resume": "Succession d’António Guterres, guerres au Soudan et dans l’est de la RDC, épidémie d’Ebola… La grand-messe onusienne s’ouvre le 22 septembre à New York et, cette année encore, des dossiers africains majeurs sont à suivre.",
       "date_publication": "2026-09-15T12:30:29+00:00",
-      "heure_collecte": "2026-09-15T12:51:43"
-    },
-    {
-      "id": 398,
-      "titre": "Jared Kushner, le Maroc et les milliards promis des accords d’Abraham",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841750/politique/jared-kushner-le-maroc-et-les-milliards-promis-des-accords-dabraham/",
-      "resume": "De retour au premier plan des négociations sur Gaza, le gendre et envoyé spécial du président américain veut adosser la relance des accords d’Abraham à l’injection de capitaux privés. Six ans après la reconnaissance américaine de la marocanité du Sahara occidental, que peut encore y gagner Rabat ?",
-      "date_publication": "2026-09-15T09:56:51+00:00",
       "heure_collecte": "2026-09-15T12:51:43"
     }
   ]
