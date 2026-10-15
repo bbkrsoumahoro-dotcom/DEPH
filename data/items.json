@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-15T14:20:02",
+  "generated_at": "2026-10-15T18:32:22",
   "items": [
+    {
+      "id": 704,
+      "titre": "Carburant de la police : au Cameroun, ce que l’on sait du scandale qui menace Martin Mbarga Nguélé",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851941/politique/carburant-de-la-police-au-cameroun-ce-que-lon-sait-du-scandale-qui-menace-martin-mbarga-nguele/",
+      "resume": "Le Tribunal criminel spécial enquête sur un présumé détournement de dizaines de milliards de F CFA de carburant par la DGSN. Alors qu’une quarantaine de policiers sont sous les verrous, l’enquête pourrait remonter jusqu’au sommet.",
+      "date_publication": "2026-10-15T18:46:47+00:00",
+      "heure_collecte": "2026-10-15T18:32:00"
+    },
+    {
+      "id": 705,
+      "titre": "Rançons, zakat, territoire : la guerre entre le Jnim et l’État islamique s’intensifie au Sahel",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852646/politique/rancons-zakat-territoire-la-guerre-entre-le-jnim-et-letat-islamique-sintensifie-au-sahel/",
+      "resume": "Le 10 octobre, de sanglants combats ont opposé le Jnim à l’État islamique au Burkina Faso. Un nouvel épisode dans la rivalité entre les deux groupes jihadistes, sur fond de volonté d’extension et de contrôle des financements, qui menace désormais de déborder au-delà du Sahel.",
+      "date_publication": "2026-10-15T18:33:58+00:00",
+      "heure_collecte": "2026-10-15T18:32:00"
+    },
     {
       "id": 699,
       "titre": "En Algérie, la chute de Saïd Sayoud, ministre de l’Intérieur et coqueluche des médias",
@@ -4172,34 +4200,6 @@
       "resume": "Le président guinéen a séjourné à Abidjan du 11 au 14 septembre où il s’est entretenu avec son homologue ivoirien. Sécurité frontalière, monnaie commune, opposants en exil… Plusieurs dossiers sensibles ont été évoqués lors de leur tête-à-tête.",
       "date_publication": "2026-09-16T15:03:27+00:00",
       "heure_collecte": "2026-09-16T14:18:43"
-    },
-    {
-      "id": 406,
-      "titre": "La méthode Paul Kammogne Fokam, le Camerounais qui a bâti le géant bancaire Afriland loin des projecteurs",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1828865/economie-entreprises/la-methode-paul-kammogne-fokam-le-camerounais-qui-a-bati-le-geant-bancaire-afriland-loin-des-projecteurs/",
-      "resume": "Fondateur d’Afriland First Bank, Paul Kammogne Fokam a bâti un empire bancaire en pariant sur l’épargne populaire. Portrait d’un pionnier discret, entre ambitions panafricaines et zones d’ombre.",
-      "date_publication": "2026-09-16T12:31:16+00:00",
-      "heure_collecte": "2026-09-16T14:18:43"
-    },
-    {
-      "id": 402,
-      "titre": "Comment la chute de la Samir a redéfini la politique énergétique marocaine",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1842202/economie-entreprises/comment-la-chute-de-la-samir-a-redefini-la-politique-energetique-marocaine/",
-      "resume": "Dix ans après la faillite de son unique raffinerie, le Maroc continue de payer les pots cassés d’une privatisation mal ficelée. Pour autant, le pays entend consolider son approvisionnement en renforçant ses capacités de stockage.",
-      "date_publication": "2026-09-16T08:26:26+00:00",
-      "heure_collecte": "2026-09-16T09:26:35"
     }
   ]
 }
