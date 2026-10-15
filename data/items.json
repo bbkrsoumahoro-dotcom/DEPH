@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-15T03:57:18",
+  "generated_at": "2026-10-15T09:04:20",
   "items": [
+    {
+      "id": 696,
+      "titre": "Formule 1 : le pari financier de Kagame peut-il être gagnant ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852080/economie-entreprises/formule-1-le-pari-financier-de-kagame-peut-il-etre-gagnant/",
+      "resume": "En obtenant le retour de la F1 sur le continent, le Rwanda s’offre une vitrine internationale inédite. Et réalise un coup sportif d’envergure dont la facture financière reste un mystère.",
+      "date_publication": "2026-10-15T08:28:27+00:00",
+      "heure_collecte": "2026-10-15T09:03:59"
+    },
+    {
+      "id": 697,
+      "titre": "Burkina Faso : Ibrahim Traoré a-t-il confisqué l’héritage de Thomas Sankara ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851971/politique/burkina-faso-ibrahim-traore-a-t-il-confisque-lheritage-de-thomas-sankara/",
+      "resume": "Le mémorial consacré à Thomas Sankara, érigé à Ouagadougou, change progressivement de vocation. Pensé par ses fidèles, il est aujourd’hui réinvesti par la junte dirigée par Ibrahim Traoré, qui se rêve en réincarnation du mythe révolutionnaire.",
+      "date_publication": "2026-10-15T07:55:00+00:00",
+      "heure_collecte": "2026-10-15T09:03:59"
+    },
+    {
+      "id": 698,
+      "titre": "Cameroun anglophone : Francis Enwe, le sénateur RDPC qui parle aux séparatistes",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851342/politique/cameroun-anglophone-francis-enwe-le-senateur-rdpc-qui-parle-aux-separatistes/",
+      "resume": "Député puis sénateur du parti au pouvoir, cet homme d’affaires à succès vit depuis dix ans au rythme de la crise anglophone sévissant au Nord-Ouest et au Sud-Ouest (Noso). Il tente de promouvoir un dialogue avec les séparatistes, dans un pays où le pouvoir n’y est globalement pas favorable. Rencontre.",
+      "date_publication": "2026-10-15T07:04:00+00:00",
+      "heure_collecte": "2026-10-15T09:03:59"
+    },
     {
       "id": 695,
       "titre": "Affaire Martinez Zogo au Cameroun : un témoin dit subir menaces et tentatives d’influence",
@@ -4158,48 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-09-15T17:33:38"
-    },
-    {
-      "id": 395,
-      "titre": "Massad Boulos à Alger : le Sahara en ligne de front, les hydrocarbures en arrière-plan",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1843269/politique/massad-boulos-a-alger-le-sahara-en-ligne-de-front-les-hydrocarbures-en-arriere-plan/",
-      "resume": "Le conseiller de Trump pour l’Afrique était de retour à Alger le 13 septembre pour sa troisième visite en cinq mois. Objectif : convaincre l’Algérie d’accepter le nouveau cadre onusien sur le Sahara occidental, tout en ouvrant la porte aux majors pétrolières américaines.",
-      "date_publication": "2026-09-15T14:35:04+00:00",
-      "heure_collecte": "2026-09-15T12:51:43"
-    },
-    {
-      "id": 396,
-      "titre": "Aérien : Congo Airways peut-elle sortir de la crise ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1843143/economie-entreprises/aerien-congo-airways-peut-elle-sortir-de-la-crise/",
-      "resume": "La compagnie aérienne de RDC est au bord du gouffre. Si le gouvernement a lancé un plan de relance en mars, reste à savoir s’il sera suffisant.",
-      "date_publication": "2026-09-15T14:28:33+00:00",
-      "heure_collecte": "2026-09-15T12:51:43"
-    },
-    {
-      "id": 397,
-      "titre": "Afrique-ONU : 5 questions pour comprendre les enjeux de la 81e Assemblée générale",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1843215/politique/afrique-onu-5-questions-pour-comprendre-les-enjeux-de-la-81e-assemblee-generale/",
-      "resume": "Succession d’António Guterres, guerres au Soudan et dans l’est de la RDC, épidémie d’Ebola… La grand-messe onusienne s’ouvre le 22 septembre à New York et, cette année encore, des dossiers africains majeurs sont à suivre.",
-      "date_publication": "2026-09-15T12:30:29+00:00",
-      "heure_collecte": "2026-09-15T12:51:43"
     }
   ]
 }
