@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-16T11:02:16",
+  "generated_at": "2026-10-16T15:28:23",
   "items": [
+    {
+      "id": 713,
+      "titre": "Au Kenya, l’annulation du deal Vodafone-Safaricom menace de peser sur les finances du pays",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852912/economie-entreprises/au-kenya-lannulation-du-deal-vodafone-safaricom-menace-de-peser-sur-les-finances-du-pays/",
+      "resume": "Le Kenya fait face à une grave crise budgétaire et réglementaire après l’annulation de la vente d’une participation de 15 % de Safaricom à Vodacom. L’État risque de devoir rembourser 1,9 milliard de dollars.",
+      "date_publication": "2026-10-16T16:56:21+00:00",
+      "heure_collecte": "2026-10-16T15:28:01"
+    },
+    {
+      "id": 714,
+      "titre": "BGFI : Henri-Claude Oyima réussit son pari de l’introduction en Bourse en deux temps",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852909/economie-entreprises/bgfi-henri-claude-oyima-reussit-son-pari-de-lintroduction-en-bourse-en-deux-temps/",
+      "resume": "L’introduction en Bourse de BGFI Holding Corporation franchit un cap avec une deuxième phase largement sursouscrite. Après l’ouverture timide au grand public, les investisseurs professionnels ont accueilli l’opération avec plus d’enthousiasme.",
+      "date_publication": "2026-10-16T14:36:27+00:00",
+      "heure_collecte": "2026-10-16T15:28:01"
+    },
+    {
+      "id": 715,
+      "titre": "Comment la BDEAC a réussi son pari des marchés internationaux malgré ses fragilités",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852639/economie-entreprises/comment-la-bdeac-a-reussi-son-pari-des-marches-internationaux-malgre-ses-fragilites/",
+      "resume": "En mobilisant 222 millions de dollars sur les marchés internationaux de capitaux, la banque régionale entend élargir ses ressources et soutenir le financement des économies de la Cemac. Mais le coût de cette opération et les fragilités financières de l’institution soulignent l’ampleur du chantier qui reste à accomplir.",
+      "date_publication": "2026-10-16T13:59:21+00:00",
+      "heure_collecte": "2026-10-16T15:28:01"
+    },
+    {
+      "id": 716,
+      "titre": "RDC : ce que l’on sait des perquisitions visant l’entourage de Félix Tshisekedi en Belgique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852949/politique/rdc-ce-que-lon-sait-des-perquisitions-visant-lentourage-de-felix-tshisekedi/",
+      "resume": "Plusieurs perquisitions ont été menées en Belgique mercredi 14 octobre, en lien avec une plainte déposée en 2025 contre neuf personnes proches du président congolais. Cette procédure fragilise la relation congolo-belge.",
+      "date_publication": "2026-10-16T13:34:21+00:00",
+      "heure_collecte": "2026-10-16T15:28:01"
+    },
     {
       "id": 706,
       "titre": "Souleymane Diarrassouba : « Avec son nouveau Plan national de développement, la Côte d’Ivoire change d’échelle »",
@@ -4144,62 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-09-17T15:12:36"
-    },
-    {
-      "id": 411,
-      "titre": "Jeune Afrique réagit au retrait de l’accréditation de son correspondant en Guinée",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844100/societe/jeune-afrique-reagit-au-retrait-de-laccreditation-de-son-correspondant-en-guinee/",
-      "resume": "Le 16 septembre, la Haute autorité de la communication (HAC) guinéenne a rendu publique une décision de retrait de l’accréditation de notre correspondant en Guinée, Diawo Barry. Jeune Afrique réagit.",
-      "date_publication": "2026-09-17T11:23:54+00:00",
-      "heure_collecte": "2026-09-17T10:18:31"
-    },
-    {
-      "id": 412,
-      "titre": "Le chanteur marocain Saad Lamjarred jugé en appel en France pour viol",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844041/politique/le-chanteur-marocain-saad-lamjarred-juge-en-appel-en-france-pour-viol/",
-      "resume": "Le chanteur marocain Saad Lamjarred, condamné à six ans de prison pour viol et violences aggravées, est jugé en appel à partir du 17 septembre à Créteil. Il comparaîtra libre sous contrôle judiciaire.",
-      "date_publication": "2026-09-17T10:04:00+00:00",
-      "heure_collecte": "2026-09-17T10:18:31"
-    },
-    {
-      "id": 413,
-      "titre": "Pourquoi l’échec de Drapor pèse toujours sur la souveraineté économique du Maroc",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1842174/economie-entreprises/pourquoi-lechec-de-drapor-pese-toujours-sur-la-souverainete-economique-du-maroc/",
-      "resume": "Longtemps symbole de souveraineté industrielle du royaume, la société spécialisée dans le dragage incarne désormais un des échecs retentissants de la politique de privatisation des années 1990. Un dossier qui a encore des répercussions aujourd’hui.",
-      "date_publication": "2026-09-17T08:28:20+00:00",
-      "heure_collecte": "2026-09-17T10:18:31"
-    },
-    {
-      "id": 414,
-      "titre": "États-Unis-Mali : des élus américains demandent un encadrement du rapprochement Trump-Goïta",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1843839/politique/etats-unis-mali-des-elus-americains-demandent-un-encadrement-du-rapprochement-trump-goita/",
-      "resume": "Face à la propagation du Jnim au Sahel, des élus républicains et démocrates américains veulent encadrer le rapprochement entre l’administration Trump et le Mali. Un projet de loi bipartisan exige une stratégie diplomatique transparente pour contrer l’expansion jihadiste.",
-      "date_publication": "2026-09-17T08:09:00+00:00",
-      "heure_collecte": "2026-09-17T10:18:31"
     }
   ]
 }
