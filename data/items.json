@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-16T15:28:23",
+  "generated_at": "2026-10-16T18:58:15",
   "items": [
+    {
+      "id": 717,
+      "titre": "Au Maroc, piliers reconduits et nouveaux entrants : le gouvernement El Mansouri enfin dévoilé",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853313/politique/au-maroc-piliers-reconduits-et-nouveaux-entrants-le-gouvernement-el-mansouri-enfin-devoile/",
+      "resume": "Les principaux arbitrages du nouveau gouvernement nommé ce 16 octobre dessinent une équation familière au sommet de l’État, avec des piliers reconduits, des surprises et une majorité désormais articulée autour de quatre partis.",
+      "date_publication": "2026-10-16T19:22:30+00:00",
+      "heure_collecte": "2026-10-16T18:57:52"
+    },
+    {
+      "id": 718,
+      "titre": "En Côte d’Ivoire, le PPA-CI et le PDCI face au rouleau compresseur de la justice",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853097/politique/en-cote-divoire-le-ppa-ci-et-le-pdci-face-au-rouleau-compresseur-de-la-justice/",
+      "resume": "Alors que le pouvoir avait promis de « recréer la confiance » avec l’opposition, les convocations devant la justice antiterroriste se multiplient dans l’entourage de Laurent Gbagbo et de Tidjane Thiam, interrogeant la possibilité d’une décrispation politique.",
+      "date_publication": "2026-10-16T18:49:15+00:00",
+      "heure_collecte": "2026-10-16T18:57:52"
+    },
+    {
+      "id": 719,
+      "titre": "RDC : Joseph Kabila, rebelle après tout",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852851/politique/rdc-joseph-kabila-rebelle-apres-tout/",
+      "resume": "L’ancien président a pris la tête d’une nouvelle rébellion le 12 octobre. Il s’est donné pour mission de renverser Félix Tshisekedi mais court le risque, en faisant le choix des armes, de s’isoler un peu plus.",
+      "date_publication": "2026-10-16T18:25:05+00:00",
+      "heure_collecte": "2026-10-16T18:57:52"
+    },
+    {
+      "id": 720,
+      "titre": "Cameroun : le renseignement d’État, entre guerre des clans et business privé",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851671/politique/cameroun-le-renseignement-detat-entre-guerre-des-clans-et-business-prive/",
+      "resume": "Officiellement destinés à protéger l’État, les services de renseignement camerounais, affaiblis par la guerre des clans autour de Paul Biya et par la précarité de leurs agents, se mettent régulièrement au service d’intérêts privés. Décryptage en vidéo.",
+      "date_publication": "2026-10-16T17:46:02+00:00",
+      "heure_collecte": "2026-10-16T18:57:52"
+    },
     {
       "id": 713,
       "titre": "Au Kenya, l’annulation du deal Vodafone-Safaricom menace de peser sur les finances du pays",
@@ -4144,62 +4200,6 @@
       "resume": "Avant Brazzaville, où il est arrivé ce 17 septembre, le président béninois a effectué une visite officielle à Kigali. Au cœur des discussions avec son homologue rwandais, le renforcement du partenariat sur les questions militaires et de renseignements.",
       "date_publication": "2026-09-17T18:04:34+00:00",
       "heure_collecte": "2026-09-17T19:11:49"
-    },
-    {
-      "id": 418,
-      "titre": "Comment l’ivoirien Yeshi veut accélérer au Cameroun",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844015/economie-entreprises/comment-livoirien-yeshi-veut-accelerer-au-cameroun/",
-      "resume": "Le groupe Yeshi, connu pour sa filiale de matériaux de construction et de quincaillerie Bernabé, mise sur son expérience en Côte d’Ivoire, au Sénégal et au Gabon pour assurer son essor au Cameroun. Il parie sur le secteur automobile.",
-      "date_publication": "2026-09-17T17:03:14+00:00",
-      "heure_collecte": "2026-09-17T15:12:58"
-    },
-    {
-      "id": 419,
-      "titre": "Gabon : tout comprendre au tour de passe-passe de Libreville pour se désendetter",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844083/economie-entreprises/gabon-tout-comprendre-au-tour-de-passe-passe-de-libreville-pour-se-desendetter/",
-      "resume": "Le nouvel inventaire des engagements publics donne à Libreville une base comptable plus précise pour piloter ses finances. Un ajustement qui intervient alors que le pays cherche à stabiliser ses comptes et à avancer dans ses discussions avec le FMI.",
-      "date_publication": "2026-09-17T13:53:43+00:00",
-      "heure_collecte": "2026-09-17T15:12:58"
-    },
-    {
-      "id": 420,
-      "titre": "10 choses à savoir sur Tchakpelé Aklesso, l’ancien maître espion nommé par Faure Gnassingbé à la tête de l’armée togolaise",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1840084/politique/10-choses-a-savoir-sur-tchakpele-aklesso-lancien-maitre-espion-nomme-par-faure-gnassingbe-a-la-tete-de-larmee-togolaise/",
-      "resume": "Promu général et chef d’état-major, Tchakpelé Aklesso incarne la nouvelle doctrine sécuritaire de Faure Gnassingbé. Portrait d’un homme de l’ombre propulsé à la tête d’une armée en pleine mutation.",
-      "date_publication": "2026-09-17T12:30:59+00:00",
-      "heure_collecte": "2026-09-17T15:12:58"
-    },
-    {
-      "id": 417,
-      "titre": "Avec sa raffinerie d’or et son Comptoir d’achat, la Côte d’Ivoire veut maîtriser toute la chaîne de valeur",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
-      "url": "https://www.energie.gouv.ci/actualite/avec-sa-raffinerie-dor-et-son-comptoir-dachat-la-cote-divoire-veut-maitriser-toute-la-chaine-de-valeur-6aabe2be88832",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-09-17T15:12:36"
     }
   ]
 }
