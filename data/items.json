@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-18T13:05:51",
+  "generated_at": "2026-10-18T16:45:02",
   "items": [
+    {
+      "id": 731,
+      "titre": "Cameroun : sur la route Douala-Yaoundé, sept heures pour parcourir 230 kilomètres",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1851377/politique/cameroun-sur-la-route-douala-yaounde-sept-heures-pour-parcourir-230-kilometres/",
+      "resume": "Le délabrement de la route Douala-Yaoundé exaspère les usagers et inquiète jusqu’aux cadres du parti au pouvoir. Alors que le gouvernement annonce de nouveaux travaux, le financement et les délais de reconstruction restent des défis majeurs.",
+      "date_publication": "2026-10-18T15:55:00+00:00",
+      "heure_collecte": "2026-10-18T16:44:43"
+    },
     {
       "id": 729,
       "titre": "En Ouganda, comment Muhoozi Kainerugaba étend son influence de l’armée à la politique",
@@ -4186,20 +4200,6 @@
       "resume": "Lors d’une rencontre à trois incluant l’ambassadeur américain aux Nations unies, les ministres marocain et israélien des Affaires étrangères ont notamment décidé de transformer leurs représentations diplomatiques en véritables ambassades.",
       "date_publication": "2026-09-18T14:33:00+00:00",
       "heure_collecte": "2026-09-18T14:51:33"
-    },
-    {
-      "id": 431,
-      "titre": "Une première dans le bassin sédimentaire ivoirien : huit CPP signés avec Petrobras",
-      "categorie": "hydrocarbures",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
-      "url": "https://www.energie.gouv.ci/actualite/une-premiere-dans-le-bassin-sedimentaire-ivoirien-huit-cpp-signes-avec-petrobras-6aad22f7327bb",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-09-18T14:51:11"
     }
   ]
 }
