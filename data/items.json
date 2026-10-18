@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-18T03:49:11",
+  "generated_at": "2026-10-18T08:43:40",
   "items": [
+    {
+      "id": 728,
+      "titre": "Entre Sahara et océan, la petite ville marocaine de Lagouira attise l’intérêt de la Mauritanie",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852028/politique/entre-sahara-et-ocean-la-petite-ville-marocaine-de-lagouira-attise-linteret-de-la-mauritanie/",
+      "resume": "Alors que les négociations sur le Sahara occidental se poursuivent, la Mauritanie souhaite faire reconnaître sa souveraineté sur la ville marocaine de Lagouira. Éclairage historique sur un enjeu territorial majeur.",
+      "date_publication": "2026-10-18T10:34:07+00:00",
+      "heure_collecte": "2026-10-18T08:43:09"
+    },
     {
       "id": 726,
       "titre": "Secrétariat général de l’ONU : Macky Sall jette l’éponge",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1844031/politique/finale-de-la-coupe-du-monde-2030-face-aux-ambitions-du-maroc-lespagne-menace/",
       "resume": "Depuis l’attribution du tournoi 2030 au trio Maroc-Portugal-Espagne, la question de savoir quel pays accueillera la finale oppose Madrid et Rabat. Une rivalité envenimée par la crise de Ceuta et la dégradation de leurs relations diplomatiques.",
       "date_publication": "2026-09-18T11:49:46+00:00",
-      "heure_collecte": "2026-09-18T10:52:16"
-    },
-    {
-      "id": 426,
-      "titre": "Déguerpissements en Côte d’Ivoire : le gouverneur d’Abidjan, Ibrahim Cissé Bacongo, fragilisé",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844284/politique/deguerpissements-en-cote-divoire-le-gouverneur-dabidjan-ibrahim-cisse-bacongo-fragilise/",
-      "resume": "Les révélations du procureur sur le rôle d’Ibrahim Cissé Bacongo dans la destruction de 250 logements à Koumassi affaiblissent le secrétaire exécutif du parti présidentiel. Elles questionnent aussi l’encadrement de ces opérations de démolition qui se sont multipliées à Abidjan.",
-      "date_publication": "2026-09-18T11:01:08+00:00",
       "heure_collecte": "2026-09-18T10:52:16"
     }
   ]
