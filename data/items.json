@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-18T08:43:40",
+  "generated_at": "2026-10-18T13:05:51",
   "items": [
+    {
+      "id": 729,
+      "titre": "En Ouganda, comment Muhoozi Kainerugaba étend son influence de l’armée à la politique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852330/politique/en-ouganda-comment-muhoozi-kainerugaba-etend-son-influence-de-larmee-a-la-politique/",
+      "resume": "Depuis la réélection de Yoweri Museveni en janvier 2026, l’emprise du chef d’état-major de l’armée sur son pays ne cesse de croître. Du Parlement au gouvernement en passant par la sphère économique, il a continué à étendre son réseau, se positionnant plus que jamais comme le successeur de son père.",
+      "date_publication": "2026-10-18T12:15:00+00:00",
+      "heure_collecte": "2026-10-18T13:05:27"
+    },
+    {
+      "id": 730,
+      "titre": "Cameroun : ces femmes qui font l’économie",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850516/economie-entreprises/cameroun-ces-femmes-qui-font-leconomie/",
+      "resume": "Banque, BTP, cacao : six Camerounaises brisent les plafonds de verre et dynamisent l’économie locale. Elles racontent leurs réussites, mais aussi les freins majeurs à l’entrepreneuriat féminin.",
+      "date_publication": "2026-10-18T11:50:00+00:00",
+      "heure_collecte": "2026-10-18T13:05:27"
+    },
     {
       "id": 728,
       "titre": "Entre Sahara et océan, la petite ville marocaine de Lagouira attise l’intérêt de la Mauritanie",
@@ -4172,34 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-09-18T14:51:11"
-    },
-    {
-      "id": 424,
-      "titre": "Mark Suzman (Fondation Gates) : « L’intelligence artificielle peut permettre d’atteindre les objectifs de développement du continent »",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1843956/economie-entreprises/mark-suzman-fondation-gates-lintelligence-artificielle-peut-permettre-datteindre-les-objectifs-de-developpement-du-continent/",
-      "resume": "Le PDG de la Fondation Gates alerte sur les conséquences de la baisse de l’aide publique au développement. Et parie sur l’IA pour lutter contre la pauvreté, les maladies et améliorer l’éducation.",
-      "date_publication": "2026-09-18T12:34:48+00:00",
-      "heure_collecte": "2026-09-18T10:52:16"
-    },
-    {
-      "id": 425,
-      "titre": "Finale de la Coupe du monde 2030 : face aux ambitions du Maroc, l’Espagne menace",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844031/politique/finale-de-la-coupe-du-monde-2030-face-aux-ambitions-du-maroc-lespagne-menace/",
-      "resume": "Depuis l’attribution du tournoi 2030 au trio Maroc-Portugal-Espagne, la question de savoir quel pays accueillera la finale oppose Madrid et Rabat. Une rivalité envenimée par la crise de Ceuta et la dégradation de leurs relations diplomatiques.",
-      "date_publication": "2026-09-18T11:49:46+00:00",
-      "heure_collecte": "2026-09-18T10:52:16"
     }
   ]
 }
