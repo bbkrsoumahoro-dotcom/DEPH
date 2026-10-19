@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-19T17:06:58",
+  "generated_at": "2026-10-19T21:41:45",
   "items": [
+    {
+      "id": 741,
+      "titre": "Minerais critiques : pourquoi les banques de développement font leur grand retour dans le secteur",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853771/economie-entreprises/minerais-critiques-pourquoi-les-banques-de-developpement-font-leur-grand-retour-dans-le-secteur/",
+      "resume": "L’accélération de la demande mondiale et la rivalité autour des approvisionnements poussent les grandes institutions financières internationales à revoir leur positionnement dans le secteur minier.",
+      "date_publication": "2026-10-19T19:11:28+00:00",
+      "heure_collecte": "2026-10-19T21:41:23"
+    },
+    {
+      "id": 742,
+      "titre": "Massacre de Shakaloha au Kenya : Paul Mackenzie jugé coupable du meurtre de 191 personnes",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853844/politique/massacre-de-shakaloha-au-kenya-paul-mackenzie-juge-coupable-du-meurtre-de-191-personnes/",
+      "resume": "Déjà poursuivi par la justice pour le meurtre d’environ 450 fidèles qu’il aurait poussés au suicide, le gourou autoproclamé a été reconnu coupable d’homicide sur 190 enfants et un adulte.",
+      "date_publication": "2026-10-19T19:05:32+00:00",
+      "heure_collecte": "2026-10-19T21:41:23"
+    },
     {
       "id": 736,
       "titre": "Côte d’Ivoire – Ahoua Don Mello : « Qui peut vaincre la Russie de Vladimir Poutine ? Personne »",
@@ -4171,34 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1844279/politique/centrafrique-hassan-bouba-lex-rebelle-que-touadera-ne-veut-pas-ecarter/",
       "resume": "De Berbérati à Birao, l’ancien rebelle continue de s’afficher en homme de terrain. Passé à l’Urbanisme lors du dernier remaniement, le ministre reste un élément-clé des dossiers sécuritaires, en particulier depuis l’offensive sur Amdafok.",
       "date_publication": "2026-09-19T14:01:00+00:00",
-      "heure_collecte": "2026-09-19T12:59:20"
-    },
-    {
-      "id": 442,
-      "titre": "Minerais critiques en RDC : des acteurs chinois toujours plus présents… et nombreux",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844298/economie-entreprises/minerais-critiques-en-rdc-des-acteurs-chinois-toujours-plus-presents-et-nombreux/",
-      "resume": "Les entreprises de l’empire du Milieu sont désormais parties prenantes dans 49 projets miniers critiques en RDC. Un chiffre inédit.",
-      "date_publication": "2026-09-19T12:27:00+00:00",
-      "heure_collecte": "2026-09-19T12:59:20"
-    },
-    {
-      "id": 443,
-      "titre": "Secrétariat général de l’ONU : un troisième vote défavorable à Macky Sall",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844775/politique/secretariat-general-de-lonu-un-troisieme-vote-defavorable-a-macky-sall/",
-      "resume": "Au terme du troisième « straw poll » tenu au sein du Conseil de sécurité des Nations unies vendredi 18 septembre, l’ex-président sénégalais accuse un net recul dans la course à la succession d’António Guterres.",
-      "date_publication": "2026-09-19T11:23:57+00:00",
       "heure_collecte": "2026-09-19T12:59:20"
     }
   ]
