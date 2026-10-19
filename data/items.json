@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-19T04:29:55",
+  "generated_at": "2026-10-19T10:14:15",
   "items": [
+    {
+      "id": 732,
+      "titre": "AES-Cedeao : les deux blocs annoncent vouloir travailler à un « accord-cadre »",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853399/politique/aes-cedeao-les-deux-blocs-annoncent-vouloir-travailler-a-un-accord-cadre/",
+      "resume": "Dans un communiqué conjoint samedi soir, les deux parties se « sont félicitées de l’esprit de fraternité » des discussions et ont affiché l’ambition de parvenir à un accord-cadre de coopération.",
+      "date_publication": "2026-10-19T11:25:53+00:00",
+      "heure_collecte": "2026-10-19T10:13:27"
+    },
+    {
+      "id": 733,
+      "titre": "RDC : la discrète médiation finlandaise entre l’opposition et le pouvoir",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853084/politique/rdc-la-discrete-mediation-finlandaise-entre-lopposition-et-le-pouvoir/",
+      "resume": "Des représentants de la majorité et de l’opposition ont été invités en septembre pour un séjour de trois jours à Helsinki. Objectif : favoriser le dialogue avec un cadre plus informel et détendu.",
+      "date_publication": "2026-10-19T09:15:00+00:00",
+      "heure_collecte": "2026-10-19T10:13:27"
+    },
+    {
+      "id": 734,
+      "titre": "Au Mali, les compagnies minières prises entre étau fiscal et casse-tête logistique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1849767/economie-entreprises/au-mali-les-compagnies-minieres-prises-entre-etau-fiscal-et-casse-tete-logistique/",
+      "resume": "Confrontées à la hausse des redevances, à la dégradation des conditions sécuritaires ou encore à des différends juridiques avec la junte au pouvoir, les sociétés minières naviguent dans un environnement de plus en plus incertain.",
+      "date_publication": "2026-10-19T08:05:36+00:00",
+      "heure_collecte": "2026-10-19T10:13:27"
+    },
+    {
+      "id": 735,
+      "titre": "Touadéra et les rebelles : en Centrafrique, l’interminable bras de fer entre le président et les groupes armés",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1852165/politique/touadera-et-les-rebelles-en-centrafrique-linterminable-bras-de-fer-entre-le-president-et-les-groupes-armes/",
+      "resume": "Le gouvernement centrafricain s’active pour signer, en novembre à Bangui, un nouvel accord consacrant la réhabilitation de certains chefs rebelles, parmi lesquels Mahamat al-Khatim, Ali Darassa et Sembé Bobo. Mais l’est du pays reste menacé par un ancien allié de ces derniers, Noureddine Adam.",
+      "date_publication": "2026-10-19T07:00:00+00:00",
+      "heure_collecte": "2026-10-19T10:13:27"
+    },
     {
       "id": 731,
       "titre": "Cameroun : sur la route Douala-Yaoundé, sept heures pour parcourir 230 kilomètres",
@@ -4144,62 +4200,6 @@
       "resume": "La confusion règne autour du calendrier des élections municipales et départementales initialement prévues en janvier 2027, qui seront probablement reportées sans que Bassirou Diomaye Faye ne s’en soit jusqu’à présent expliqué. Alors qu’il ne bénéficie plus du soutien de Pastef, le chef de l’État appréhenderait-il cette confrontation électorale à haut risque au point de chercher à l’ajourner ?",
       "date_publication": "2026-09-18T19:04:43+00:00",
       "heure_collecte": "2026-09-18T18:11:16"
-    },
-    {
-      "id": 435,
-      "titre": "Les marchés de capitaux, grands gagnants de l’IPO Dangote",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844446/economie-entreprises/les-marches-de-capitaux-grands-gagnants-de-lipo-dangote/",
-      "resume": "Avec l’entrée en Bourse de sa raffinerie, Dangote entend mettre les épargnants nigérians au cœur de l’essor industriel du pays. Mais l’opération teste aussi la capacité du Nigeria à faire de Lagos une place financière de premier plan.",
-      "date_publication": "2026-09-18T18:31:29+00:00",
-      "heure_collecte": "2026-09-18T18:11:16"
-    },
-    {
-      "id": 436,
-      "titre": "Niger : qui sont les personnalités déchues de leur nationalité par Abdourahamane Tiani ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844579/politique/niger-qui-sont-les-personnalites-dechues-de-leur-nationalite-par-abdourahamane-tiani/",
-      "resume": "Le chef de la junte a déchu provisoirement de leur nationalité cinq de ses compatriotes, parmi lesquels plusieurs anciens responsables du régime de Mohamed Bazoum. Une mesure qui intervient moins de trois semaines après les événements du 29 août à Niamey.",
-      "date_publication": "2026-09-18T17:45:18+00:00",
-      "heure_collecte": "2026-09-18T18:11:16"
-    },
-    {
-      "id": 437,
-      "titre": "Transport maritime : Hapag-Lloyd et DP World, la revanche africaine des outsiders",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844555/economie-entreprises/transport-maritime-hapag-lloyd-et-dp-world-la-revanche-africaine-des-outsiders/",
-      "resume": "Le cinquième armateur mondial et l’opérateur portuaire émirati scellent une collaboration sur le long terme dans cinq ports africains, qui doit apporter un peu plus de visibilité au premier et de respectabilité au second.",
-      "date_publication": "2026-09-18T17:07:41+00:00",
-      "heure_collecte": "2026-09-18T18:11:16"
-    },
-    {
-      "id": 432,
-      "titre": "Ambassades et liaisons aériennes : à New York, le Maroc et Israël renforcent leurs liens",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844496/politique/ambassades-et-liaisons-aeriennes-a-new-york-le-maroc-et-israel-renforcent-leurs-liens/",
-      "resume": "Lors d’une rencontre à trois incluant l’ambassadeur américain aux Nations unies, les ministres marocain et israélien des Affaires étrangères ont notamment décidé de transformer leurs représentations diplomatiques en véritables ambassades.",
-      "date_publication": "2026-09-18T14:33:00+00:00",
-      "heure_collecte": "2026-09-18T14:51:33"
     }
   ]
 }
