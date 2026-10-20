@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-20T11:11:40",
+  "generated_at": "2026-10-20T15:48:28",
   "items": [
+    {
+      "id": 751,
+      "titre": "Massacre au Mali : l’État islamique s’attaque à la communauté idaksahak dans la région de Ménaka",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854056/politique/massacre-au-mali-letat-islamique-sattaque-a-la-communaute-idaksahak-dans-la-region-de-menaka/",
+      "resume": "L’attaque terroriste de l’État islamique a coûté la vie à au moins 48 civils dans la région de Ménaka, au Mali. Ce massacre, visant la communauté idaksahak et perpétré en représailles aux opérations militaires, marque une tragique escalade.",
+      "date_publication": "2026-10-20T16:10:06+00:00",
+      "heure_collecte": "2026-10-20T15:48:02"
+    },
     {
       "id": 743,
       "titre": "Mines, télécoms, usines… Les industriels africains réussiront-ils à se passer du diesel ?",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1844438/politique/legislatives-au-maroc-la-reforme-du-code-de-la-famille-grand-absent-de-la-campagne/",
       "resume": "À quelques jours des législatives du 23 septembre, les féministes de Kif Mama Kif Baba ont passé au crible les programmes de huit partis sur trois sujets sensibles du Code de la famille. Leur constat : les engagements précis restent rares.",
       "date_publication": "2026-09-21T07:58:00+00:00",
-      "heure_collecte": "2026-09-21T06:59:59"
-    },
-    {
-      "id": 452,
-      "titre": "Cameroun : face à l’aile dure du pouvoir, le dialogue politique est-il encore possible ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1843675/politique/cameroun-face-a-laile-dure-du-pouvoir-le-dialogue-politique-est-il-encore-possible/",
-      "resume": "Une semaine après la démission surprise de Maurice Kamto, une partie du Cameroun s’interroge sur l’avenir de son opposition. Derrière cet événement se dessine un tableau alarmant : celui d’un espace démocratique qui se rétrécit.",
-      "date_publication": "2026-09-21T07:02:00+00:00",
       "heure_collecte": "2026-09-21T06:59:59"
     }
   ]
