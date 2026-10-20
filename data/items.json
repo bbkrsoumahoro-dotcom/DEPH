@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-20T15:48:28",
+  "generated_at": "2026-10-20T19:55:28",
   "items": [
+    {
+      "id": 752,
+      "titre": "Abidjan-Paris : le tandem Air France-Air Côte d’Ivoire resserre l’étau autour de Corsair",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853978/economie-entreprises/abidjan-paris-le-tandem-air-france-air-cote-divoire-resserre-letau-autour-de-corsair/",
+      "resume": "En mutualisant la commercialisation de leurs vols entre Paris et Abidjan, Air France et Air Côte d’Ivoire renforcent leur offre sans ajouter de fréquences. Cette alliance commerciale accentue la pression sur Corsair, seul concurrent direct des deux partenaires sur cette ligne.",
+      "date_publication": "2026-10-20T19:25:32+00:00",
+      "heure_collecte": "2026-10-20T19:55:06"
+    },
+    {
+      "id": 753,
+      "titre": "En Guinée-Bissau, la junte cherche-t-elle à évincer Embaló ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853846/politique/en-guinee-bissau-la-junte-cherche-t-elle-a-evincer-embalo/",
+      "resume": "Hier soupçonné par l’opposition d’être de mèche avec les putschistes qui l’avaient pourtant renversé, l’ex-président Umaro Sissoco Embaló se retrouve aujourd’hui empêché de regagner Bissau, sur fond de purge parmi ses proches et de report sine die de la présidentielle.",
+      "date_publication": "2026-10-20T18:52:38+00:00",
+      "heure_collecte": "2026-10-20T19:55:06"
+    },
     {
       "id": 751,
       "titre": "Massacre au Mali : l’État islamique s’attaque à la communauté idaksahak dans la région de Ménaka",
@@ -4172,34 +4200,6 @@
       "resume": "Pastef y a fait le plein de voix lors de la présidentielle et des législatives, en 2024. Deux ans plus tard, nombre d’élus et d’habitants de Keur Massar, département stratégique de l’est de la région de Dakar, semblent déchanter. Mais les jeux sont loin d’être faits.",
       "date_publication": "2026-09-21T11:53:32+00:00",
       "heure_collecte": "2026-09-21T13:57:29"
-    },
-    {
-      "id": 450,
-      "titre": "Air Sénégal : jusqu’où l’État pourra-t-il maintenir sa perfusion ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1838853/economie-entreprises/air-senegal-jusquou-letat-pourra-t-il-maintenir-sa-perfusion/",
-      "resume": "Retards, avions saisis, ligne New York fermée : Air Sénégal accumule les déboires. Derrière le naufrage opérationnel se pose une question centrale : qui financera les neuf Boeing 737 MAX commandés pour relancer la compagnie ?",
-      "date_publication": "2026-09-21T08:24:29+00:00",
-      "heure_collecte": "2026-09-21T06:59:59"
-    },
-    {
-      "id": 451,
-      "titre": "Législatives au Maroc : la réforme du Code de la famille, grand absent de la campagne",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844438/politique/legislatives-au-maroc-la-reforme-du-code-de-la-famille-grand-absent-de-la-campagne/",
-      "resume": "À quelques jours des législatives du 23 septembre, les féministes de Kif Mama Kif Baba ont passé au crible les programmes de huit partis sur trois sujets sensibles du Code de la famille. Leur constat : les engagements précis restent rares.",
-      "date_publication": "2026-09-21T07:58:00+00:00",
-      "heure_collecte": "2026-09-21T06:59:59"
     }
   ]
 }
