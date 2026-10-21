@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-21T01:53:25",
+  "generated_at": "2026-10-21T07:18:58",
   "items": [
+    {
+      "id": 754,
+      "titre": "Face à Ethiopian Airlines, le périlleux redressement de Kenya Airways et South African Airways",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854164/economie-entreprises/face-a-ethiopian-airlines-le-perilleux-redressement-de-kenya-airways-et-south-african-airways/",
+      "resume": "Dans l’ombre d’Ethiopian Airlines, les deux entreprises suivent des voies contrastées et fragiles vers la viabilité financière, tout en s’efforçant d’attirer des investisseurs stratégiques.",
+      "date_publication": "2026-10-21T07:55:00+00:00",
+      "heure_collecte": "2026-10-21T07:18:37"
+    },
+    {
+      "id": 755,
+      "titre": "Cameroun : comment le schisme entre Nourane Foster et Cabral Libii fragilise le PCRN à Douala",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1850682/politique/cameroun-comment-le-schisme-entre-nourane-foster-et-cabral-libii-fragilise-le-pcrn-a-douala/",
+      "resume": "Élue en 2020 sous les couleurs du PCRN de Cabral Libii, Nourane Foster en a claqué la porte fin septembre, entraînant une partie des militants de Douala. À quelques mois des législatives, elle menace désormais son ancien parti dans son fief.",
+      "date_publication": "2026-10-21T06:55:00+00:00",
+      "heure_collecte": "2026-10-21T07:18:37"
+    },
     {
       "id": 752,
       "titre": "Abidjan-Paris : le tandem Air France-Air Côte d’Ivoire resserre l’étau autour de Corsair",
@@ -4171,34 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1844575/economie-entreprises/comment-la-banque-europeenne-dinvestissement-repense-sa-strategie-africaine/",
       "resume": "Avec 3 milliards d’euros investis en Afrique en 2025, la Banque européenne d’investissement tient le cap dans un contexte de baisse structurelle de l’aide au développement. Elle joue désormais la carte géopolitique face à la Chine et aux fonds du Golfe.",
       "date_publication": "2026-09-21T13:29:38+00:00",
-      "heure_collecte": "2026-09-21T13:57:29"
-    },
-    {
-      "id": 455,
-      "titre": "Maroc-Algérie : deux diplomaties à l’offensive en Mauritanie",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1844576/politique/maroc-algerie-deux-diplomaties-a-loffensive-en-mauritanie/",
-      "resume": "Routes, commerce, énergie, sécurité, Sahel… Rabat et Alger redoublent d’attention envers leur voisin mauritanien. À la manœuvre, Nasser Bourita et Ahmed Attaf incarnent deux diplomaties et deux projets régionaux concurrents. Face à eux, Nouakchott cultive méthodiquement l’art de ne pas choisir.",
-      "date_publication": "2026-09-21T12:32:00+00:00",
-      "heure_collecte": "2026-09-21T13:57:29"
-    },
-    {
-      "id": 456,
-      "titre": "Municipales 2027 au Sénégal : Keur Massar va-t-il se retourner contre Diomaye Faye et Sonko ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1839310/politique/municipales-2027-au-senegal-keur-massar-va-t-il-se-retourner-contre-diomaye-faye-et-sonko/",
-      "resume": "Pastef y a fait le plein de voix lors de la présidentielle et des législatives, en 2024. Deux ans plus tard, nombre d’élus et d’habitants de Keur Massar, département stratégique de l’est de la région de Dakar, semblent déchanter. Mais les jeux sont loin d’être faits.",
-      "date_publication": "2026-09-21T11:53:32+00:00",
       "heure_collecte": "2026-09-21T13:57:29"
     }
   ]
