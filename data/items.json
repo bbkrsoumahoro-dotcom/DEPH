@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-22T11:27:16",
+  "generated_at": "2026-10-22T16:00:16",
   "items": [
+    {
+      "id": 768,
+      "titre": "Jusqu’où ira l’expansion des boulangeries Paul en Afrique ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854400/economie-entreprises/jusquou-ira-lexpansion-des-boulangeries-paul-en-afrique/",
+      "resume": "Après avoir franchi le cap des 100 établissements sur le continent, l’enseigne française prépare son arrivée dans cinq nouveaux marchés d’ici à la fin de 2027. Mais elle doit composer avec une concurrence croissante et des contraintes logistiques, réglementaires et monétaires accrues.",
+      "date_publication": "2026-10-22T17:56:13+00:00",
+      "heure_collecte": "2026-10-22T15:59:51"
+    },
+    {
+      "id": 769,
+      "titre": "La France a-t-elle vraiment « imploré » Alger d’augmenter ses livraisons de gaz et de pétrole ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854752/politique/la-france-a-t-elle-vraiment-implore-alger-daugmenter-ses-livraisons-de-gaz-et-de-petrole/",
+      "resume": "Alors que certains en France assurent que des « ingérences étrangères » sont responsables des violences commises en marge des manifestations du 27 octobre, une autre rumeur, née sur un site spécialisé, fait la joie de la presse algérienne.",
+      "date_publication": "2026-10-22T17:06:53+00:00",
+      "heure_collecte": "2026-10-22T15:59:51"
+    },
+    {
+      "id": 770,
+      "titre": "Un Français soupçonné d’espionnage arrêté en Guinée équatoriale",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854856/politique/un-francais-soupconne-despionnage-arrete-en-guinee-equatoriale/",
+      "resume": "Arrêté près du Cameroun, l’ex-militaire français est accusé d’espionnage par la Guinée équatoriale. Malabo affirme avoir tracé des échanges avec un groupe d’opposition classé « terroriste » par les autorités équato-guinéennes.",
+      "date_publication": "2026-10-22T16:49:48+00:00",
+      "heure_collecte": "2026-10-22T15:59:51"
+    },
+    {
+      "id": 771,
+      "titre": "Charafat Afilal, une voix qui porte au ministère marocain de l’Énergie",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854561/politique/charafat-afilal-une-voix-qui-porte-au-ministere-marocain-de-lenergie/",
+      "resume": "Huit ans après une éviction aussi soudaine que controversée, Charafat Afilal retrouve les fauteuils du gouvernement, avec un portefeuille autrement stratégique que celui qu’elle avait quitté. Portrait d’une camarade du PPS qui connaît les rouages de l’administration autant que les chausse-trappes de la politique marocaine.",
+      "date_publication": "2026-10-22T13:52:32+00:00",
+      "heure_collecte": "2026-10-22T15:59:51"
+    },
     {
       "id": 763,
       "titre": "10 choses à savoir sur Mohamed Ould Abdel Vetah, le « Monsieur pétrole » de Ghazouani",
@@ -4144,62 +4200,6 @@
       "resume": "Depuis sa rupture avec son Premier ministre, Ousmane Sonko, dont il avait été le bras droit, le chef de l’État sénégalais est sous le feu des critiques de ses anciens alliés Pastef. Après avoir conquis le pouvoir ensemble, les deux ex-partenaires en appellent désormais au verdict des urnes.",
       "date_publication": "2026-09-23T07:00:00+00:00",
       "heure_collecte": "2026-09-23T09:27:20"
-    },
-    {
-      "id": 470,
-      "titre": "Cameroun : comment Louis-Paul Motaze prépare le terrain en vue d’un accord avec le FMI",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "orange",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1845208/economie-entreprises/cameroun-comment-louis-paul-motaze-prepare-le-terrain-en-vue-dun-accord-avec-le-fmi/",
-      "resume": "Nouveau programme avec le FMI, emprunt obligataire, roadshow à Londres : Yaoundé cherche des financements sur tous les fronts. Mais les conditions posées par le Fonds restent loin d’être toutes remplies.",
-      "date_publication": "2026-09-23T08:30:46+00:00",
-      "heure_collecte": "2026-09-23T09:27:19"
-    },
-    {
-      "id": 471,
-      "titre": "Cameroun : la « bamiphobie », un débat qui continue de déchirer le pays",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1718899/politique/le-cameroun-de-paul-biya-est-il-vraiment-bamiphobe/",
-      "resume": "Au Cameroun, le débat sur la « bamiphobie », un terme popularisé par l’écrivain Patrice Nganang et qui désigne la discrimination des Bamilékés, continue de faire rage. L’opposant Alain Fogué l’a relancé depuis sa cellule de la prison de Kondengui.",
-      "date_publication": "2026-09-23T08:00:00+00:00",
-      "heure_collecte": "2026-09-23T09:27:19"
-    },
-    {
-      "id": 466,
-      "titre": "Côte d’Ivoire : tout comprendre au mandat d’arrêt contre Habiba Touré, proche de Laurent Gbagbo",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "bleu",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1845297/politique/cote-divoire-tout-comprendre-au-mandat-darret-contre-habiba-toure-proche-de-laurent-gbagbo/",
-      "resume": "Dévoilée par le procureur à la surprise générale, la mesure de justice visant Habiba Touré n’avait pas encore été rendue publique. Quand la Côte d’Ivoire a-t-elle saisi la France où la porte-parole du PPA-CI réside ? Risque-t-elle l’extradition ? Décryptage.",
-      "date_publication": "2026-09-22T19:29:02+00:00",
-      "heure_collecte": "2026-09-22T17:42:32"
-    },
-    {
-      "id": 467,
-      "titre": "Côte d’Ivoire : la stratégie d’Abidjan pour encadrer le secteur de l’or",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1845327/economie-entreprises/cote-divoire-la-strategie-dabidjan-pour-formaliser-le-secteur-de-lor/",
-      "resume": "Alors que le secteur aurifère est en plein essor en Côte d’Ivoire, l’exécutif a lancé un volet de mesures pour mettre fin à l’orpaillage illégal et réglementer les mines artisanales. Un chantier aux multiples enjeux.",
-      "date_publication": "2026-09-22T19:19:27+00:00",
-      "heure_collecte": "2026-09-22T17:42:32"
     }
   ]
 }
