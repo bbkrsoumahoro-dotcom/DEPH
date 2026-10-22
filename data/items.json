@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-22T16:00:16",
+  "generated_at": "2026-10-22T19:59:04",
   "items": [
+    {
+      "id": 772,
+      "titre": "Sénégal : les commissions d’enquête parlementaires de Pastef, outil de reddition des comptes ou théâtralisation politique ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854732/politique/senegal-les-commissions-denquete-parlementaires-de-pastef-outil-de-reddition-des-comptes-ou-theatralisation-politique/",
+      "resume": "Sous l’impulsion d’Ousmane Sonko, 11 commissions d’enquête parlementaires ont déjà commencé leurs travaux ou le feront bientôt afin de scruter d’éventuels manquements financiers qui remontent, pour la plupart, à la présidence de Macky Sall. Au risque de transformer l’Assemblée nationale en un tribunal partisan ?",
+      "date_publication": "2026-10-22T18:28:16+00:00",
+      "heure_collecte": "2026-10-22T19:58:45"
+    },
     {
       "id": 768,
       "titre": "Jusqu’où ira l’expansion des boulangeries Paul en Afrique ?",
@@ -4186,20 +4200,6 @@
       "resume": "Figure de la société civile nigérienne, Abdourahamane Lirwana a été incarcéré mardi à la prison civile de Niamey pour « diffusion de données de nature à troubler l’ordre public », après des publications sur les réseaux sociaux.",
       "date_publication": "2026-09-23T09:09:09+00:00",
       "heure_collecte": "2026-09-23T14:21:09"
-    },
-    {
-      "id": 472,
-      "titre": "Au Sénégal, Bassirou Diomaye Faye, un président confronté à un procès en « trahison »",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1842774/politique/au-senegal-bassirou-diomaye-faye-un-president-confronte-a-un-proces-en-trahison/",
-      "resume": "Depuis sa rupture avec son Premier ministre, Ousmane Sonko, dont il avait été le bras droit, le chef de l’État sénégalais est sous le feu des critiques de ses anciens alliés Pastef. Après avoir conquis le pouvoir ensemble, les deux ex-partenaires en appellent désormais au verdict des urnes.",
-      "date_publication": "2026-09-23T07:00:00+00:00",
-      "heure_collecte": "2026-09-23T09:27:20"
     }
   ]
 }
