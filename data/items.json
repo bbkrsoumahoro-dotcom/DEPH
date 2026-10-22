@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-22T19:59:04",
+  "generated_at": "2026-10-22T23:14:20",
   "items": [
+    {
+      "id": 773,
+      "titre": "Katiola : Sangafowa-Coulibaly pose la premiĂšre pierre de la centrale solaire photovoltaĂŻque de 50 MWc",
+      "categorie": "hydrocarbures",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
+      "url": "https://www.energie.gouv.ci/actualite/katiola-sangafowa-coulibaly-pose-la-premiere-pierre-de-la-centrale-solaire-photovoltaique-de-50-mwc-6ada8d76217b5",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-10-22T23:13:54"
+    },
     {
       "id": 772,
       "titre": "Sénégal : les commissions d’enquête parlementaires de Pastef, outil de reddition des comptes ou théâtralisation politique ?",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1845096/economie-entreprises/rdc-baraka-kabemba-le-consultant-qui-veut-doper-les-revenus-de-la-gecamines/",
       "resume": "Ancien associé d’EY et familier des partenariats miniers de la Gécamines, Baraka Kabemba a pris les commandes de l’entreprise publique en janvier 2026 avec l’objectif de mieux valoriser ses actifs.",
       "date_publication": "2026-09-23T12:29:14+00:00",
-      "heure_collecte": "2026-09-23T14:21:09"
-    },
-    {
-      "id": 478,
-      "titre": "Au Niger, l’avocat et activiste Abdourahamane Lirwana écroué après avoir évoqué les dissensions au sein de l’armée",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1845506/politique/au-niger-lavocat-et-activiste-abdourahamane-lirwana-ecroue-apres-avoir-evoque-les-dissensions-au-sein-de-larmee/",
-      "resume": "Figure de la société civile nigérienne, Abdourahamane Lirwana a été incarcéré mardi à la prison civile de Niamey pour « diffusion de données de nature à troubler l’ordre public », après des publications sur les réseaux sociaux.",
-      "date_publication": "2026-09-23T09:09:09+00:00",
       "heure_collecte": "2026-09-23T14:21:09"
     }
   ]
