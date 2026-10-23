@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-23T17:47:43",
+  "generated_at": "2026-10-23T21:12:26",
   "items": [
+    {
+      "id": 785,
+      "titre": "Centrale de Tongon : le ministre Sangafowa-Coulibaly rÃĐserve en prioritÃĐ les emplois aux enfants de M'BenguÃĐ",
+      "categorie": "hydrocarbures",
+      "pays": "Côte d'Ivoire",
+      "zone": "ci",
+      "priorite": "vert",
+      "fiabilite": "confirme",
+      "source": "Ministère des Mines, du Pétrole et de l'Énergie (CI)",
+      "url": "https://www.energie.gouv.ci/actualite/centrale-de-tongon-le-ministre-sangafowa-coulibaly-reserve-en-priorite-les-emplois-aux-enfants-de-mbengue-6adbc0088a6f2",
+      "resume": "",
+      "date_publication": "",
+      "heure_collecte": "2026-10-23T21:11:42"
+    },
     {
       "id": 782,
       "titre": "RDC : entre le référendum de Tshisekedi et la rébellion de Kabila, la C64 cherche sa place",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1845262/economie-entreprises/mines-comment-la-chine-a-mis-la-main-sur-le-lithium-africain/",
       "resume": "Du Zimbabwe au Mali en passant par le Ghana et la RDC, les groupes chinois s’imposent comme les maîtres du lithium africain. Le secret de cette hégémonie : une stratégie industrielle et financière menée selon des méthodes bien éprouvées.",
       "date_publication": "2026-09-24T08:33:17+00:00",
-      "heure_collecte": "2026-09-24T11:34:48"
-    },
-    {
-      "id": 490,
-      "titre": "Côte d’Ivoire : Meyliet Koné, Beugré Mambé, Birahima Ouattara, le trio au cœur du pouvoir",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1841549/politique/cote-divoire-meyliet-kone-beugre-mambe-birahima-ouattara-le-trio-au-coeur-du-pouvoir/",
-      "resume": "Vice-président, Premier ministre et vice-Premier ministre ; trois hommes, trois fonctions, une même loyauté. Alassane Ouattara a redistribué les rôles sans bousculer la hiérarchie et dispose désormais d’un premier cercle de confiance pour le seconder. Et lui succéder ?",
-      "date_publication": "2026-09-24T08:07:46+00:00",
       "heure_collecte": "2026-09-24T11:34:48"
     }
   ]
