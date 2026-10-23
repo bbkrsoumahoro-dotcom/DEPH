@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-23T12:47:52",
+  "generated_at": "2026-10-23T17:47:43",
   "items": [
+    {
+      "id": 782,
+      "titre": "RDC : entre le référendum de Tshisekedi et la rébellion de Kabila, la C64 cherche sa place",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1855033/politique/rdc-entre-le-referendum-de-tshisekedi-et-la-rebellion-de-kabila-la-c64-cherche-sa-place/",
+      "resume": "Prise en étau entre deux camps qu’elle rejette, la coalition d’opposition tente d’établir une troisième voie. Ses leaders ont rendez-vous le 25 octobre, à Rome, pour leur première réunion commune avant d’entamer une tournée européenne.",
+      "date_publication": "2026-10-23T18:40:36+00:00",
+      "heure_collecte": "2026-10-23T17:47:23"
+    },
+    {
+      "id": 783,
+      "titre": "Carburant : le Niger cherche des leviers pour sortir de la crise",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854691/economie-entreprises/carburant-le-niger-cherche-des-leviers-pour-sortir-de-la-crise/",
+      "resume": "Confronté à une sévère pénurie de carburants, le Niger a suspendu ses exportations d’essence et de gasoil. Mais, entre hausse des coûts d’importation et bras de fer fiscal avec les pétroliers chinois, il est difficile de sortir de l’ornière.",
+      "date_publication": "2026-10-23T18:22:42+00:00",
+      "heure_collecte": "2026-10-23T17:47:23"
+    },
+    {
+      "id": 784,
+      "titre": "Le Parlement algérien convoqué en urgence : s’achemine-t-on vers une intervention au Niger ?",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "rouge",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1855074/politique/le-parlement-algerien-convoque-en-urgence-sachemine-t-on-vers-une-intervention-au-niger/",
+      "resume": "Députés et sénateurs algériens seront convoqués en urgence ce dimanche 25 octobre et, si l’objet de cette réunion n’est pas précisé, tout porte à croire qu’il s’agit de leur faire valider l’envoi de troupes au Niger, en accord avec le pouvoir de Niamey.",
+      "date_publication": "2026-10-23T15:02:05+00:00",
+      "heure_collecte": "2026-10-23T17:47:23"
+    },
     {
       "id": 777,
       "titre": "Emmanuel Macron annule sa visite prévue au Nigeria et au Sénégal",
@@ -4158,48 +4200,6 @@
       "resume": "Vice-président, Premier ministre et vice-Premier ministre ; trois hommes, trois fonctions, une même loyauté. Alassane Ouattara a redistribué les rôles sans bousculer la hiérarchie et dispose désormais d’un premier cercle de confiance pour le seconder. Et lui succéder ?",
       "date_publication": "2026-09-24T08:07:46+00:00",
       "heure_collecte": "2026-09-24T11:34:48"
-    },
-    {
-      "id": 491,
-      "titre": "Cameroun : le 24 octobre 2020, le bruit et la fureur s’abattaient sur Kumba",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1069458/politique/crise-anglophone-au-cameroun-le-jour-ou-le-bruit-et-la-fureur-se-sont-abattus-sur-kumba/",
-      "resume": "Le 24 octobre 2020, sept enfants étaient tués par balles dans leur salle de classe, à Kumba, dans le Sud-Ouest. Retour sur ce massacre, qui reste l’un des épisodes les plus sombres de la crise anglophone qui endeuille le Cameroun depuis dix ans.",
-      "date_publication": "2026-09-24T07:00:00+00:00",
-      "heure_collecte": "2026-09-24T11:34:48"
-    },
-    {
-      "id": 479,
-      "titre": "Est de la RDC : entre le Rwanda et la Belgique, une réconciliation qui vient de loin",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1845864/politique/est-de-la-rdc-entre-le-rwanda-et-la-belgique-une-reconciliation-qui-vient-de-loin/",
-      "resume": "Le Rwanda avait rompu ses relations avec la Belgique le 17 mars 2025 après l’avoir accusée d’avoir pris le parti de Kinshasa dans le conflit à l’est de la RDC. Les deux pays privilégient désormais le dialogue.",
-      "date_publication": "2026-09-23T20:06:50+00:00",
-      "heure_collecte": "2026-09-23T18:32:16"
-    },
-    {
-      "id": 480,
-      "titre": "Maroc : le géant OCP poursuit sa réorganisation dans un contexte de chocs géopolitiques",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1845870/economie-entreprises/maroc-le-geant-ocp-poursuit-sa-reorganisation-dans-un-contexte-de-chocs-geopolitiques/",
-      "resume": "Quelques mois après sa réorganisation d’avril, OCP procède à de nouveaux ajustements à sa tête. Hicham El Habti hérite notamment du poste de secrétaire général. Coulisses.",
-      "date_publication": "2026-09-23T19:53:43+00:00",
-      "heure_collecte": "2026-09-23T18:32:16"
     }
   ]
 }
