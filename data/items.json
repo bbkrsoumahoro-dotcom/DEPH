@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-24T09:02:30",
+  "generated_at": "2026-10-24T13:30:59",
   "items": [
+    {
+      "id": 790,
+      "titre": "La fabrique de l’info : les dessous de l’enquête sur la guerre des drones au Mali",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1854823/politique/la-fabrique-de-linfo-les-dessous-de-lenquete-sur-la-guerre-des-drones-au-mali/",
+      "resume": "Jeune Afrique vous dévoile les coulisses de son enquête sur les attaques de drones au Mali, des frappes menées par l’armée et les Russes d’Africa Corps. Pendant six mois, des preuves ont été récoltées pour tenter de vérifier méticuleusement chacun de ces bombardements, dont au moins un quart fait des victimes civiles.",
+      "date_publication": "2026-10-24T11:47:45+00:00",
+      "heure_collecte": "2026-10-24T13:30:37"
+    },
     {
       "id": 786,
       "titre": "Raffinerie de Lamu : le Kenya prêt à accorder un monopole sur les carburants à Aliko Dangote ?",
@@ -4185,20 +4199,6 @@
       "url": "https://www.jeuneafrique.com/1845709/economie-entreprises/gabon-10-choses-a-savoir-sur-issempedjeno-ngaka-nouveau-patron-de-la-comilog/",
       "resume": "En pleine restructuration, le groupe Eramet confie les rênes de sa filiale gabonaise à un ingénieur venu du secteur pétrolier. Portrait.",
       "date_publication": "2026-09-24T12:28:04+00:00",
-      "heure_collecte": "2026-09-24T11:34:48"
-    },
-    {
-      "id": 485,
-      "titre": "Maroc : après les urnes, quelle majorité pour quelles priorités ?",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1846038/politique/maroc-apres-les-urnes-quelle-majorite-pour-quelles-priorites/",
-      "resume": "Si les trois partis de la majorité sortante sont arrivés en tête des législatives, l’élection pose plusieurs questions du fait du fort taux d’abstention et de la remontée du PJD. Au-delà des contours de la future coalition, les défis à relever seront nombreux pour le nouveau gouvernement.",
-      "date_publication": "2026-09-24T11:54:25+00:00",
       "heure_collecte": "2026-09-24T11:34:48"
     }
   ]
