@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-24T13:30:59",
+  "generated_at": "2026-10-24T16:54:43",
   "items": [
+    {
+      "id": 791,
+      "titre": "Élections de mi-mandat aux États-Unis : ce qu’une victoire démocrate changerait pour l’Afrique",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "orange",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1855086/politique/elections-de-mi-mandat-aux-etats-unis-ce-quune-victoire-democrate-changerait-pour-lafrique/",
+      "resume": "Des coupes dans l’aide internationale aux accords sur les minerais stratégiques, une victoire des démocrates au Congrès pourrait compliquer la politique africaine de Donald Trump et renforcer le contrôle exercé sur son administration.",
+      "date_publication": "2026-10-24T16:43:31+00:00",
+      "heure_collecte": "2026-10-24T16:54:22"
+    },
+    {
+      "id": 792,
+      "titre": "Au Sénégal, Pastef rejette le budget rectificatif",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1855502/economie-entreprises/au-senegal-pastef-rejette-le-budget-rectificatif/",
+      "resume": "Alors que le pays fait face à une dette équivalente à 132 % du PIB, le parti d’Ousmane Sonko a rejeté le budget rectificatif en commission. Il dénonce notamment les coupes dans les dépenses sociales et appelle à la protection du pouvoir d’achat des Sénégalais.",
+      "date_publication": "2026-10-24T16:40:19+00:00",
+      "heure_collecte": "2026-10-24T16:54:22"
+    },
+    {
+      "id": 793,
+      "titre": "Est de la RDC : comment l’AFC/M23 s’est enrichi grâce au business de la bière",
+      "categorie": "hydrocarbures",
+      "pays": "Afrique",
+      "zone": "afrique",
+      "priorite": "vert",
+      "fiabilite": "a_confirmer",
+      "source": "Jeune Afrique — Économie",
+      "url": "https://www.jeuneafrique.com/1853923/politique/est-de-la-rdc-comment-lafc-m23-sest-enrichi-grace-au-business-de-la-biere/",
+      "resume": "Les rebelles soutenus par le Rwanda engrangent des millions grâce au commerce de la bière en RDC, favorisant les brasseries rwandaises tout en étouffant leurs concurrents burundais. Décryptage en infographies.",
+      "date_publication": "2026-10-24T12:15:00+00:00",
+      "heure_collecte": "2026-10-24T16:54:22"
+    },
     {
       "id": 790,
       "titre": "La fabrique de l’info : les dessous de l’enquête sur la guerre des drones au Mali",
@@ -4158,48 +4200,6 @@
       "resume": "",
       "date_publication": "",
       "heure_collecte": "2026-09-24T11:34:58"
-    },
-    {
-      "id": 493,
-      "titre": "- AMI /005/NEDA/2026 AUDIT NEDA",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.cinergies.ci/2026/07/14/ami-005-neda-2026-audit-neda/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-09-24T11:34:58"
-    },
-    {
-      "id": 494,
-      "titre": "- TDR - AMI /005/NEDA/2026 AUDIT NEDA",
-      "categorie": "energie",
-      "pays": "Côte d'Ivoire",
-      "zone": "ci",
-      "priorite": "vert",
-      "fiabilite": "confirme",
-      "source": "CI-ENERGIES",
-      "url": "https://www.cinergies.ci/2026/07/14/tdr-ami-005-neda-2026-audit-neda/",
-      "resume": "",
-      "date_publication": "",
-      "heure_collecte": "2026-09-24T11:34:58"
-    },
-    {
-      "id": 484,
-      "titre": "Gabon : 10 choses à savoir sur Issempedjeno Ngaka, nouveau patron de la Comilog",
-      "categorie": "hydrocarbures",
-      "pays": "Afrique",
-      "zone": "afrique",
-      "priorite": "vert",
-      "fiabilite": "a_confirmer",
-      "source": "Jeune Afrique — Économie",
-      "url": "https://www.jeuneafrique.com/1845709/economie-entreprises/gabon-10-choses-a-savoir-sur-issempedjeno-ngaka-nouveau-patron-de-la-comilog/",
-      "resume": "En pleine restructuration, le groupe Eramet confie les rênes de sa filiale gabonaise à un ingénieur venu du secteur pétrolier. Portrait.",
-      "date_publication": "2026-09-24T12:28:04+00:00",
-      "heure_collecte": "2026-09-24T11:34:48"
     }
   ]
 }
